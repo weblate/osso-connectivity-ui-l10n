@@ -1,0 +1,119 @@
+Source: osso-connectivity-ui-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-connectivity-ui-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-connectivity-ui-l10n-mr
+Depends: osso-connectivity-ui-l10n-ruru, osso-connectivity-ui-l10n-frfr, osso-connectivity-ui-l10n-frca, osso-connectivity-ui-l10n-dadk, osso-connectivity-ui-l10n-itit, osso-connectivity-ui-l10n-svse, osso-connectivity-ui-l10n-nono, osso-connectivity-ui-l10n-fifi, osso-connectivity-ui-l10n-nlnl, osso-connectivity-ui-l10n-enus, osso-connectivity-ui-l10n-dede, osso-connectivity-ui-l10n-esmx, osso-connectivity-ui-l10n-eses, osso-connectivity-ui-l10n-cscz, osso-connectivity-ui-l10n-ptpt, osso-connectivity-ui-l10n-engb, osso-connectivity-ui-l10n-plpl
+Description: osso-connectivity-ui marketing release package
+ This is a metapackage for osso-connectivity-ui to pull all the l10n packages.
+ Application developers of osso-connectivity-ui should depend on
+ "osso-connectivity-ui-l10n-mr0 | osso-connectivity-ui-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-connectivity-ui-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (cs_CZ)
+ Language files for cs_CZ osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (da_DK)
+ Language files for da_DK osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (de_DE)
+ Language files for de_DE osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (en_GB)
+ Language files for en_GB osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (en_US)
+ Language files for en_US osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (es_ES)
+ Language files for es_ES osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (es_MX)
+ Language files for es_MX osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (fi_FI)
+ Language files for fi_FI osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (fr_CA)
+ Language files for fr_CA osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (fr_FR)
+ Language files for fr_FR osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (it_IT)
+ Language files for it_IT osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (nl_NL)
+ Language files for nl_NL osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (no_NO)
+ Language files for no_NO osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (pl_PL)
+ Language files for pl_PL osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (pt_PT)
+ Language files for pt_PT osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (ru_RU)
+ Language files for ru_RU osso-connectivity-ui.
+
+Package: osso-connectivity-ui-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-connectivity-ui (sv_SE)
+ Language files for sv_SE osso-connectivity-ui.

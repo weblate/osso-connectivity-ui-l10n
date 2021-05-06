@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20100104144742\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Tilkoblingsadministrasjon"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Koble til"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Koble fra"
+
+msgid "conn_bd_devices_delete"
+msgstr "Slett"
+
+msgid "conn_bd_devices_edit"
+msgstr "Rediger"
+
+msgid "conn_bd_devices_new"
+msgstr "Ny"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Enheter"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Nødsamtale"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Velg"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Hopp over"
+
+msgid "conn_bd_pair"
+msgstr "Koble"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Velg kontakt"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Slett"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Deaktiver advarsel"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Koble fra nå"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Aktiver advarsel om overføring"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Teller for hjemmenettverksdata"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Teller for roaming-nettverksdata"
+
+msgid "conn_bd_receive_ok"
+msgstr "Lagre"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Slette tilkobling?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Koble fra og slette tilkoblingen %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Navn på Min enhet"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N800"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth på"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Synlig"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Bekreft nytt passord"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Tilkobling"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Nytt passord"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Gammelt passord"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Brukernavn"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Koble fra %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Skjult WLAN"
+
+msgid "conn_fi_iap_select_text"
+msgstr ""
+"Innstillinger for mobilt tilgangspunkt er mottatt fra operatøren. Velg "
+"hvilket tilgangspunkt du vil lagre. Kontakt operatøren for å få tilsendt "
+"innstillinger senere."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Ingen tilkoblinger er tilgjengelige"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(ingen sammenkoblede enheter)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Viderekobling av samtaler"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Ikke svar innen 20 sek, utilgjengelig eller opptatt"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Viderekoble til"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Samtale venter"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Mottatt"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Slettet"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Sendt"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Data overført i hjemmenettverk"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Data overført i roaming-nettverk"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Vis advarsel for hver"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Data-roaming"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Nettverksmodus"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN-kode"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN-kodeforespørsel"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Valg av nettverk"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Send anrops-ID"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Tilkoblingsinnstillinger"
+
+msgid "conn_fi_receive_device"
+msgstr "Enhet:"
+
+msgid "conn_fi_receive_file"
+msgstr "Motta fil via Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Fil:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Ukjent"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Åpne fil etter lagring"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Svar"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Slett"
+
+msgid "conn_iaps_bd_done"
+msgstr "OK"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Rediger"
+
+msgid "conn_iaps_bd_new"
+msgstr "Ny"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Tilkoblinger"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Innstillinger for mobilt tilgangspunkt er oppdatert"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Ingen programmer til å åpne denne filen med"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth aktivert"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Koblet til %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Koblet fra %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Fyll ut alle de nødvendige feltene først"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Tilkoblingsnavnet er allerede i bruk"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN-koden er riktig"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Skriv inn oppringingsnummeret først"
+
+msgid "conn_ib_enter_name"
+msgstr "Skriv inn navnet først"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Skriv inn en gyldig IP-adresse først"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Frakoblet modus er aktivert"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Sammenkobling fullført"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Kan ikke slette under tilkobling til Internett"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Feil PIN. SIM låst med PUK-kode."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Feil PIN-kode"
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Feil PIN-kode. %d forsøk igjen."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Kodene samsvarer ikke"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Feil PUK-kode. %d forsøk igjen."
+msgstr[1] "Feil PUK-kode. %d forsøk igjen."
+
+msgid "conn_ib_invalid_number"
+msgstr "Ugyldig nummer"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Maksimalt antall tegn angitt"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Maksimalt antall tegn angitt"
+
+msgid "conn_ib_min8val_req"
+msgstr "Skriv inn minst 8 tegn"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Automatisk tilkobling deaktivert"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Ingen lagrede tilkoblinger er tilgjengelige"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Det nye passordet og bekreftelsespassordet samsvarer ikke"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Det gamle passordet er feil"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Ingen aktiv tilkobling"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Ingen utgående tilkobling til telefon"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Ingen telefon sammenkoblet"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Ingen dataanropstilkoblinger lagret"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Ingen tilkoblinger lagret"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Ingen telefontilkoblinger lagret"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Ingen pakkedatatilkoblinger lagret"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Ingen WLAN-tilkoblinger lagret"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Overføringskraft for alle WLAN-tilkoblinger endret til 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Overføringskraft for alle WLAN-tilkoblinger endret til 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Valgt nettverk: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Ingen tilkobling å slette"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Ingen tilkobling å redigere"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Ingen sammenkoblede enheter"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normal modus er aktivert"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Ikke tilgjengelig når Bluetooth er deaktivert"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Bare ASCII-tegn er tillatt"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Sammenkobling avbrutt"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Mottak avbrutt"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Mottak fullført"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Sending avbrutt"
+
+msgid "conn_ib_sending_complete"
+msgstr "Sending fullført"
+
+msgid "conn_ib_settings_saved"
+msgstr "Innstillinger lagret"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Innstillingene er lagret. Kobler til på nytt."
+
+msgid "conn_ib_suspended"
+msgstr "Mobildata er ikke tilgjengelig"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Ugyldige tegn. Kontroller WEP-nøkkel."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Ugyldig WEP-nøkkellengde. Kontroller WEP-nøkkel."
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Godkjenning mislyktes"
+
+msgid "conn_in_ap_settings_equal"
+msgstr ""
+"Innstillinger for mobilt tilgangspunkt er ikke oppdatert. De mottatte "
+"innstillingene er identiske med de gjeldende innstillingene."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth-adresse:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Enhetsnavn"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Støttede profiler:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Klarert enhet"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Enhetstype:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Lyd/video"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Håndfri"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Datamaskin"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Kamera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Skriver"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "Tilgangspunkt for LAN/nettverk"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Datamaskin (bærbar)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Diverse"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Ekstern"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Tastatur"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Telefon"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Ukategorisert"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Bekreft at samme kode vises på begge enheter:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Koble sammen med enhet"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Passord"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Angi som klarert enhet"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Henter enhetsnavn"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Endre"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Velg tilkobling"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Koble fra"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Primær DNS-adresse:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Sekundær DNS-adresse:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Tilkobling:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Standard-gateway:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP-adresse:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Nettmaske:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(ingen)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP-adressedetaljer"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Ingen tilkobling"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Varighet:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Telefon:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Mottatt:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Sendt:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Signal:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Status:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Data som overføres"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Kobler til"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Tilkoblet"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s via koblingslokal IP-adresse"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internett-tilkobling:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Tilkoblingstype:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Dataanrop via telefon"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Pakkedata via telefon"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad-hoc-WLAN"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Lukk"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Hjelp"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Tilkoblingsinnstillinger"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Verktøy"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internett-tilkobling"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Endre tilkobling"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Velg tilkobling"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Koble fra"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP-adresse"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Veiviser for mobiloperatøroppsett"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Telefon"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Koble fra telefonen"
+
+msgid "conn_mngr_ti_title"
+msgstr "Tilkoblingsadministrasjon"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Godta tilkobling med enhet?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Slette enhet?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Avbryte mottak fra %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Avbryte sending til %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Internett-tilkoblingen mislyktes. Inkompatibelt WLAN-nettverk.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Sammenkoblingen mislyktes.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Sammenkoblingen mislyktes. Godkjenning mislyktes.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Sammenkoblingen mislyktes. Enheten avviste godkjenning.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Sammenkoblingen mislyktes. Enhetsressurser er overskredet.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Sammenkoblingen mislyktes. Det har ikke gått nok tid siden forrige "
+"sammenkoblingsforsøk.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Sammenkoblingen mislyktes. Tidsavbrudd for godkjenning.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Tillate data-roaming?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Hvis du endrer til denne verdien, økes strømforbruket betraktelig.\n"
+"Vil du endre likevel?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Internett-tilkoblingen mislyktes.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Godkjenning mislyktes.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"Tilkobling til enheten %s mislyktes.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Nettverkstilkoblingsfeil.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Ekstern serverfeil.\n"
+"Prøve igjen?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Vil du aktivere automatisk datatilkobling når du er utenfor nettverket til "
+"mobilleverandøren (roaming) og ingen WLAN-tilkoblinger er tilgjengelig?\n"
+"\n"
+"Hvis du velger Ja, blir det automatisk opprettet og opprettholdt en "
+"datatilkobling når roaming benyttes. Dette kan innebære tilleggskostnader. "
+"Hvis du velger Nei, får du spørsmål hver gang det er nødvendig med "
+"datatilkobling til et annet mobilnett. Du kan endre denne innstillingen "
+"senere via Innstillinger."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Vil du aktivere automatisk pakkedatatilkobling (datatilkobling til "
+"mobiltelefon) når ingen WLAN-tilkoblinger er tilgjengelig?\n"
+"\n"
+"Hvis du velger Ja, blir det automatisk opprettet og opprettholdt en "
+"pakkedatatilkobling til operatørens nettverk (hvis dette er tilgjengelig). "
+"Kontakt leverandøren av nettverkstjenesten hvis du vil ha informasjon om "
+"priser for dataoverføring. Hvis du velger Nei, får du beskjed hver gang det "
+"er behov for en pakkedatatilkobling. Du kan endre dette senere via "
+"Innstillinger."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Tilkobling til %s mislyktes"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"Internett-tilkoblingen mislyktes. Kan ikke hente IP-adresse fra server.\n"
+"Prøve igjen?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"Internett-tilkoblingen mislyktes. Kan ikke hente IP-adresse fra server. WEP-"
+"nøkkel kan være feil.\n"
+"Prøve igjen?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Kan ikke opprette nettverkstilkobling. Kontakt service."
+
+msgid "conn_ni_no_access"
+msgstr "Ingen tilgang"
+
+msgid "conn_ni_no_bt"
+msgstr "Avslutte frakoblet modus?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Mobilnett ikke tilgjengelig"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN-koden er ikke oppgitt. SIM-kortet er ikke tilgjengelig."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Det er ikke satt inn SIM-kort"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Sammenkoblingen mislyktes."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Sammenkoblingen mislyktes. Godkjenning mislyktes."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Sammenkoblingen mislyktes. Enheten avviste godkjenning."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Sammenkoblingen mislyktes. Enhetsressurser er overskredet."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr ""
+"Sammenkoblingen mislyktes. Det har ikke gått nok tid siden forrige "
+"sammenkoblingsforsøk."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Sammenkoblingen mislyktes. Tidsavbrudd for godkjenning."
+
+msgid "conn_ni_select_network"
+msgstr "Velg nettverk i telefoninnstillingene."
+
+msgid "conn_ni_sim_failure"
+msgstr ""
+"Alle telefonifunksjoner, deriblant nødsamtaler, er deaktivert på grunn av en "
+"kommunikasjonsfeil. Hvis du vil gjenopprette telefonifunksjonene, må du "
+"kanskje starte enheten på nytt."
+
+msgid "conn_ni_sim_lock"
+msgstr "Kan ikke bruke dette SIM-kortet i enheten"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "Godtar ikke SIM-kortet. Kontakt operatøren din."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "Registrering av SIM-kortet mislyktes"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM-kortet er avvist"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Kobler til %s"
+
+msgid "conn_pb_connecting"
+msgstr "Kobler til"
+
+msgid "conn_pb_pairing"
+msgstr "Kobler sammen"
+
+msgid "conn_pb_searching"
+msgstr "Søker"
+
+msgid "conn_pb_settings"
+msgstr "Henter innstillinger"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Tilkoblinger"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Spør alltid"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Alle tilkoblinger"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Koble til automatisk"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Ingen"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Søkeintervall"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Bytt til WLAN når tilgjengelig"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Avansert"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Tilkoblingstype:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN-metode"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Navn på tilgangspunkt"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Nettadresse"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Automatisk henting av IP-adresse"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Primær DNS-adresse"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Sekundær DNS-adresse"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP-adresse"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Standard-gateway"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Nettverksmaske"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Automatisk henting av DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automatisk"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad-hoc-kanal"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Strømsparing"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "På (maksimalt)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "På (middels)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Av"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "WLAN-sendeeffekt"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Bare WPA2-modus"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Ikke bruk proxy for"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Portnummer"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP-proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Automatisk konfigurasjon"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Bruk proxy"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Skriv inn passord hver gang du logger på"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Tilkoblingsnavn"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Tilkobling %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Tilkoblingsoppsettet er fullført.\n"
+"Trykk Fullfør for å lagre innstillingene, eller forkast \n"
+"dem ved å lukke dialogboksen. Trykk Avansert for å redigere de avanserte \n"
+"innstillingene."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Passord"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Pakkedata"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Søke etter tilgjengelige WLAN-nettverk?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Kan ikke søke etter tilgjengelige WLAN-nettverk i frakoblet modus.\n"
+"Angi tilkoblingen manuelt."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Trykk Neste for å fortsette"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Brukernavn"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr ""
+"Med veiviseren for tilkoblingsoppsett kan du definere en WLAN-tilkobling på "
+"enheten"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Nettverket er skjult"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Nettverksmodus"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad-hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infrastruktur"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Sikkerhetsmetode"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Ingen"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA med EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "Forhåndsdelt WPA-nøkkel"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Nettverksnavn (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Skriv inn passord hver gang du logger på"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Manuelt brukernavn"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Nettverk"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Passord"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP-metode"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Klientgodkjenning er nødvendig"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Velg sertifikat"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP-metode"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Bruk manuelt brukernavn"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Brukernavn"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP-nøkkel 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP-nøkkel 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP-nøkkel 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP-nøkkel 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Standard WEP-nøkkel"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP-nøkkellengde"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 tegn (ASCII 40/64 biter)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 tegn (HEX 40/64 biter)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 tegn (ASCII 104/128 biter)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 tegn (HEX 104/128 biter)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP-nøkkel"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP-type"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Forhåndsdelt nøkkel"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr ""
+"Trykk en knapp på den trådløse stasjonen for å gå til enkelt oppsett, og "
+"trykk OK"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Skriv inn følgende sifre på den trådløse stasjonen, og trykk OK:"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Hopp over WPS (Wi-Fi Protected Setup)"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Tilkoblingsoppsett: Avanserte innstillinger"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP-adresser"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Annet"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxyer"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Tilkoblingsoppsett: Fullført"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Tilkoblingsoppsett: Navn og type"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Tilkoblingsoppsett: Pakkedata"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Tilkoblingsoppsett: Velkommen"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Tilkoblingsoppsett: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Skriv inn WEP-nøkkel"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Oppgi forhåndsdelt nøkkel for WPA"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Skriv inn SSID for skjult nettverk"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Tilkoblingsoppsett: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Velg EAP-type"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Tilkoblingsoppsett: WEP-nøkkel"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Tilkoblingsoppsett: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Skriv inn brukernavn og passord"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Brukernavn og passord"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Tilkoblingsoppsett: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Tilkoblingsoppsett: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP-godkjenning"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Tilkoblingsoppsett: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS-godkjenning"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Tilkoblingsoppsett: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS-godkjenning"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Tilkoblingsoppsett: WPA EAP-type"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Tilkoblingsoppsett: WPA-nøkkel"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "WPS (Wi-Fi-Protected Setup)"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "PIN-metode for WPS (Wi-Fi-Protected Setup) "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internett-tilkoblinger"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Aldri"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 minutter"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 minutter"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 minutter"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 minutter"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth-enheter"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Endre EAP-MSCHAPv2-passord"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Velg tilkobling"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Koble fra eller endre tilkobling"
+
+msgid "conn_ti_device_details"
+msgstr "Enhetsdetaljer"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Skriv inn gjeldende PIN-kode"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Skriv inn ny PIN-kode"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Skriv inn PIN-kode"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Skriv inn PUK-kode"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "Angi kode for å fjerne operatørlås"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Feil PIN-kode"
+
+msgid "conn_ti_iap_select"
+msgstr "Lagre tilgangspunkt?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Skriv inn PIN-koden for tilgangspunktet"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Koble sammen med enhet"
+
+msgid "conn_ti_phone_call"
+msgstr "Anrop"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Telefon"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Hjemmenettverksdata"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Advarsel om dataoverføring"
+
+msgid "conn_ti_phone_network"
+msgstr "Nettverk"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Roaming-nettverksdata"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Velg nettverk"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM-kort"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Skriv inn ny PIN-kode igjen"
+
+msgid "conn_ti_receive"
+msgstr "Motta fil"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Angi EAP-GTC-svar"
+
+msgid "conn_ti_roaming"
+msgstr "Aktivere automatisk data-roaming?"
+
+msgid "conn_ti_select_device"
+msgstr "Velg en enhet"
+
+msgid "conn_ti_send_to_device"
+msgstr "Send til en enhet"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Vil du aktivere automatisk datatilkobling til mobilen?"
+
+msgid "conn_ti_username_pw"
+msgstr "Brukernavn og passord"
+
+msgid "conn_va_phone_clir_network"
+msgstr "La nettverket velge"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Aldri"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dobbelt"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Tillat alltid"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Spør alltid"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automatisk"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Manuelt"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Mobildata"
+
+msgid "conn_va_wps_complient"
+msgstr "Samsvar med Wi-Fi Protected Setup"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Skjult"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: synlig"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Mottar fra %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Sender til %s"
+
+msgid "stab_me_bt_off"
+msgstr "Av"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internett-tilkobling"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Ikke tilkoblet"
+
+msgid "stab_me_internet_suspended"
+msgstr "Mobildata er ikke tilgjengelig"

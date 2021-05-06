@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20100104144742\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Yhteydenhallinta"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Muod. yhteys"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Katk. yhteys"
+
+msgid "conn_bd_devices_delete"
+msgstr "Poista"
+
+msgid "conn_bd_devices_edit"
+msgstr "Muokkaa"
+
+msgid "conn_bd_devices_new"
+msgstr "Uusi"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Laitteet"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Hätäpuhelu"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Valitse"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Ohita"
+
+msgid "conn_bd_pair"
+msgstr "Liitä pariksi"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Valitse nimi"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Tyhjennä"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Ota varoitus pois käytöstä"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Katkaise yhteys nyt"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Ota siirtovaroitus käyttöön"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Kotiverkon datalaskuri"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Vieraan verkon datalaskuri"
+
+msgid "conn_bd_receive_ok"
+msgstr "Tallenna"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Poistetaanko yhteys?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Katkaistaanko ja poistetaanko yhteys %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Oman laitteen nimi"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N800"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth käytössä"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Näkyvä"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Vahvista uusi salasana"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Yhteys"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Uusi salasana"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Vanha salasana"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Käyttäjänimi"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Katkaise yhteys kohteesta %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Piilotettu WLAN"
+
+msgid "conn_fi_iap_select_text"
+msgstr ""
+"Matkapuhelimen yhteysosoiteasetukset saatiin operaattorilta. Tallenna "
+"valitsemalla yhteysosoite. Pyydä lisätietoja operaattorilta asetusten "
+"vastaanottamisesta myös jatkossa."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Ei käytettävissä olevia yhteyksiä"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(ei pariksi liitettyjä laitteita)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Soitonsiirto"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Ei vastausta 20 sekunnissa, ei käytettävissä tai varattu"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Siirrä kohteeseen"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Koputus"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Vastaanotettu"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Tyhjennetty"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Lähetetty"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Kotiverkossa siirretty data"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Vieraassa verkossa siirretty data"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Näytä varoitus"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "Mt:n välein"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Dataverkkovierailu"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Järjestelmätila"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN-koodi"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Kysy PIN-koodia"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Operaattorin valinta"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Lähetä oma numero"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Yhteysasetukset"
+
+msgid "conn_fi_receive_device"
+msgstr "Laite:"
+
+msgid "conn_fi_receive_file"
+msgstr "Vastaanotetaanko tiedosto Bluetoothin kautta?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Tiedosto:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Tuntematon"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Avaa tiedosto tallentamisen jälkeen"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s t"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s Gt"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kt"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s Mt"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Vaste"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Poista"
+
+msgid "conn_iaps_bd_done"
+msgstr "Valmis"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Muokkaa"
+
+msgid "conn_iaps_bd_new"
+msgstr "Uusi"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Yhteydet"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Matkapuhelimen yhteysosoiteasetukset päivitettiin"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Ei sovellusta tämän tiedoston avaamiseen"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth käytössä"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Yhdistetty kohteeseen %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Yhteys laitteeseen %s katkesi"
+
+msgid "conn_ib_compl_all"
+msgstr "Täytä ensin kaikki pakolliset kentät"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Yhteyden nimi on jo käytössä"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN-koodi oikein"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Kirjoita ensin valintanumero"
+
+msgid "conn_ib_enter_name"
+msgstr "Kirjoita ensin nimi"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Anna ensin voimassa oleva IP-osoite"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Offline-tila käytössä"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Pariliitos valmis"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Ei voi poistaa Internet-yhteyden aikana"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Virheellinen PIN. SIM-kortti lukittu PUK-koodilla."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Väärä PIN-koodi"
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Virheellinen PIN-koodi. %d yritystä jäljellä."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Koodit eivät täsmää"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Virheellinen PUK-koodi. %d yritys jäljellä."
+msgstr[1] "Virheellinen PUK-koodi. %d yritystä jäljellä."
+
+msgid "conn_ib_invalid_number"
+msgstr "Virheellinen numero"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Merkkejä enimmäismäärä"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Merkkejä enimmäismäärä"
+
+msgid "conn_ib_min8val_req"
+msgstr "Kirjoita vähintään 8 merkkiä"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Automaattinen yhteydenmuodostus ei ole käytössä"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Ei käytettävissä olevia tallennettuja yhteyksiä"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Uusi salasana ja vahvistettu salasana eivät täsmää"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Vanha salasana on virheellinen"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Ei avoimia yhteyksiä"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Ei meneillään olevaa yhteyttä puhelimeen"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Ei pariksi liitettyjä puhelimia"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Ei tallennettuja datapuheluyhteyksiä"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Ei tallennettuja yhteyksiä"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Ei tallennettuja puhelinyhteyksiä"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Ei tallennettuja pakettidatayhteyksiä"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Ei tallennettuja WLAN-yhteyksiä"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Kaikkien WLAN-yhteyksien lähetystehoksi on muutettu 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Kaikkien WLAN-yhteyksien lähetystehoksi on muutettu 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Verkko valittu: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Ei poistettavia yhteyksiä"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Ei muokattavia yhteyksiä"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Ei pariksi liitettyjä laitteita"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normaalitila käytössä"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Ei käytettävissä, kun Bluetooth pois käytöstä"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Vain ASCII-merkit sallittuja"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Pariliitos peruutettu"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Vastaanottaminen peruutettu"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Vastaanotettu"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Lähettäminen peruutettu"
+
+msgid "conn_ib_sending_complete"
+msgstr "Lähetetty"
+
+msgid "conn_ib_settings_saved"
+msgstr "Asetukset tallennettu"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Asetukset tallennettu. Yhdistetään uudelleen."
+
+msgid "conn_ib_suspended"
+msgstr "Pakettidatayht. ei käytettävissä"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Virheellisiä merkkejä. Tarkista WEP-avain."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Virheellinen WEP-avaimen pituus. Tarkista WEP-avain"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Todennus epäonnistui"
+
+msgid "conn_in_ap_settings_equal"
+msgstr ""
+"Matkapuhelimen yhteysosoiteasetuksia ei päivitetty. Vastaanotetut ja "
+"nykyiset asetukset ovat samat."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth-osoite:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Laitteen nimi"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Tuetut profiilit:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Luotettu laite"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Laitteen tyyppi:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Ääni/Video"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Handsfree"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Tietokone"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Kamera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Tulostin"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/verkko yhteysosoite"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Tietokone (kannettava)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Sekalainen"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "Kämmentietokone"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Oheislaite"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Näppäimistö"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Puhelin"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Ei-luokiteltu"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Varmista, että koodi näkyy kummassakin laitteessa:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Laitteen nimi"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Salasana"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Aseta laite luotetuksi"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Haetaan laitteen nimeä"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Muuta"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Valitse yhteys"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Katk. yhteys"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Ensisijainen DNS-osoite:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Toissijainen DNS-osoite:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Yhteys:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Oletusyhdyskäytävä:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP-osoite:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Verkkopeite:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(ei mitään)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP-osoitteen tiedot"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Ei yhteyttä"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Kesto:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Puhelin:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Vast.otettu:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s t"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s Gt"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kt"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s Mt"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Lähetetty:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Signaali:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Tila:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Tietoja siirretään"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Yhdistetään"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Yhdistetty"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s käyttää IP-osoitetta (link-local)"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internet-yhteys:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Yhteystyyppi:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Datapuhelu puhelimella"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Pakettidata puhelimella"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN-yhteys"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Tilapäinen WLAN"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Sulje"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Ohje"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Yhteysasetukset"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Työkalut"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internet-yhteys"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Vaihda yhteys"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Valitse yhteys"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Katk. yhteys"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP-osoite"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Operaattorin ohjattu asennus"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Puhelin"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Katkaise yhteys puhelimeen"
+
+msgid "conn_mngr_ti_title"
+msgstr "Yhteydenhallinta"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Hyväksytäänkö yhteys laitteeseen?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Poistetaanko laite?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Peruutetaanko vastaanottaminen kohteesta %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Peruuta lähetys kohteeseen %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Internet-yhteyden muodostaminen epäonnistui. Yhteensopimaton WLAN-verkko.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Pariliitos epäonnistui.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Pariliitos epäonnistui. Todennus epäonnistui.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Pariliitos epäonnistui. Laite hylkäsi todennuksen.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Pariliitos epäonnistui. Laitteen resurssit ylittyivät.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Pariliitos epäonnistui. Ei riittävästi aikaa edellisestä "
+"pariliitosyrityksestä.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Pariliitos epäonnistui. Todennuksen aikakatkaisu.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Sallitaanko dataverkkovierailu?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Tämän arvon muuttaminen lisää virrankulutusta huomattavasti.\n"
+"Muutetaanko silti?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Internet-yhteyden muodostaminen epäonnistui.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Todennus epäonnistui.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"Yhteyden muodostaminen laitteeseen %s epäonnistui.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Verkkoyhteysvirhe.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Etäpalvelinvirhe.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Otetaanko automaattinen datayhteys käyttöön, kun olet "
+"matkapuhelinoperaattorisi verkon ulkopuolella (verkkovierailu)\n"
+"eikä WLAN-yhteyttä ole käytettävissä?\n"
+"\n"
+"Jos valitset Kyllä, datayhteys luodaan ja sitä ylläpidetään automaattisesti "
+"verkkovierailujen aikana. Tämä voi olla maksullista. Jos valitset Ei, kehote "
+"ilmoittaa aina, kun datayhteys on muodostettava vieraaseen "
+"matkapuhelinverkkoon.\n"
+"Voit vaihtaa asetuksen myöhemmin Asetuksissa."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Otetaanko pakettidatayhteys automaattisesti käyttöön, kun WLAN-yhteyttä ei "
+"ole saatavana?\n"
+"\n"
+"Jos valitset Kyllä, matkapuhelinverkkoon muodostetaan pakettidatayhteys ja "
+"sitä ylläpidetään automaattisesti (kun käytettävissä). Kysy "
+"palveluntarjoajalta lisätietoja tiedonsiirtomaksuista. Jos valitset Ei, "
+"kehote ilmoittaa aina, kun tarvitaan pakettidatayhteys matkapuhelinverkkoon. "
+"Voit vaihtaa asetuksen myöhemmin Asetuksissa."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Yhteyden muodostaminen kohteeseen %s epäonnistui"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"Internet-yhteyden muodostaminen epäonnistui. IP-osoitetta ei voi noutaa "
+"palvelimelta.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"Internet-yhteyden muodostaminen epäonnistui. IP-osoitetta ei voi noutaa "
+"palvelimelta. WEP-avain voi olla virheellinen.\n"
+"Yritetäänkö uudelleen?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Ei voi muodostaa verkkoyhteyttä. Ota yhteys palveluun."
+
+msgid "conn_ni_no_access"
+msgstr "Ei käyttöoikeutta"
+
+msgid "conn_ni_no_bt"
+msgstr "Poistutaanko offline-tilasta?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Matkapuhelinverkko ei ole käytettävissä"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN-koodia ei ole annettu. SIM-kortti ei ole käytettävissä."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Ei SIM-korttia"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Pariliitos epäonnistui."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Pariliitos epäonnistui. Todennus epäonnistui."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Pariliitos epäonnistui. Laite hylkäsi todennuksen."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Pariliitos epäonnistui. Laitteen resurssit ylittyivät."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr ""
+"Pariliitos epäonnistui. Ei riittävästi aikaa edellisestä "
+"pariliitosyrityksestä."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Pariliitos epäonnistui. Todennuksen aikakatkaisu."
+
+msgid "conn_ni_select_network"
+msgstr "Valitse verkko puhelinasetuksissa."
+
+msgid "conn_ni_sim_failure"
+msgstr ""
+"Kaikki puhelutoiminnot, mukaan lukien hätäpuhelut, ovat pois käytöstä "
+"yhteysvirheen takia. Sinun on ehkä käynnistettävä laite uudelleen."
+
+msgid "conn_ni_sim_lock"
+msgstr "Tätä SIM-korttia ei voi käyttää laitteessa"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM-korttia ei hyväksytty. Ota yhteys operaattoriin."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM-kortin rekisteröinti epäonnistui"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM-kortti hylätty"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Yhdistetään kohteeseen %s"
+
+msgid "conn_pb_connecting"
+msgstr "Yhdistetään"
+
+msgid "conn_pb_pairing"
+msgstr "Liitetään pariksi"
+
+msgid "conn_pb_searching"
+msgstr "Etsitään"
+
+msgid "conn_pb_settings"
+msgstr "Haetaan asetuksia"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Yhteydet"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Kysy aina"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Mikä tahansa yhteys"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Yhdistä automaattisesti"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Ei mitään"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Hakuväli"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Siirry WLAN-verkkoon, kun käytettävissä"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN-yhteys"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Lisäasetukset"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Yhteystyyppi:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN-koodi"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Yhteysosoitteen nimi"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Web-osoite"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "IP-osoitteen autom. haku"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Ensisijainen DNS-osoite"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Toissijainen DNS-osoite"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP-osoite"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Oletusyhdyskäytävä"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Aliverkon peite"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Nimipalvelimen autom. haku "
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automaattinen"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Tilapäinen kanava"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Virransäästö"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Käytössä (suurin)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Käytössä (keskitaso)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Ei käytössä"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "WLAN-lähetysteho"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Vain WPA2-tila"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Älä käytä välityspalvelinta"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP-välityspalvelin"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP-välityspalvelin"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS-välityspalvelin"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Portin numero"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP-välityspalvelin"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Automaattiset etäasetukset"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Käytä välityspalvelinta"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Salasanan kysely kirjauduttaessa"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Yhteyden nimi"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Yhteys %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Yhteyden asennus on valmis.\n"
+"Tallenna valitsemalla Valmis tai hylkää asetukset sulkemalla valintaikkuna.\n"
+"Valitse Lisäasetukset, jos haluat muuttaa lisäasetuksia."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Salasana"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Pakettidata"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Etsitäänkö käytettävissä olevia WLAN-yhteyksiä?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Käytettävissä olevia WLAN-yhteyksiä ei voi etsiä offline-tilassa.\n"
+"Määritä yhteys manuaalisesti."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Jatka valitsemalla Seuraava."
+
+msgid "conn_set_iap_fi_username"
+msgstr "Käyttäjänimi"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Tämän ohjatun toiminnon avulla voit määrittää laitteen WLAN-yhteyden"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN-yhteys"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Verkko on piilotettu"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Verkon tyyppi"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Tilapäinen (Ad hoc)"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infrastruktuuri"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Suojaustapa"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Ei mitään"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA ja EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "Jaettu WPA-avain"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Verkon nimi (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Salasanan kysely kirjauduttaessa"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Käyttäjänimi manuaalisesti"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Verkko"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Salasana"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP-menetelmä"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Vaadi asiakkaan todennus"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Valitse varmenne"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP-menetelmä"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Käytä manuaalista käyttäjänimeä"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Käyttäjänimi"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP-avain 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP-avain 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP-avain 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP-avain 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "WEP-oletusavain"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP-avaimen pituus"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 merkkiä (ASCII 40/64 bittiä)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 merkkiä (HEX 40/64 bittiä)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 merkkiä (ASCII 104/128 bittiä)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 merkkiä (HEX 104/128 bittiä)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP-avain"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP-tyyppi"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Jaettu avain"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr ""
+"Aloita helppo asennus painamalla langattoman aseman painiketta ja valitse "
+"sitten Valmis"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Anna seuraavat numerot langattomaan asemaan ja valitse Valmis."
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Ohita Wi-Fi Protected Setup -asennus"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Yhteyden asennus: Lisäasetukset"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP-osoitteet"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Muut"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Välityspalvelimet"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Yhteyden asennus: Valmis"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Yhteyden asennus: Nimi ja tyyppi"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Yhteyden asennus: pakettidata"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Yhteyden asennus: Tervetuloa"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Yhteyden asennus: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Anna WEP-avain"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Anna jaettu WPA-avain"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Anna piilotetun verkon SSID"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Yhteyden asennus: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Valitse EAP-tyyppi"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Yhteyksien asetus: WEP-avain"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Yhteyden asennus: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Anna käyttäjätiedot"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Käyttäjänimi ja salasana"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Yhteyden asennus: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Yhteyden asennus: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "Todennus: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Yhteyden asennus: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "Todennus: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Yhteyden asennus: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "Todennus: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Yhteyksien asennus: WPA EAP -tyyppi"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Yhteyden asennus: WPA-avain"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Wi-Fi Protected Setup -asennus"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "PIN-määritystapa "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internet-yhteydet"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Ei koskaan"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 minuuttia"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 minuuttia"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 minuuttia"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 minuuttia"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth-laitteet"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Vaihda EAP-MSCHAPv2-salasana"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Valitse yhteys"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Katkaise tai vaihda yhteys"
+
+msgid "conn_ti_device_details"
+msgstr "Laitteen tiedot"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Anna nykyinen PIN-koodi"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Anna uusi PIN-koodi"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Anna PIN-koodi"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Anna PUK-koodi"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr ""
+"Poista operaattorilukko\n"
+"kirjoittamalla koodi"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Väärä PIN-koodi"
+
+msgid "conn_ti_iap_select"
+msgstr "Tallennetaanko yhteysosoite?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Anna yhteysosoitteen PIN-koodi"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Liitä pariksi laitteen kanssa"
+
+msgid "conn_ti_phone_call"
+msgstr "Puhelu"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Puhelin"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Kotiverkon tiedot"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Datan siirtovaroitus"
+
+msgid "conn_ti_phone_network"
+msgstr "Verkko"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Vieraan verkon tiedot"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Valitse verkko"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM-kortti"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Anna uusi PIN-koodi uudelleen"
+
+msgid "conn_ti_receive"
+msgstr "Vastaanota tiedosto"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Anna EAP-GTC-vaste"
+
+msgid "conn_ti_roaming"
+msgstr "Otetaanko automaattinen datayhteyksien muodostus käyttöön?"
+
+msgid "conn_ti_select_device"
+msgstr "Valitse laite"
+
+msgid "conn_ti_send_to_device"
+msgstr "Lähetä laitteeseen"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Otetaanko automaattinen pakettidatayhteyden muodostus käyttöön?"
+
+msgid "conn_ti_username_pw"
+msgstr "Käyttäjänimi ja salasana"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Anna verkon valita"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Ei koskaan"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Kaksitoimisuus"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Salli aina"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Kysy aina"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automaattinen"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Manuaalinen"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Pakettidatayhteys"
+
+msgid "conn_va_wps_complient"
+msgstr "Wi-Fi Protected Setup -yhteensopiva"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Piilotettu"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: näkyvä"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Vast.otetaan: %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Lähetetään: %s"
+
+msgid "stab_me_bt_off"
+msgstr "Ei käytössä"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internet-yhteys"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Ei yhdistetty"
+
+msgid "stab_me_internet_suspended"
+msgstr "Pakettidatayht. ei käytettävissä"

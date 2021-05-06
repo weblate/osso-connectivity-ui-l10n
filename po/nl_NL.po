@@ -1,0 +1,1413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20100104144742\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Verbindingsbeheer"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Verbinden"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Verbreken"
+
+msgid "conn_bd_devices_delete"
+msgstr "Verwijderen"
+
+msgid "conn_bd_devices_edit"
+msgstr "Bewerken"
+
+msgid "conn_bd_devices_new"
+msgstr "Nieuw"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Apparaten"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Noodoproep"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Selecteer"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Overslaan"
+
+msgid "conn_bd_pair"
+msgstr "Koppelen"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Oproep starten"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Wissen"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Waarschuwing uitschakelen"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Verbinding nu verbreken"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Waarschuwing voor overdracht inschakelen"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Gegevensteller thuisnetwerk"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Gegevensteller roamingnetwerk"
+
+msgid "conn_bd_receive_ok"
+msgstr "Opslaan"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Verbinding verwijderen?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Verbinding met %s verbreken en verbinding verwijderen?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Naam van mijn apparaat"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N800"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth aan"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Zichtbaar"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Nieuw wachtwoord herhalen"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Verbinding"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Nieuw wachtwoord"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Oud wachtwoord"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Gebruikersnaam"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Verbinding met %s verbreken"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Verborgen WLAN"
+
+msgid "conn_fi_iap_select_text"
+msgstr ""
+"Instellingen voor mobiel toegangspunt ontvangen van operator. Selecteer "
+"toegangspunt om op te slaan. Raadpleeg de operator om in de toekomst "
+"nogmaals instellingen te ontvangen."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Geen verbindingen beschikbaar"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(geen gekoppelde apparaten)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Doorschakelen van oproep"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Geen antwoord binnen 20 seconden, niet beschikbaar of bezet"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Doorschakelen"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Wachtstand"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Ontvangen"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Gewist"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Verzonden"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Gegevensoverdracht in thuisnetwerk"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Gegevensoverdracht in roamingnetwerk"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Waarschuwen voor elke"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Gegevens-roaming"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Netwerkmodus"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN-code"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Verzoek PIN-code"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Netwerkselectie"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Mijn beller-ID verzenden"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Verbindingsinstellingen"
+
+msgid "conn_fi_receive_device"
+msgstr "Apparaat:"
+
+msgid "conn_fi_receive_file"
+msgstr "Bestand ontvangen via Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Bestand:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Onbekend"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Bestand openen na opslaan"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Antwoord"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Verwijderen"
+
+msgid "conn_iaps_bd_done"
+msgstr "Voltooid"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Bewerken"
+
+msgid "conn_iaps_bd_new"
+msgstr "Nieuw"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Verbindingen"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Instellingen voor mobiel toegangspunt bijgewerkt"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Geen toepassing om dit bestand mee te openen"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth ingeschakeld"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Verbonden met %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Verbinding met %s verbroken"
+
+msgid "conn_ib_compl_all"
+msgstr "Vul eerst alle vereiste velden in"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Naam van verbinding wordt al gebruikt"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN-code juist"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Voer eerst het inbelnummer in"
+
+msgid "conn_ib_enter_name"
+msgstr "Voer eerst de naam in"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Voer eerst een geldig IP-adres in"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Offline Modus geactiveerd"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Koppeling voltooid"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Kan niet verwijderen bij actieve verbinding met internet"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Onjuiste PIN-code. SIM geblokkeerd met PUK-code."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Onjuiste PIN-code"
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Onjuiste PIN-code. %d pogingen resterend."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Codes komen niet overeen"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Onjuiste PUK-code. %d poging resterend."
+msgstr[1] "Onjuiste PUK-code. %d pogingen resterend."
+
+msgid "conn_ib_invalid_number"
+msgstr "Ongeldig nummer"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Maximaal aantal tekens bereikt"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Maximaal aantal tekens bereikt"
+
+msgid "conn_ib_min8val_req"
+msgstr "U moet ten minste 8 tekens invoeren"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Automatische verbinding uitgeschakeld"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Geen opgeslagen verbindingen beschikbaar"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Het nieuwe wachtwoord en het bevestigde wachtwoord komen niet overeen"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Oud wachtwoord is onjuist"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Geen actieve verbinding"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Geen actieve verbinding met telefoon"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Geen telefoon gekoppeld"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Geen verbindingen van gegevensoproep opgeslagen"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Geen verbindingen opgeslagen"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Geen telefoonverbindingen opgeslagen"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Geen verbindingen van packet-gegevens opgeslagen"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Geen WLAN-verbindingen opgeslagen"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Transmissievermogen voor alle WLAN-verbindingen gewijzigd in 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Transmissievermogen voor alle WLAN-verbindingen gewijzigd in 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Geselecteerd netwerk: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Er is geen verbinding om te verwijderen"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Er is geen verbinding om te bewerken"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Geen gekoppelde apparaten"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normale modus geactiveerd"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Niet beschikbaar als Bluetooth is uitgeschakeld"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Alleen ASCII-tekens toegestaan"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Koppelen geannuleerd"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Ontvangen geannuleerd"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Ontvangen voltooid"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Verzenden geannuleerd"
+
+msgid "conn_ib_sending_complete"
+msgstr "Verzenden voltooid"
+
+msgid "conn_ib_settings_saved"
+msgstr "Instellingen opgeslagen"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Instellingen opgeslagen. Bezig met opnieuw verbinding te maken."
+
+msgid "conn_ib_suspended"
+msgstr "Tijdelijk niet beschikbaar"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Ongeldige tekens. Controleer de WEP-sleutel."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Ongeldige lengte WEP-sleutel. Controleer WEP-sleutel"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Verificatie is mislukt"
+
+msgid "conn_in_ap_settings_equal"
+msgstr ""
+"Instellingen voor mobiel toegangspunt niet bijgewerkt. Ontvangen "
+"instellingen identiek aan huidige instellingen."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth-adres:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Apparaatnaam"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Ondersteunde profielen:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Vertrouwd apparaat"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Apparaattype:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Audio/video"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Handsfree"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Computer"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Camera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Printer"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "Toegangspunt van LAN/netwerk:"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Computer (laptop)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Diversen"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Randapparaat"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Toetsenbord"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Telefoon"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Geen categorie"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Controleer of dezelfde code wordt weergegeven op beide apparaten:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Koppelen met apparaat"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Wachtwoord"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Instellen als vertrouwd apparaat"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Apparaatnaam ophalen"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Wijzigen"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Verbinding selecteren"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Verbreken"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Primair DNS-adres:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Secundair DNS-adres:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Verbinding:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Standaardgateway:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP-adres"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Netmasker:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(geen)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "Details van IP-adres"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Geen verbinding"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Duur:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Telefoon:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Ontvangen:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Verzonden:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Signaal:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Status:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Gegevens worden verstuurd"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Verbonden"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s met link-local IP-adres"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internetverbinding:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Verbindingstype:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Gegevensoproep via telefoon"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Packet-gegevens via telefoon"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc-WLAN"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Sluiten"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Help"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Connectiviteitsinstellingen"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Extra"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internetverbinding"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Verbinding wijzigen"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Verbinding selecteren"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Verbinding verbreken"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP-adres"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Wizard Mobiele operator instellen"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Telefoon"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Loskoppelen van telefoon"
+
+msgid "conn_mngr_ti_title"
+msgstr "Verbindingsbeheer"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Verbinding met apparaat accepteren?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Apparaat verwijderen?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Ontvangen vanuit %s annuleren?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Verzenden naar %s annuleren?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Geen internetverbinding. Incompatibel WLAN-netwerk.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Koppelen is mislukt.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Koppelen mislukt. Verificatie is mislukt.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Koppelen mislukt. Apparaat heeft verificatie geweigerd.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Koppelen mislukt. Apparaatbronnen overschreden.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Koppelen mislukt. Er is onvoldoende tijd verstreken sinds de laatste "
+"koppelingspoging.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Koppelen mislukt. Time-out verificatie.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Gegevens-roaming toestaan?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Als u deze waarde selecteert, neemt het energieverbruik aanzienlijk toe.\n"
+"Toch wijzigen?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Geen internetverbinding.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Verificatie is mislukt.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"Geen verbinding met apparaat %s.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Fout met netwerkverbinding.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Fout met externe server.\n"
+"Opnieuw proberen?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Gegevensverbinding automatisch inschakelen wanneer u zich buiten uw mobiele "
+"netwerk bevindt (roaming) en er geen WLAN-verbinding beschikbaar is?\n"
+"\n"
+"Als u 'Ja' kiest, wordt er automatisch een gegevensverbinding gemaakt en "
+"onderhouden tijdens het roamen. Dit kan extra kosten met zich meebrengen. "
+"Als u 'Nee' kiest, verschijnt er altijd een vraag in beeld wanneer er een "
+"gegevensverbinding met een ander mobiel netwerk dan uw eigen netwerk nodig "
+"is. U kunt deze instelling later wijzigen via Instellingen."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Pakketgegevensverbinding (mobiele gegevensverbinding) automatisch "
+"inschakelen als er geen WLAN-verbinding beschikbaar is?\n"
+"\n"
+"Als u Ja kiest, maakt het apparaat automatisch een pakketgegevensverbinding "
+"met het netwerk van uw serviceprovider (indien beschikbaar). Neem contact op "
+"met uw serviceprovider voor informatie over de kosten voor "
+"gegevensoverdracht. Als u Nee kiest, ontvangt u een melding telkens wanneer "
+"er een pakketgegevensverbinding nodig is. Dit kunt u later via Instellingen "
+"wijzigen."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Geen verbinding met %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"Geen internetverbinding. Kan IP-adres niet ophalen van de server.\n"
+"Opnieuw proberen?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"Geen internetverbinding. Kan IP-adres niet ophalen van de server. WEP-"
+"sleutel is mogelijk onjuist.\n"
+"Opnieuw proberen?"
+
+msgid "conn_ni_modem_failure"
+msgstr ""
+"Kan geen netwerkverbinding maken. Neem contact op met de klantenservice."
+
+msgid "conn_ni_no_access"
+msgstr "Geen toegang"
+
+msgid "conn_ni_no_bt"
+msgstr "Offline Modus verlaten?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Mobiel netwerk niet beschikbaar"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN-code niet ingevoerd. SIM-kaart niet beschikbaar."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Geen SIM-kaart geplaatst"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Koppelen is mislukt."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Koppelen mislukt. Verificatie is mislukt."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Koppelen mislukt. Apparaat heeft verificatie geweigerd."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Koppelen mislukt. Apparaatbronnen overschreden."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr ""
+"Koppelen mislukt. Er is onvoldoende tijd verstreken sinds de laatste "
+"koppelingspoging."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Koppelen mislukt. Time-out verificatie."
+
+msgid "conn_ni_select_network"
+msgstr "Selecteer het netwerk in Telefooninstellingen."
+
+msgid "conn_ni_sim_failure"
+msgstr ""
+"Alle telefoonfuncties, waaronder noodoproepen, zijn uitgeschakeld vanwege "
+"een communicatiefout. Mogelijk dient u het apparaat opnieuw op te starten om "
+"de fout te herstellen."
+
+msgid "conn_ni_sim_lock"
+msgstr "Kan deze SIM-kaart niet gebruiken in apparaat"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM-kaart niet geaccepteerd. Neem contact op met uw operator."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM-kaartregistratie mislukt"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM-kaart geweigerd"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Verbinding maken met %s"
+
+msgid "conn_pb_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "conn_pb_pairing"
+msgstr "Bezig met koppelen"
+
+msgid "conn_pb_searching"
+msgstr "Bezig met zoeken"
+
+msgid "conn_pb_settings"
+msgstr "Bezig met ophalen van instellingen"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Verbindingen"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Altijd vragen"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Elke verbinding"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Automatisch verbinding maken"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Geen"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Zoekinterval"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Overschakelen op WLAN indien beschikbaar"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Geavanceerd"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Verbindingstype:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN-methode"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Naam van toegangspunt"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Webadres"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "IP-adres automatisch ophalen"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Primair DNS-adres"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Secundair DNS-adres"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP-adres"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Standaardgateway"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Subnetmasker"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "DNS automatisch ophalen"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automatisch"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc-kanaal"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Energiebesparing"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Aan (maximum)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Aan (gemiddeld)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Uit"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Transmissievermogen WLAN"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Modus Alleen-WPA2"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Proxy niet gebruiken voor"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS-proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Poortnummer"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP-proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Automatische configuratie"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Proxy gebruiken"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Bij elke aanmelding vragen naar wachtwoord"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Verbindingsnaam"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Verbinding %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Instellen van verbinding voltooid.\n"
+"Tik op 'Voltooien' om de instellingen op te slaan of sluit het "
+"dialoogvenster om de instellingen te negeren.\n"
+"Tik op 'Geavanceerd' om de geavanceerde instellingen te bewerken."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Wachtwoord"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Packet-gegevens"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Zoeken naar beschikbare WLAN-netwerken?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Kan niet zoeken naar beschikbare WLAN-netwerken in de Offline Modus.\n"
+"Stel de verbinding handmatig in."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Tik op 'Volgende' om door te gaan"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Gebruikersnaam"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr ""
+"Met de wizard Verbinding instellen kunt u een WLAN-verbinding op uw apparaat "
+"definiëren"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Netwerk is verborgen"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Netwerkmodus"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infrastructuur"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Beveiligingsmethode"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Geen"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA met EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "Vooraf ged. WPA-sleutel"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Netwerknaam (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Bij elke aanmelding vragen naar wachtwoord"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Handmatige gebruikersnaam"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Netwerk"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Wachtwoord"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP-methode"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Clientverificatie vragen"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Certificaat selecteren"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP-methode"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Handmatige gebruikersnaam gebruiken"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Gebruikersnaam"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP-sleutel 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP-sleutel 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP-sleutel 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP-sleutel 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Standaard WEP-sleutel"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "Lengte van WEP-sleutel"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 tekens (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 tekens (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 tekens (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 tekens (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP-sleutel"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP-type"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Vooraf gedeelde sleutel"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr ""
+"Druk op een knop op het draadloze station om het eenvoudige "
+"installatieproces te starten en tik op 'Voltooid'"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr ""
+"Voer de volgende cijfers in op het draadloze station en tik op 'Voltooid':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Instelling WiFi-bescherming overslaan"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Verbinding instellen: Geavanceerd"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP-adressen"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Overige"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxy's"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Verbinding instellen: Voltooid"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Verbinding instellen: Naam en type"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Verbinding instellen: Packet-gegevens"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Verbinding instellen: Welkom"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Verbinding instellen: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "WEP-sleutel invoeren"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Vooraf gedeelde WPA-sleutel invoeren"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "SSID van verborgen netwerk invoeren"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Verbinding instellen: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "EAP-type selecteren"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Verbinding instellen: WEP-sleutel"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Verbinding instellen: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Gebruikersnaam invoeren"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Inloggegevens invoeren"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Verbinding instellen: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Verbinding instellen: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP-verificatie"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Verbinding instellen: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS-verificatie"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Verbinding instellen: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS-verificatie"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Verbinding instellen: Type WPA EAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Verbinding instellen: WPA-sleutel"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Instelling WiFi-bescherming"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Instelling WiFi-bescherming, PIN-methode "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internetverbindingen"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Nooit"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 minuten"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 minuten"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 minuten"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 minuten"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth-apparaten"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "EAP-MSCHAPv2-wachtwoord wijzigen"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Verbinding selecteren"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Verbreken of verbinding wijzigen"
+
+msgid "conn_ti_device_details"
+msgstr "Details van apparaat"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Voer huidige PIN-code in"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Voer nieuwe PIN-code in"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Voer de PIN-code in"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Voer PUK-code in"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr ""
+"Voer de code in om de vergrendeling\n"
+" van de operator te verwijderen"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Onjuiste PIN-code"
+
+msgid "conn_ti_iap_select"
+msgstr "Toegangspunt opslaan?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Voer PIN voor toegangspunt in"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Koppelen met apparaat"
+
+msgid "conn_ti_phone_call"
+msgstr "Oproep"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Telefoon"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Gegevens thuisnetwerk"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Waarschuwing voor gegevensoverdracht"
+
+msgid "conn_ti_phone_network"
+msgstr "Netwerk"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Gegevens roamingnetwerk"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Netwerk selecteren"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM-kaart"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Voer nieuwe PIN-code opnieuw in"
+
+msgid "conn_ti_receive"
+msgstr "Bestand ontvangen"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Geef EAP-GTC-antwoord"
+
+msgid "conn_ti_roaming"
+msgstr "Automatische gegevens-roaming inschakelen?"
+
+msgid "conn_ti_select_device"
+msgstr "Selecteer een apparaat"
+
+msgid "conn_ti_send_to_device"
+msgstr "Naar een apparaat verzenden"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Automatische gegevensverbinding via het mobiele netwerk inschakelen?"
+
+msgid "conn_ti_username_pw"
+msgstr "Inloggegevens invoeren"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Netwerk laten kiezen"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Nooit"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dual"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Altijd toestaan"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Altijd vragen"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automatisch"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Handmatig"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Gegevens mobiele telefoon"
+
+msgid "conn_va_wps_complient"
+msgstr "Voldoet aan Wi-Fi Protected Setup"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Verborgen"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: zichtbaar"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Ontvangen vanuit %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Verzenden naar %s"
+
+msgid "stab_me_bt_off"
+msgstr "Uit"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internetverbinding"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Niet verbonden"
+
+msgid "stab_me_internet_suspended"
+msgstr "Tijdelijk niet beschikbaar"
