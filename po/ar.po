@@ -1,0 +1,1352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-06-08 01:19+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "مدير الاتصال"
+
+msgid "conn_bd_device_details_connect"
+msgstr "اتصال"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "قطع الاتصال"
+
+msgid "conn_bd_devices_delete"
+msgstr "حذف"
+
+msgid "conn_bd_devices_edit"
+msgstr "تعديل"
+
+msgid "conn_bd_devices_new"
+msgstr "جديد"
+
+msgid "conn_bd_dialog_devices"
+msgstr "أجهزة"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "مكالمات الطوارئ"
+
+msgid "conn_bd_dialog_ok"
+msgstr "أختيار"
+
+msgid "conn_bd_dialog_skip"
+msgstr "تخطى"
+
+msgid "conn_bd_pair"
+msgstr "ثنائي"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "أختيار الأسم"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "مسح"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "عداد البينات"
+
+msgid "conn_bd_receive_ok"
+msgstr "حفظ"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"حذف الأتصال?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "قطع الأتصال وحذفه %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "أسم هاتفي"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "N900 نوكيا"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "البلوتوث فعال"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "مرئي"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "التحقق من كلمة المرور الجديدة"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "الأتصال"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "كلمة سر جديدة"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "كلمة السر القديمة"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "أسم المستخدم"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "قطع الأتصال %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "شبكات مخفية"
+
+msgid "conn_fi_iap_select_text"
+msgstr "الشكبة الخلوية أرسلة من المشغل. أختر نقطة الوصول لحفظها. أتصل بالمشغل للحصول على الأعدادات مره أخرى."
+
+msgid "conn_fi_no_conn_available"
+msgstr "لاتوجد أتصالات متوفرة"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(لايوجد أجهزة مقترن بها)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "تحويل المكالمات"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "عدم الرد خلال 20 ثانية, غير موجود أو مشغول"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "تحويل إلى"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "أنتظار المكالمات"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "المستلم"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "مسح"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "أرسال"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "بيانات التجوال"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "وضع الشبكة"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN رمز"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN طلب رمز"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "أختيار الشبكة"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "أرسال هويتي"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "إعدادات الأتصال"
+
+msgid "conn_fi_receive_device"
+msgstr "الجهاز:"
+
+msgid "conn_fi_receive_file"
+msgstr "bluetooth أستلام الملف عبر ?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "ملف:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "غير معروف"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "فتح الملف بعد الحفظ"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "الرد"
+
+msgid "conn_iaps_bd_delete"
+msgstr "الحذف"
+
+msgid "conn_iaps_bd_done"
+msgstr "تم"
+
+msgid "conn_iaps_bd_edit"
+msgstr "تحرير"
+
+msgid "conn_iaps_bd_new"
+msgstr "جديد"
+
+msgid "conn_iaps_ti_connections"
+msgstr "الأتصالات"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "تم تحديث إعدادات نقطة الأتصال الخلوية"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "لايوجد برنامج لفتح الملف"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth فعال"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "الأتصال ب %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "قطع الأتصال من %s"
+
+msgid "conn_ib_compl_all"
+msgstr "يجب تعبئة جميع الحقول أولا"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "أسم الأتصال مستخدم بالفعل"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN الرمز صحيح"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr " أولا dial-up  أدخل رقم"
+
+msgid "conn_ib_enter_name"
+msgstr "أدخل الأسم أولا"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "أولا IP أدخل رقم"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "تم تفعيل وضع الطيران"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "تم الأقتران"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "غير قادر على الحذف أثناء الأتصال بالأنترنت"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Incorrect PIN. SIM locked with PUK code."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Incorrect PIN code. 1 attempt remaining."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Incorrect PIN code. 2 attempt remaining."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "الرمز غير مطابق"
+
+msgid "conn_ib_incorrect_puk"
+msgstr " PUK خطأ برمز"
+
+msgid "conn_ib_invalid_number"
+msgstr "عدد غير صحيح"
+
+msgid "conn_ib_max_char_reached"
+msgstr "تم الوصول إلى الحد الأقصي من الحروف"
+
+msgid "conn_ib_maxval_reach"
+msgstr "تم الوصول إلى الحد الأقصي من الحروف"
+
+msgid "conn_ib_min8val_req"
+msgstr "يجب أدخال ما لا يقل عن 8 أحرف"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "الأتصال التلقائي معطل"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "لايوجد أتصالات محفوظه"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابق"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "كلمة المرور القديمة غير صالح"
+
+msgid "conn_ib_net_no_conn"
+msgstr "لاتوجد أتصالات فعالة"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "لايوجد أتصالات مستمرة في الهاتف"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "لاتوجد هواتف مقترنة"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "ل ايوجد بيانات أتصال محفوظة"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "لاتوجد أتصالات محفوظة"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "لايوجد أتصالات هاتف محفوظة"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "لايوجد أتصالات لتحديد الموقع محفوظة"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "لايوجد شبكات محفوظة"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "10 mW محول الطاقة لجميع شبكات الأتصال تغير إلى"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "100 mW محول الطاقة لجميع شبكات الأتصال تغير إلى"
+
+msgid "conn_ib_network_selected"
+msgstr "تم أختيار الشبكة: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "لايوجد أتصالات محفوظة"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "لايوجد أتصالات لتحريرها"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "لاتوجد أجهزة مقترنة"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "تم تفعيل الوضع الأساسي"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr " Bluetooth غير متوفر عندما يكون فعال "
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "المسموح بها ASCII فقط أحرف"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "تم ألغاء الأفتران"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "تم ألغاء الأرسال"
+
+msgid "conn_ib_receiving_complete"
+msgstr "تم الأستلام"
+
+msgid "conn_ib_sending_canceled"
+msgstr "تم ألغاء الأرسال"
+
+msgid "conn_ib_sending_complete"
+msgstr "الأرسال أكتمل"
+
+msgid "conn_ib_settings_saved"
+msgstr "تم حفظ الأعدادات"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "تم حفظ الأعدادات. إعادة الأتصال."
+
+msgid "conn_ib_suspended"
+msgstr "شبكة البيانات الخلوية غير متوفرة"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "الأحرف غير صالحة.  WEP تأكد من رمز ."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "غير صالح WEP رمز.  WEP تأكد من رمز ."
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "فشلت المطابقة"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "نقطة الوصول الخلوية للأعدادات لم تحدث. تم أستلام إعدادات مماثل للحالية."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth عنوان:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "أسم الجهاز"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "دعم التشكيلات:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "جهاز موثوق"
+
+msgid "conn_li_device_details_d_type"
+msgstr "نوع الجهاز:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "صوت/فيديو"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "سماعة"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "كمبيوتر"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "كاميرا"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "طابعة"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN نقطة الوصول شبكة"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "كمبيوتر محمول"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "متنوع"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "محيطي"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "كيبورد"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "هاتف"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "غير مصنف"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "تأكيد الرمز الظاهر في الجهازين:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "الأقتران بالهاتف"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "رمز المرور"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "جعل الجهاز موثوق به"
+
+msgid "conn_li_select_device_resolving"
+msgstr "أسترداد رمز الجهاز"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "تغير"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "اختيار الأتصال"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "قطع الأتصال"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "تم"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "الأساسي DNS عنوان:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "الثانوي DNS عنوان:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "الأتصال:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "البوابة الأفتراضية:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP عنوان:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "قناع الشبكة:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(لايوجد)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP تفاصيل عنوان"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "لايوجد أتصالات"
+
+msgid "conn_mngr_fi_duration"
+msgstr "المدة:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "الهاتف:"
+
+msgid "conn_mngr_fi_received"
+msgstr "الأستلام:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "أرسال:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "الأشارة:"
+
+msgid "conn_mngr_fi_status"
+msgstr "الحالة:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "جارى نقل البيانات"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "الأتصال"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "تم الأتصال"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s IP أستخدام الأتصال المحلى لعنوان"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "خطأ في الأتصال:"
+
+msgid "conn_mngr_fi_type"
+msgstr "نوع الأتصال:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "مكالمات البيانات بواسطة الهاتف"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS المستخدم في الهاتف"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "إغلاق"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "مساعدة"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "الأتصال"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "الأدوات"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "الأتصال بالأنترنت"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "تغير الأتصال"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "أختيار الأتصال"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "قطع الأتصال"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP عنوان"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "معالج الأعدادات المساعد للجوال"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "الهاتف"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "قطع الأتصال بالهاتف"
+
+msgid "conn_mngr_ti_title"
+msgstr "مدير الأتصال"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"أستلام الأتصال من الجهاز?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"مسح الأتصال?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "إلغاء الأستلام من %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "إلغاء الأرسال من %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"فشل الأتصال بالأنترنت. Wi-Fi غير متوافق مع شبكة.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"فشل الأقتران.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"فشل الأقتران. فشل في المطابقة.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"فشل الأقتران. الجهاز رفض المطابقة.\n"
+"إعادة المحالوة?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"فشل الأقتران. تجاوز موارد الجهاز.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"فشل الأقتران. لايوجد وقت كافي منذ آخر محاولة أقتران.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"فشل الأقتران. أنتهي وقت المطابقة.\n"
+"إعادة المحالة?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "السماح ببيانات التجوال?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"التغير لهذه القيمة سوف يزيد من أستهلاك البطارية.\n"
+"التغير على أي حال?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"فشل الأتصال بالأنترنت.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"فشلت المطابقة.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"فشل الأتصال بالأنترنت %s.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"خطأ بشبكة الأتصال.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"خطأ بالخادم البعيد.\n"
+"إعادة المحاولة?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Automatically enable data connection when outside of your cellular operator’s network (roaming) and no Wi-Fi connection\n"
+"is available?\n"
+"\n"
+"Choosing 'Yes' automatically creates and maintains a data connection when roaming. This may involve additional costs. Choosing 'No' offers a prompt whenever a data connection to a foreign cellular network is required. You can change this later\n"
+"via Settings."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Automatically enable packet data connection (cellular data connection) when no Wi-Fi connection is available?\n"
+"\n"
+"By choosing Yes, the device automatically creates and maintains a packet data connection to your network service operator’s network (where available). Contact your network service provider for information about data transmission charges. By choosing No, you will be informed whenever a packet data connection is needed. You can change this later via Settings."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "فشل الأتصال ب %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"فشل الأتصال ب. IP غير قادر على أستعادة عنوان.\n"
+"إعادة المحاولة?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"فشل بالأتصال بالأنترنت. IP غير قادر على أستعادة عنوان. غير صحيح WEP مفتاح.\n"
+"إعادة المحاولة?"
+
+msgid "conn_ni_modem_failure"
+msgstr "غير قادر على تأسيس شبكة أتصال. الأتصال بالخادم."
+
+msgid "conn_ni_no_access"
+msgstr "لايمكن الوصول"
+
+msgid "conn_ni_no_bt"
+msgstr "الخروج من وضع الطيران?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "البينات الخلوية غير متوفرة"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "غير موجود PIN . غير متوفرة SIM شريحة."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "في الداخل SIM لايوجد شريجة"
+
+msgid "conn_ni_pairing_failed"
+msgstr "فشل الأقتران."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "فشل الأقتران. فشلت المطابقة."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "فشل الأقتران. تم رفض المطابقة من الجهاز."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "فشل الأقتران. تجاوز موارد الجهاز."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "فشل الأقتران. لايوجد وقت كافي منذ آخر محاولة أقتران."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "فشل الأقتران. أنتهي وقت المطابقة."
+
+msgid "conn_ni_select_network"
+msgstr "أدخل الشبكة في إعدادات الهاتف."
+
+msgid "conn_ni_sim_lock"
+msgstr "SIM غير قادر على أستخدام شريحة"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "الشريحة غير متوافق. أتصل بمورد الشبكة."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM فشل في تسجيل شريحة"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM الشريح مرفوضة"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "الأتصال ب %s"
+
+msgid "conn_pb_connecting"
+msgstr "أتصال"
+
+msgid "conn_pb_pairing"
+msgstr "أقتران"
+
+msgid "conn_pb_searching"
+msgstr "بحث"
+
+msgid "conn_pb_settings"
+msgstr "إستعادة الأعدادات"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "الأتصال"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "السؤال دائما"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "أي أتصال"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "الأتصال تلقائيا"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "غير موجود"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "مدة البحث"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "عند التوفر Wi-Fi التحويل إلى"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "متقدم"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "نوع الأتصال:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN أسلوب"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "أسم نقطة الوصول"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "عنوان المتصفح"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "IP الأعادة التلقائية لعنوان"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "الأساسي DNS عنوان"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "الثانوي DNS عنوان"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP عنوان"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "البوابة الأفتراضية"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "مشاركة القناع"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "DNS الأستعادة التلقائية"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "تلقائي"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc channel"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "حفظ الطاقة"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "يعمل بالحد الأقصي"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "يعمل بشكل متوسط"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "لايعمل"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Wi-Fi طاقة النقل"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "WPA2-only mode"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "عدم أستخدام بروكسي ل"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "رقم المنفذ"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "التكوين التلقائي"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "أستخدام بروكسي"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "عرض كلمة السر عند الدخول"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "أسم الأتصال"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "الأتصال %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"تم أكتمال إعادادت الأتصال.\n"
+"إضغط على انهاء لحفظ الأعدادات أو إغلاق لتجاهل التغيرات.\n"
+"أضغط على متقدم لتحرير الأعدادات."
+
+msgid "conn_set_iap_fi_password"
+msgstr "كلمة السر"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "المتوفر Wi-Fi البحث عن شبكات?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"غير قادر على البحث عن شبكات الأتصال في وضع الطيران.\n"
+"أختر الشبكة يدويا."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "أضغط التالي للمتابعة"
+
+msgid "conn_set_iap_fi_username"
+msgstr "أسم المستخدم"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Wi-Fi إستخدام معالج الأعدادات الخاص بالأتصال يسمح لك بتحديد شبكة"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "الشبكة مخفية"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "وضع الشبكة"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "البنية التحتية"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "أسلوب الأمن"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "غير متوفر"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA with EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA pre-shared key"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "(SSID) أسم الشبكة "
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "عرض كلمة السر عند الدخول"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "أسم المستخدم اليدوي"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "الشبكة"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "كلمة السر"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP أسلوب"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "تطلب مصداقية العميل"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "أختيار الشهادة"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP أسلوب"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "أستخدام الأسم اليدوي"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "أسم المستخدم"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP key 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP key 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP key 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP key 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "الأقتراضي  WEP مفتاح "
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP طول مفتاح"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 أخرف (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 أحرف (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 حرف (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 حرف (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP مفتاح"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP نوع"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "قبل مشاركة المفتاح"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "أضغط تفعيل الشبكة لبدأ المعالج الخاص بالأعدادات ومن ثم تم"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "قبل مشاركة المفتاح"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "أدخل الحروف التالية في الشبكة وضغط تم:"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "إعادادت الأتصال: إعادادات متقدمة"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP عنوان"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "أخرى"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "الوكلاء"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "إعادادات الأتصال: أكتملت"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "إعدادات الأتصال: الأسم والنوع"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "إعدادات الأتصال: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "إعدادات الأتصال: مرحبا"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "إعدادات الأتصال: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "رمز WEP أدخل"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "قبل مشاركة المفتاح WPA أدخل"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "للشبكة المخفية SSID أدخل"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "إعدادات الأتصال: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "نوع EAP أختر"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "إعدادات الأتصال: WEP مفتاح"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "إعدادات الأتصال: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "أدخل أسم المستخدم"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "أسم المستخدم وكلمة المرور"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "إعدادات الأتصال: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "إعدادات الأتصال: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP المصادقة"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "إعدادات الأتصال: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS المصادقة"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "إعدادات الأتصال: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS المصادقة"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "إعدادات الأتصال: WPA EAP نوع"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "إعدادات الأتصال: WPA key"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Wi-Fi حماية أعدادات"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "قبل مشاركة المفتاح WPA أدخل"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr " PIN حماية الأعدادات الخاص بشبكة بطريقة "
+
+msgid "conn_set_ti_conn_set"
+msgstr "إتصالات الأنترنت"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "أبدا"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 دقائق"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 دقائق"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 دقيقة"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 دقيقة"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth جهاز"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "لكمة السر EAP-MSCHAPv2 تغير"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "أختيار الأتصال"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "قطع الإتصال او تغيره"
+
+msgid "conn_ti_device_details"
+msgstr "تفاصيل الجاهز"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr " الحالى PIN أدخل رمز "
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "الجديد PIN أدخل رمز "
+
+msgid "conn_ti_enter_pin_code"
+msgstr "PIN أدخل رمز"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "PUK أدخل رمز"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "SIM أدخل الرمز لفتح شريحة"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "غير صحيح PIN رمز"
+
+msgid "conn_ti_iap_select"
+msgstr "حفظ نقطة الوصول?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "لنقطة الوصول PIN أدخل"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "الأقتران بالجهاز"
+
+msgid "conn_ti_phone_call"
+msgstr "أتصال"
+
+msgid "conn_ti_phone_cpa"
+msgstr "الهاتف"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "بينات الشبكة"
+
+msgid "conn_ti_phone_network"
+msgstr "الشبكة"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "أختيار الشبكة"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM شريحة"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "PIN أعد أدخال رمز"
+
+msgid "conn_ti_receive"
+msgstr "أستقبال الملف"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "لرد EAP-GTC أدخل"
+
+msgid "conn_ti_roaming"
+msgstr "السماح ببيانات التجوال تلقائيا?"
+
+msgid "conn_ti_select_device"
+msgstr "أختيار الجهاز"
+
+msgid "conn_ti_send_to_device"
+msgstr "إرسال إلى الجهاز"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "السماح بالأتصال بشبكة البينات الخلوية تلقائيا?"
+
+msgid "conn_ti_username_pw"
+msgstr "أسم المستخدم وكلمة المرور"
+
+msgid "conn_va_phone_clir_network"
+msgstr "السماح لشبكة بالأتصال"
+
+msgid "conn_va_phone_dc_never"
+msgstr "أبدا"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "مزدوج"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "السماح دائما"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "السؤال دائما"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "تلقائي"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "يدوي"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "البينات الخلوية"
+
+msgid "conn_va_wps_complient"
+msgstr "متوافقة Wi-Fi إعدادات حماية"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "مخفي"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: مرئي"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "أستلام من %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "إرسال إلى %s"
+
+msgid "stab_me_bt_off"
+msgstr "Off"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "الأتصال بالأنترنت"
+
+msgid "stab_me_internet_disconnected"
+msgstr "غير متصل"
+
+msgid "stab_me_internet_suspended"
+msgstr "الشبكة الخلوية غير متوفرة"
+
