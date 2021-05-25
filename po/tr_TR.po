@@ -1,0 +1,1391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.13 12:17+0300\n"
+"PO-Revision-Date: 2010-05-30 10:40+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Bağlantı yöneticisi"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Bağlan"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Bağlantıyı kes"
+
+msgid "conn_bd_devices_delete"
+msgstr "Sil"
+
+msgid "conn_bd_devices_edit"
+msgstr "Düzenle"
+
+msgid "conn_bd_devices_new"
+msgstr "Cihazlar"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Yeni"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Acil arama"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Seç"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Atla"
+
+msgid "conn_bd_pair"
+msgstr "Eşle"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Kişi seç"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Sıfırla"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Uyarıyı kapat"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Bağlantıyı kes"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Aktarım uyarısını etkinleştir"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Veri sayacı"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Dolaşım ağı veri sayacı"
+
+msgid "conn_bd_receive_ok"
+msgstr "Kaydet"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Bağlantıyı sil?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "%s bağlantısı kes ve sil?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Cihazımın adı"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth açık"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Görünür"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Yeni parolayı doğrula"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Bağlantı"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Yeni parola"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Eski parola"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Kullanıcı adı"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Bağlantıyı kes %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Gizli Wi-Fi"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Operatörden hücresel erişim noktası ayarları alındı. Kaydedilecek erişim noktasını seçin. Gelecekte ayarları tekrar almak için operatöre başvurun."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Uygun bağlantı yok"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(eşleşmiş cihaz yok)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Arama aktarma"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "20 saniyede cevap yok, meşgul veya uygun değilse"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Şuna aktar"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Arama bekletme"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Alındı"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Son sıfırlama"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Gönderildi"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Ev ağında aktarılan veri"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Dolaşım ağında aktarılan veri"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Uyarı göster her"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Veri dolaşımı"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Şebeke modu"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN kodu"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN kodu sor"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Şebeke seçimi"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Numaramı göster"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Bağlantı ayarları"
+
+msgid "conn_fi_receive_device"
+msgstr "Cihaz:"
+
+msgid "conn_fi_receive_file"
+msgstr "Bluetooth üzerinden dosya al?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Dosya:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Bilinmeyen"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Kaydettikten sonra aç"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Yanıt"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Sil"
+
+msgid "conn_iaps_bd_done"
+msgstr "Tamam"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Düzenle"
+
+msgid "conn_iaps_bd_new"
+msgstr "Yeni"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Bağlantılar"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Hücresel erişim noktası ayarları güncellendi"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Dosyayı açabilecek uygulama yok"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth açıldı"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Bağlanıldı %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Bağlantı kesildi %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Önce bütün gerekli alanları doldurun"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Bağlantı adı zaten kullanımda"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN kodu onaylandı"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Önce dial-up numarasını girin"
+
+msgid "conn_ib_enter_name"
+msgstr "Önce adı girin"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Önce geçerli IP adresini girin"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Çevrimdışı modu aktifleşti"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Eşleşme tamamlandı"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Internet'e bağlıyken silinemiyor"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Geçersiz PIN. SIM kartı PUK koduyla kilitlendi."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Geçersiz PIN kodu. 1 deneme kaldı."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Geçersiz PIN kodu. 2 deneme kaldı."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Kodlar eşleşmiyor"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Geçersiz PUK kodu"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Geçersiz PUK kodu. %d deneme kaldı."
+msgstr[1] "Geçersiz PUK kodu. %d deneme kaldı."
+
+msgid "conn_ib_invalid_number"
+msgstr "Geçersiz numara"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Maksimum karakter limitine ulaşıldı"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Maksimum karakter limitine ulaşıldı"
+
+msgid "conn_ib_min8val_req"
+msgstr "En az 8 karakter girilmeli"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Otomatik bağlantı etkisiz"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Mevcut kayıtlı bağlantı yok"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Yeni parola ve doğrulanan parola eşleşmiyor"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Eski parola geçersiz"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Aktif bağlantı yok"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Telefona devam eden bağlantı yok"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Eşleşmiş telefon yok"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Kaydedilmiş veri araması bağlantısı yok"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Kaydedilmiş bağlantı yok"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Kaydedilmiş telefon bağlantısı yok"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Kaydedilmiş paket veri bağlantısı yok"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Kaydedilmiş Wi-Fi bağlantısı yok"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Bütün Wi-Fi bağlantılar için aktarım gücü 10 mW oldu"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Bütün Wi-Fi bağlantılar için aktarım gücü 100 mW oldu"
+
+msgid "conn_ib_network_selected"
+msgstr "Ağ seçildi: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Silinecek bağlantı yok"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Düzenlenecek bağlantı yok"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Eşleşmiş cihaz yok"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normal mod aktifleşti"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Bluetooth kapalıyken mevcut değil"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Sadece ASCII karakterler kabul edilir"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Eşleşme iptal edildi"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Alım iptal edildi"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Alım tamamlandı"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Gönderim iptal edildi"
+
+msgid "conn_ib_sending_complete"
+msgstr "Gönderim tamamlandı"
+
+msgid "conn_ib_settings_saved"
+msgstr "Ayarlar kaydedildi"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Ayarlar kaydedildi. Yeniden bağlanıyor."
+
+msgid "conn_ib_suspended"
+msgstr "Hücresel veri mevcut değil"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Geçersiz karakterler. WEP anahtarını kontrol edin."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Geçersiz WEP anahtar uzunluğu. WEP anahtarını kontrol edin"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Kimlik denetimi başarısız"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Hücresel erişim noktası ayarları güncellenmedi. Alınan ayarlar mevcut olanlarla aynı."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth adresi:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Cihaz adı"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Desteklenen profiller:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Güvenilen cihaz"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Cihaz türü:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Ses/Video"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Hands-free"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Bilgisayar"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Kamera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Yazıcı"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Ağ erişim noktası"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Bilgisayar (dizüstü)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Diğer"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Çevresel"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Klavye"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Telefon"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Kategorisiz"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Aynı kodun iki cihazda da göründüğünü onaylayın:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Cihazla eşleştir:"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Erişim kodu"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Güvenilen cihazlara ekle"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Cihaz ismi alınıyor"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Değiştir"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Bağlantıyı seç"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Bağlantıyı kes"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Birincil DNS adresi:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "İkincil DNS adresi:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Bağlantı:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Varsayılan ağ geçidi:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP adresi:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Net maskesi:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(hiç)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP adres detayları"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Bağlantı yok"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Süre:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Telefon:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Alındı:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Gönderildi:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Sinyal:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Durum:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Veri aktarılıyor"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Bağlanıyor"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Bağlandı"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s bağlantı-yerel IP adresi kullanıyor"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internet bağlantısı:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Bağlantı türü:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Telefon ile veri araması"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Telefon ile paket veri"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Plansız Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Kapat"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Yardım"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Bağlantı ayarları"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Araçlar"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internet bağlantısı"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Bağlantı değiştir"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Bağlantı seç"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Bağlantıyı kes"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP adresi"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Mobil operatör kurulum sihirbazı"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Telefon"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Telefon bağlantısı kes"
+
+msgid "conn_mngr_ti_title"
+msgstr "Bağlantı yöneticisi"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Cihazla bağlantıyı kabul et?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Cihazı sil?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "%s ile alım iptal edilsin?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "%s ile gönderim iptal edilsin?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Internet bağlantısı başarısız. Uyumsuz Wi-Fi ağı.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Eşleşme başarısız\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Eşleşme başarısız. Kimlik denetimi başarısız.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Eşleşme başarısız. Cihaz kimlik denetimini reddetti.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Eşleşme başarısız. Cihaz kaynakları aşıldı.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Eşleşme başarısız. Son denemeden sonra yeterli süre geçmedi.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Eşleşme başarısız. Kimlik denetimi zaman-aşımına uğradı.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Bu bağlantıda veri dolaşımı izni ver?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Bu değere geçmek güç tüketimini oldukça arttırır.\n"
+"Yine de değiştir?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Internet bağlantısı başarısız.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Kimlik denetimi başarısız.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"%s cihazına bağlantı başarısız.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Ağ bağlantı hatası.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Uzak sunucu hatası.\n"
+"Tekrar dene?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Otomatik olarak hücresel operatörünüzün dışında (dolaşım) ve Wi-Fi yokken veri bağlantısı etkinleştirilsin mi? \n"
+"\n"
+"'Evet' seçimi dolaşımdayken otomatik olarak veri bağlantısı oluşturur ve sağlar. Bu ekstra giderlere sebep olabilir. 'Hayır' seçimi, yabancı hücresel şebeke her gerektiğinde size sorar. Bunu daha sonra değiştirebilirsiniz.\n"
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+" Wi-Fi bağlantısı mümkün değilken otomatik olarak paket veri bağlantısı (hücresel veri bağlantısı) aktifleşsin mi?\n"
+"\n"
+"Evet seçiminde, cihaz hücresel şebeke operatörünüzde (mümkün olduğunda) paket veri bağlantısı oluşturur ve sağlar. Veri aktarım ücretleri için şebeke sağlayıcınıza başvurun. Hayır seçimi, her paket veri aktarımı gerektiğinde size sorulmasını sağlar. Ayarlar'dan bunu daha sonra değiştirebilirsiniz"
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "%s bağlantısı başarısız"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"İnternet bağlantısı başarısız. Sunucudan IP adresi alınamadı.\n"
+"Tekrar dene?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"İnternet bağlantısı başarısız. Sunucudan IP adresi alınamadı. WEP anahtarı geçersiz olabilir.\n"
+"Tekrar dene?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Hücresel modem arızası. Servisle irtibata geçin."
+
+msgid "conn_ni_no_access"
+msgstr "Erişim yok"
+
+msgid "conn_ni_no_bt"
+msgstr "Çevrimdışı moddan çık?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Hücresel şebeke mevcut değil"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN kodu girilmedi. SIM kart kullanılmayacak."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "SIM kart takılı değil"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Eşleşme başarısız."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Eşleşme başarısız. Kimlik denetimi başarısız."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Eşleşme başarısız. Cihaz kimlik denetimini reddetti."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Eşleşme başarısız. Cihaz kaynakları aşıldı."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Eşleşme başarısız. Son denemeden sonra yeterli süre geçmedi."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Eşleşme başarısız. Kimlik denetimi zaman-aşımına uğradı."
+
+msgid "conn_ni_select_network"
+msgstr "Telefon ayarlarından şebekeyi seçin."
+
+msgid "conn_ni_sim_failure"
+msgstr "Tüm telefon özellikleri, acil durum aramaları dahil iletişim hatası sebebiyle etkisizleştirildi. Çözmek için, cihazı yeniden başlatmanız gerekebilir."
+
+msgid "conn_ni_sim_lock"
+msgstr "Cihazda bu SIM kart kullanılamıyor"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM kart kabul edilmedi. Operatörle irtibata geçin."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM kart kaydı başarısız"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM kart reddedildi"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Bağlanılıyor %s"
+
+msgid "conn_pb_connecting"
+msgstr "Bağlanılıyor"
+
+msgid "conn_pb_pairing"
+msgstr "Eşleşiliyor"
+
+msgid "conn_pb_searching"
+msgstr "Aranıyor"
+
+msgid "conn_pb_settings"
+msgstr "Ayarlar alınıyor"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Bağlantılar"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Herzaman sor"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Herhangi bağlantı"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Otomatik bağlan"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Hiçbiri"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Arama sıklığı"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Wi-Fi mevcutsa ona geç"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Gelişmiş"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Bağlantı türü:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN yöntemi"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Erişim noktası adı"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Web adresi"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "IP adresini otomatik al"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Birincil DNS adresi"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "İkincil DNS adresi"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP adresi"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Varsayılan ağ geçidi"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Alt-ağ maskesi"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "DNS otomatik algıla"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Otomatik"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Plansız kanal"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Güç tasarrufu"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Açık (maksimum)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Açık (orta)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Kapalı"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Wi-Fi aktarım gücü"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Sadece-WPA2 modu"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Vekil kullanma"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP vekil"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP vekil"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS vekil"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Port numarası"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP vekil"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Otomatik kurulum"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Vekil kullan"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Her girişte parola sor"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Bağlantı adı"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Bağlantı %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Bağlantı kurulumu tamamlandı.\n"
+"'Tamamla' tıklayarak kaydedebilir, veya diyalogu kapatarak değişiklikleri geri alabilirsiniz.\n"
+"'Gelişmiş' tıklayarak gelişmiş ayarları düzenleyebilirsiniz."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Parola"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Paket veri"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Wi-Fi ağlarını tara?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Çevrimdışı moddayken Wi-Fi ağları aranamıyor.\n"
+"Bağlantıyı elle belirleyin."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "'Sonraki' ile devam edin"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Kullanıcı adı"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Bağlantı kurulum sihirbazı cihazınızda bir Wi-Fi bağlantısı tanımlamanızı sağlar"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Ağ gizli"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Network mode"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Plansız"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Altyapı"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Güvenlik yöntemi"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Yok"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "EAP ile WPA"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA önpaylaşımlı anahtarı"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Ağ adı (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Her girişte parola sor"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Manuel kullanıcı adı"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Ağ"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Parola"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP yöntemi"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "İstemci kimlik denetimi gerektir"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Sertifika seç"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP yöntemi"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Manuel kullanıcı adı kullan"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Kullanıcı adı"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP anahtarı 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP anahtarı 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP anahtarı 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP anahtarı 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Varsayılan WEP anahtarı"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP anahtar uzunluğu"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 karakter (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 karakter (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 karakter (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 karakter (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP anahtarı"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP türü"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Anahtar"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Kablosuz istasyonda kolay kurulum işlemi için bir butona basın ve 'Tamam' tuşuna basın"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Ön-paylaşımlı anahtar"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Bu rakamları kablosuz istasyonda girin ve 'Tamam' tuşuna basın:"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Wi-Fi Korumalı Kurulumu Geç"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Bağlantı kurulumu: Gelişmiş ayarlar"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP Adresleri"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Diğer"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Vekiller"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Bağlantı kurulumu: Tamamlandı"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Bağlantı kurulumu: İsim ve tür"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Bağlantı kurulumu: Paket veri"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Bağlantı kurulumu: Hoşgeldiniz"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Bağlantı kurulumu: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "WEP anahtarını girin"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "WPA ön-paylaşımlı anahtarını girin"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Gizli ağ için SSID girin"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Bağlantı kurulumu: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "EAP türü seçin"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Bağlantı kurulumu: WEP anahtarı"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Connection setup: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Kullanıcı adı girin"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Kullanıcı adı & parola"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Bağlantu kurulumu: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Bağlantı kurulumu: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP kimlik denetimi"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Bağlantı kurulumu: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS kimlik denetimi"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Bağlantı kurulumu: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS kimlik denetimi"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Bağlantı kurulumu: WPA EAP türü"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Bağlantı kurulumu: WPA anahtarı"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Wi-Fi Korumalı Kurulum"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "WPS ön-paylaşımlı anahtarını girin"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Wi-Fi korumalı kurulum PIN yöntemi"
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internet bağlantıları"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Asla"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 dakika"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 dakika"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 dakika"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 dakika"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth cihazları"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "EAP-MSCHAPv2 parolasını değiştir"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Bağlantı seç"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Bağlantıyı kes veya değiştir"
+
+msgid "conn_ti_device_details"
+msgstr "Cihaz detayları"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Geçerli PIN kodunuzu girin"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Yeni PIN kodunuzu girin"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "PIN kodunuzu girin"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "PUK kodunuzu girin"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "SIM kart kilidini aç"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Geçersiz PIN kodu"
+
+msgid "conn_ti_iap_select"
+msgstr "Erişim noktasını kaydet?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Erişim noktası için PIN girin"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Cihaz ile eşleştir"
+
+msgid "conn_ti_phone_call"
+msgstr "Arama"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Telefon"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Şebeke veri"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Veri aktarımı uyarısı"
+
+msgid "conn_ti_phone_network"
+msgstr "Şebeke"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Şebeke seçin"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Dolaşım şebeke veri"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM kart"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Yeni PIN Kodunuzu tekrar girin"
+
+msgid "conn_ti_receive"
+msgstr "Dosya al"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "EAP-GTC cevabını girin"
+
+msgid "conn_ti_roaming"
+msgstr "Otomatik veri dolaşımı aktifleşsin mi?"
+
+msgid "conn_ti_select_device"
+msgstr "Cihaz seçin"
+
+msgid "conn_ti_send_to_device"
+msgstr "Bir cihaza gönder"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Otomatik hücresel veri bağlantısı aktifleşsin mi?"
+
+msgid "conn_ti_username_pw"
+msgstr "Kullanıcı adı & parola"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Şebeke belirler"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Asla"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Çift"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Herzaman izin ver"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Herzaman sor"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Otomatik"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Elle"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Hücresel veri"
+
+msgid "conn_va_wps_complient"
+msgstr "Wi-Fi Korumalı Kurulum destekli"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Gizli"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: görünür"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "%s alınıyor"
+
+msgid "stab_me_bt_file_sending"
+msgstr "%s gönderiliyor"
+
+msgid "stab_me_bt_off"
+msgstr "Kapalı"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internet bağlantısı"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Bağlı değil"
+
+msgid "stab_me_internet_suspended"
+msgstr "Hücresel veri mevcut değil"
+
