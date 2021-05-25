@@ -1,0 +1,1384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-02-21 12:10+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Kapcsolat kezelő"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Csatlakozás"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Kapcsolat bontása"
+
+msgid "conn_bd_devices_delete"
+msgstr "Törlés"
+
+msgid "conn_bd_devices_edit"
+msgstr "Szerkesztés"
+
+msgid "conn_bd_devices_new"
+msgstr "Új"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Eszközök"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Segélyhívás"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Kijelölés"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Kihagy"
+
+msgid "conn_bd_pair"
+msgstr "Párosítás"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Névjegy kijelölése"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Törlés"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Ne figyelmeztessen"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Csatlakozás bontása"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Adatátviteli figyelmeztetés"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Adatszámláló"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Roaming adatszámláló"
+
+msgid "conn_bd_receive_ok"
+msgstr "Mentés"
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+"Törlöd a kapcsolatot?\n"
+"%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Bontod és törlöd ezt a kapcsolatot: %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Eszközöm neve"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth be"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Látható"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Új jelszó ellenőrzése"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Csatlakozás"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Új jelszó"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Régi jelszó"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Felhasználónév"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "%s kapcsolat bontása"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Rejtett WLAN"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Mobil hozzáférési pont beállítások érkeztek a szolgáltatódtól. Válaszd ki a mentendő hozzáférési pontot. További beállítások küldésével kapcsolat konzultálj mobil szolgáltatóddal."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Nincsenek elérhető kapcsolatok"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(nincsenek párosított eszközök)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Hívás átirányítás"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Nincs válasz 20mp-en belül. nem elérhető vagy foglalt"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Átirányítás ide "
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Hívás várakoztatás"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Fogadott"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Törölt"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Küldött"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Továbbított adatok otthoni hálózaton"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Továbbított adatok külföldi hálózaton"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Figyelmeztetés minden"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB (megabájtnál)"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Adat roaming"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Hálózat fajta"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN kód"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN kód kérések"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Hálózat választás"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Saját szám küldése"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Csatlakozási beállítások"
+
+msgid "conn_fi_receive_device"
+msgstr "Eszköz:"
+
+msgid "conn_fi_receive_file"
+msgstr "Fogadsz fájlt Bluetooth-on keresztül?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Fájl:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Ismeretlen"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Fájl megnyitása mentés után"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Válasz"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Törlés"
+
+msgid "conn_iaps_bd_done"
+msgstr "Rendben"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Szerkesztés"
+
+msgid "conn_iaps_bd_new"
+msgstr "Új"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Kapcsolatok"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Mobil hozzáférési pont beállítások frissítve"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "A fájl megnyitásához nincs megfelelő alkalmazás"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth bekapcsolva"
+
+msgid "conn_ib_bt_set_off"
+msgstr "Bluetooth kikapcsolva"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Csatlakozva ide: %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Kapcsolat bontása ezzel: %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Először tölts ki minden szükséges mezőt"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Ez a kapcsolat-név már használatban van."
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN elfogadva"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "A tárcsázandó számot add meg először"
+
+msgid "conn_ib_enter_name"
+msgstr "A nevet add meg először"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Adj meg érvényes IP címet először"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Offline mód aktiválva"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Párosítás befejezve"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "A törlés nem lehetséges, míg csatlakozol az Internetre"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Hibás PIN. SIM feloldása PUK kóddal lehetséges"
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Hibás PIN. Utolsó kisérlet."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Hibás PIN. Még két kísérleted maradt."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "A kódok nem egyeznek"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Hibás PUK kód."
+
+msgid "conn_ib_invalid_number"
+msgstr "Helytelen szám"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Elérted a karakterek maximális számát"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Elérted a maximális karakterek számát"
+
+msgid "conn_ib_min8val_req"
+msgstr "Legalább 8 karaktert meg kell adnod"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Automatikus csatlakozás letiltva"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Nincsenek elérhető mentett kapcsolatok"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "A jelszó ismétlés sikertelen"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Régi jelszó hibás"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Nincs aktív kapcsolat"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Nincs folyamtban lévő kapcsolat a telefonnal"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Nincs párosított telefon"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Nincs mentett adatkapcsolat"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Nincs mentett kapcsolat"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Nincs mentett telefon kapcsolat"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Nincs mentett csomagkapcsolt kapcsolat"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Nincs mentett WLAN kapcsolat"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "WLAN kapcsolatok átviteli teljesítménye megváltoztatva 10 mW-ra"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "WLAN kapcsolatok átviteli teljesítménye megváltoztatva 10 mW-ra"
+
+msgid "conn_ib_network_selected"
+msgstr "Kiválasztott hálózat: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Nincs törlendő kapcsolat"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Nincs szerkesztendő kapcsolat"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Nincsenek párosított eszközök"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Normal mód bekapcsolva"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Nem elérhető míg a Bluetooth ki van kapcsolva"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Csak ASCII karakterekl megengedettek"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Párosítás leállítva"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Fogadás leállítva"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Fogadás befejezve"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Küldés leállítva"
+
+msgid "conn_ib_sending_complete"
+msgstr "Küldés befejezve"
+
+msgid "conn_ib_settings_saved"
+msgstr "Beállítások mentve"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Beállítások mentve. Újracsatlakozás..."
+
+msgid "conn_ib_suspended"
+msgstr "Cellular adat nem elérhető"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Érvénytelen karakterek. Ellenőrizd a WEP kulcsot."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Érvénytelen hosszúságú WEP kulcs. Ellenőrizd a WEP kulcsot."
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Hitelesítés sikertelen"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "A mobil hozzáférési pont beállítások nincsenek frissítve. A kapott beállítások megegyeznek a már létezővel."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth cím:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Eszköz neve:"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Támogatott profilok:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Megbízható eszköz"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Eszköz típus:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Audió/Videó"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Hands-free"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Számítógép"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Fényképezőgép"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Nyomtató"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Hálózat hozzáférési pont"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Számítógép (laptop)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Vegyes"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Külső periféria"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Billentyűzet"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Telefon"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Nem besorolt"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Erősítsd meg a kódot mindkét készüléken:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Párosítás eszközzel"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Számkód"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Beállítás jogosult készüléknek"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Eszköz nevének fogadása"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Változtatás"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Kapcsolat választása"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Csatlakozás bontása"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "OK"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Elsődleges DNS cím:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Másodlagos DNS cím:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Kapcsolat:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Alapértelmezett átjáró:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP cím:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Hálózati maszk:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(üres)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP cím adatok"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Nincs kapcsolat"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Időtartam:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Telefon:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Fogadott:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Küldött:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Jelző:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Állapot:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Adatátvitel"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Csatlakozás"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Csatlakozva"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s helyi IP címet használ"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Internet kapcsolat:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Kapcsolat típus:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Adathívás telefon segítségével"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Csomagkapcsolt kapcsolat telefon segítségével"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc WLAN"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Bezár"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Segítség"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Kapcsolódási beállítások"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Eszközök"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Internet kapcsolat"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Kapcsolat váltás"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Kapcsolat kijelölés"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Kapcsolat bontása"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP cím"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Mobil szolgáltató beállítás varázsló"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Telefon"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Telefon bontása"
+
+msgid "conn_mngr_ti_title"
+msgstr "Kapcsolat kezelő"
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+"Elfogadot a csatlakozást ezzel az eszközzel?\n"
+"%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+"Törlöd az eszközt?\n"
+"%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Leállítod a fogadást innen: %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Leállítod küldést ide: %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+"Internet kapcsolat sikertelen. WLAN hálózat nem kompatibilis.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+"Párosítás sikertelen.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+"Párosítás sikertelen. Azonosítás sikertelen.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+"Párosítás sikertelen. Eszköz hitelesítés visszautasítva.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+"Párosítás sikertelen. Eszköz erőforrások meghaladva.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+"Párosítás sikertelen. Nem telt el elég idő az előző párosítási kísérlet óta.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+"Párosítás sikertelen. Hitelesítés időtúllépése.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Engedélyezed az adat roamingot?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+"Ennek a beállításnak a megváltoztatása jelentősen megnöveli a készülék fogyasztását.\n"
+"Mégis megváltoztatod?"
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+"Internet csatlakozás sikertelen.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+"Azonosítás sikertelen.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+"Csatlakozás a(z) %s eszközhöz sikertelen.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+"Hálózati csatlakozási hiba.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+"Távoli kiszolgáló hiba.\n"
+"Ismét megpróbálod?"
+
+msgid "conn_nc_roaming"
+msgstr ""
+"Engedélyezed adatkapcsolat automatikus létrehozását ha szolgáltatód területén kívül tartózkodsz (roaming) és nincs WLAN kapcsolat?\n"
+"\n"
+"\n"
+"'Igen' esetén a készülék automatikusan adatkapcsolatot hoz létre és tart fent (roaming). Ez plusz költséget jelenthet. 'Nem' esetén a készülék rákérdez a kapcsolat létrehozására, amikor idegen szolgáltató rendszerét vennéd igénybe. Ezt később is\n"
+"megváltoztathatod a Beállítások-ban."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+"Engedélyezed az automatikus csatlakozást csomag adat kapcsolaton (mobil adat kapcsolat) amikor nincs elérhető WLAN kapcsolat?\n"
+"\n"
+"Ha az Igen-t választod, a készülék automatikus létrehoz és fentart csomag adat kapcsolatot a mobil hálózattal (ahol elérhető). Az adatforgalmi díjakról érdeklődj mobilszolgáltatódnál. Ha a Nem-et választod, a készülék . By choosing No, you will be informed whenever a packet data connection is needed. You can change this later via Settings."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Csatlakozás sikertelen ide: %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+"Interet csatlakozás sikertelen. IP cím kérése sikertelen.\n"
+"Megpróbálod újra?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+"Interet csatlakozás sikertelen. IP cím kérése sikertelen. Lehet, hogy a WEP kulcs érvénytelen.\n"
+"Megpróbálod újra?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Csatlakozás a hálózathoz nem lehetséges. Vedd fel a kapcsolatot a szervizzel."
+
+msgid "conn_ni_no_access"
+msgstr "Nincs hozzáférés"
+
+msgid "conn_ni_no_bt"
+msgstr "Kilépsz az offline módból?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Mobil hálózat nem elérhető."
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "Nem adtál meg PIN kódot. A SIM kártya nem elérhető."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Nincs SIM kártya a készülékben"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Párosítás sikertelen."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Párosítás sikertelen. Az azonosítás sikertelen."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Párosítás sikertelen, Az eszköz visszautasította az azonosítást."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Párosítás sikertelen. Eszköz erőforrások meghaladva."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Párosítás sikertelen. Nem telt el elég idő az előző párosítási kísérlet óta."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Párosítás sikertelen. Azonosítás időtúllépése."
+
+msgid "conn_ni_select_network"
+msgstr "Válasszd ki a hálózatot a Telefon beállításokban."
+
+msgid "conn_ni_sim_lock"
+msgstr "Ez a SIM kártya nem használható ebben az eszközben"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM kártya nem elfogadható. Vedd fel a kapcsolatot mobil szolgáltatóddal."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM kártya regisztrálása sikertelen"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM kártya elutasítva"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Csatlakozás ide: %s"
+
+msgid "conn_pb_connecting"
+msgstr "Csatlakozás"
+
+msgid "conn_pb_pairing"
+msgstr "Párosítás"
+
+msgid "conn_pb_searching"
+msgstr "Keresés"
+
+msgid "conn_pb_settings"
+msgstr "Beállítások fogadása"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Kapcsolatok"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Mindig rákérdez"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Bármilyen kapcsolat"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Automatikus csatlakozás"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Semmi"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Keresési időköz"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Csatlakozás WLAN-hoz, ha rendelkezésre áll"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Haladó"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Kapcsolat típusa:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN eljárás"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Hozzáférési pont neve"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Web cím"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "IP cím automatikus kiolvasása"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Elsődleges DNS cím"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Másodlagos DNS cím"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP cím"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Alapértelmezett átjáró"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Hálózati maszk"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Automatikus DNS kiolvasás"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automatikus"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc csatorna"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Energiatakarékos"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Be (maximális)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Be (közepes)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Ki"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "WLAN átviteli teljesítmény"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "WPA2-only mód"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Ne használjon proxy-t ehhez:"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Port szám"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Automatikus beállítás"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Proxy használata"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Jelszó kérése minden bejelentkezésnél"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Kapcsolat neve"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Kapcsolat %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+"Csatlakozás beállítása kész.\n"
+"Kattints a 'Befejez'-re, hogy elmentsd a beállításokat vagy a párbeszédablakon kívülre a beállítások elvetéséhez.\n"
+"Kattints a 'Haladó'-ra a haladó beállítások szerkesztéséhez."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Jelszó"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Csomag adat"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Keresel elérhető WLAN hálózatot?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+"Nem lehet elérhető WLAN hálózatot keresni offline módban.\n"
+"Állítsd be a kapcsolatot kézzel."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "A folytatáshoz kattints a 'Következő'-re"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Felhasználónév"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "A kapcsolat beállító varászló segítséget nyújt, hogy a WLAN kapcsolatot beállíthasd a készülékeden"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "A hálózat rejtett"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Hálózat mód"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infrastruktúra"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Biztonsági módszer"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Semmi"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA EAP-val"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA előre megosztott kulcs"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Hálózat neve (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Jelszó kérés minden bejelentkezésnél"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Felhasználónév megadása"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Hálózat"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Jelszó"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP módszer"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Kliens azonosítás megkövetelése"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Tanúsítvány kiválasztása"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP módszer"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Felhasználónév megadása kézzel"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Felhasználónév"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "1. WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "2. WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "3. WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "4. WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Alapértelmezett WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP kulcs hossza"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 karakter (ASCII 40/64 bit)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 karakter (HEX 40/64 bit)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 karakter (ASCII 104/128 bit)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 karakter (HEX 104/128 bit)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP kulcs"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP típus"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Előre megosztott kulcs"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Nyomj le egy gombot a vezeték nélküli állomáson, hogy a könnyű beállítás elkezdődhessen és kattints a 'Rendben'-re"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Előre megosztott kulcs"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Add meg a következő számokat a vezeték nélküli állomáson, majd kattints a 'Rendben'-re:"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Kapcsolat beállítása: Haladó beállítások"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP Címek"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Egyéb"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxy-k"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Kapcsolat beállítása: Kész"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Kapcsolat beállítása: Név és típus"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Kapcsolat beállítása: Csomag adat"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Kapcsolat beállítása: Üdvözlés"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Kapcsolat beállítása: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Add meg a WEP kulcsot"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Add meg a előre megosztott WPA kulcsot"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Add meg a rejtett hálózat SSID-jét"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Kapcsolat beállítása: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "EAP típus kiválasztása"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Kapcsolat beállítása: WEP kulcs"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Kapcsolat beállítása: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Add meg a felhasználónevet"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Felhaszálónév és jelszó"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Kapcsolat beállítása: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Kapcsolat beállítása: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP azonosítás"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Kapcsolat beállítása: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS azonosítás"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Kapcsolat beállítása: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS azonosítás"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Kapcsolat beállítása: WPA EAP típus"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Kapcsolat beállítása: WPA kulcs"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Védett Wi-Fi beállítása"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Előre megosztott WPS kulcs megadása"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Wi-Fi protected setup PIN method "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Internet kapcsolatok"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Soha"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 perc"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 perc"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 perc"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 perc"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth eszközök"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "EAP-MSCHAPv2 jelszó megváltoztatása"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Kapcsolat választása"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Kapcsolat bontása vagy megváltoztatása"
+
+msgid "conn_ti_device_details"
+msgstr "Eszköz adatai"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Add meg a jelenlegi PIN kódot"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Add meg az új PIN kódot"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Add meg a PIN kódot"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Add meg a PUK kódot"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr ""
+"Add meg a kódot a SIM kártya\n"
+"feloldásához"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Helytelen PIN kód"
+
+msgid "conn_ti_iap_select"
+msgstr "Mented a hozzáférési pontot?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Add meg a PIN kódot az hozzáférési ponthoz"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Párosítás eszközzel"
+
+msgid "conn_ti_phone_call"
+msgstr "Hívás"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Telefon"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Hálózati adatszámláló"
+
+msgid "conn_ti_phone_network"
+msgstr "Hálózat"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Roaming hálózati adatszámláló"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Hálózat választása"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM kártya"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Add meg ismét az új PIN kódot"
+
+msgid "conn_ti_receive"
+msgstr "Fájl fogadása"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Add meg az EAP-GTC választ"
+
+msgid "conn_ti_roaming"
+msgstr "Engedélyezed az automatikus adat roamingot?"
+
+msgid "conn_ti_select_device"
+msgstr "Eszköz választása"
+
+msgid "conn_ti_send_to_device"
+msgstr "Küldés eszközre"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Engedélyezet az automatikus mobil adat kapcsolatot?"
+
+msgid "conn_ti_username_pw"
+msgstr "Felhasználónév és jelszó"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Hálózat adja meg"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Soha"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dual"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Mindig engedélyezett"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Mindig rákérdez"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automatikus"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Kézi"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Mobil adat"
+
+msgid "conn_va_wps_complient"
+msgstr "Wi-Fi védelem beállítása megfelelő"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Rejtett"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: látható"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Fogadás innen: %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Küldés ide: %s"
+
+msgid "stab_me_bt_off"
+msgstr "Ki"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Internet kapcsolat"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Nincs csatlakoztatva"
+
+msgid "stab_me_internet_suspended"
+msgstr "Mobil adat nem áll rendelkezésre"
+
