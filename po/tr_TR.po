@@ -724,7 +724,7 @@ msgid "conn_nc_roaming"
 msgstr ""
 "Otomatik olarak hücresel operatörünüzün dışında (dolaşım) ve Wi-Fi yokken veri bağlantısı etkinleştirilsin mi? \n"
 "\n"
-"'Evet' seçimi dolaşımdayken otomatik olarak veri bağlantısı oluşturur ve sağlar. Bu ekstra giderlere sebep olabilir. 'Hayır' seçimi, yabancı hücresel şebeke her gerektiğinde size sorar. Bunu daha sonra değiştirebilirsiniz."
+"'Evet' seçimi dolaşımdayken otomatik olarak veri bağlantısı oluşturur ve sağlar. Bu ekstra giderlere sebep olabilir. 'Hayır' seçimi, yabancı hücresel şebeke her gerektiğinde size sorar. Bunu daha sonra değiştirebilirsiniz.\n"
 
 msgid "conn_nc_use_device_psd_auto"
 msgstr ""
