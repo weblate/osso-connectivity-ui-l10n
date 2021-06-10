@@ -1,0 +1,1345 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:40+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_ap_connmanager"
+msgstr "连接管理"
+
+msgid "conn_bd_device_details_connect"
+msgstr "连接"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "断开"
+
+msgid "conn_bd_devices_delete"
+msgstr "删除"
+
+msgid "conn_bd_devices_edit"
+msgstr "编辑"
+
+msgid "conn_bd_devices_new"
+msgstr "新建"
+
+msgid "conn_bd_dialog_devices"
+msgstr "设备"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "紧急呼叫"
+
+msgid "conn_bd_dialog_ok"
+msgstr "选择"
+
+msgid "conn_bd_dialog_skip"
+msgstr "跳过"
+
+msgid "conn_bd_pair"
+msgstr "对"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "选择联系人"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "重启"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "关闭传输提示"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "现在中断"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "启用传输提示"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "数据计数"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "漫游数据传输量"
+
+msgid "conn_bd_receive_ok"
+msgstr "保存"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "删除连接?\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "断开和删除连接 %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "我的设备名称"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "启用蓝牙"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "可见"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "确认新密码"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "连接"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "新密码"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "旧密码"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "用户名"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "断开 %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "隐藏WiFi"
+
+msgid "conn_fi_iap_select_text"
+msgstr "GPRS接入点设置来自于运营商.接受后选择接入点保存.请先咨询运营商后再进行设置."
+
+msgid "conn_fi_no_conn_available"
+msgstr "无连接可用"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(没有配对设备)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "来电转接"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "20秒内无回应,无应答或忙音."
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "转发给"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "呼叫等待"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "接收:"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "最后复位:"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "发送:"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "于网络运营商网络中数据传输"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "于漫游中数据传输"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "显示提示"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "数据漫游"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "网络模式"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN码"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN码请求"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "网络选择"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "发送本机号码"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "连接设置"
+
+msgid "conn_fi_receive_device"
+msgstr "设备:"
+
+msgid "conn_fi_receive_file"
+msgstr "通过蓝牙接收文件?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "文件:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "未知"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "保存后打开文件"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "响应"
+
+msgid "conn_iaps_bd_delete"
+msgstr "删除"
+
+msgid "conn_iaps_bd_done"
+msgstr "完成"
+
+msgid "conn_iaps_bd_edit"
+msgstr "编辑"
+
+msgid "conn_iaps_bd_new"
+msgstr "新建"
+
+msgid "conn_iaps_ti_connections"
+msgstr "连接"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "GPRS接入点设置更新"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "没有打开此文件的应用程序"
+
+msgid "conn_ib_bt_set_on"
+msgstr "蓝牙设置"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "连接至 %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "断开 %s"
+
+msgid "conn_ib_compl_all"
+msgstr "首先填写所需字段"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "连接名称已在使用"
+
+msgid "conn_ib_correct_pin"
+msgstr "正确的PIN码"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "首先输入拨号号码"
+
+msgid "conn_ib_enter_name"
+msgstr "首先输入名称"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "请输入有效的IP地址"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "飞行模式启动"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "配对完成"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "连接至网络时无法删除"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "不正确的PIN码,SIM卡已被PUK码锁定"
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "不正确的 PIN 码, 剩余 1 次尝试"
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "不正确的 PIN 码, 剩余 2 次尝试"
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "代码不匹配"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "PUK码不正确"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "不正确的 PUK 码, 剩余 %d 次尝试"
+
+msgid "conn_ib_invalid_number"
+msgstr "号码无效"
+
+msgid "conn_ib_max_char_reached"
+msgstr "已达最大字符数"
+
+msgid "conn_ib_maxval_reach"
+msgstr "已达最大字符数"
+
+msgid "conn_ib_min8val_req"
+msgstr "必须至少输入8个字符"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "自动连接禁用"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "无连接可用"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "新密码和确认密码不匹配"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "旧的密码不正确"
+
+msgid "conn_ib_net_no_conn"
+msgstr "没有可用的连接"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "没有持续连接到电话"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "没有手机配对"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "没有保存数据通话连接"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "没有保存连接"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "没有保存电话连接"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "没有保存GPRS连接"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "没有保存Wi-Fi连接"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "所有Wi-Fi连接的传输功率为10毫瓦"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "所有Wi-Fi连接的传输功率为100毫瓦"
+
+msgid "conn_ib_network_selected"
+msgstr "网络选择: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "没有连接删除"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "没有可编辑的连接"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "没有配对设备"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "正常模式启动"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "当蓝牙开启时不适用"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "只允许ASCII字符"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "配对取消"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "接收取消"
+
+msgid "conn_ib_receiving_complete"
+msgstr "接收完成"
+
+msgid "conn_ib_sending_canceled"
+msgstr "发送取消"
+
+msgid "conn_ib_sending_complete"
+msgstr "发送完成"
+
+msgid "conn_ib_settings_saved"
+msgstr "设置已保存"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "设置已保存.请重新连接."
+
+msgid "conn_ib_suspended"
+msgstr "手机网络不可用"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "无效的字符.检查WEP密钥"
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "无效的WEP密钥的长度.检查WEP密钥"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "验证失败"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "GPRS接入点设置没有更新.收到的设置与现行的相同."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "蓝牙地址:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "设备名称"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "支持配置文件:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "信任设备"
+
+msgid "conn_li_device_details_d_type"
+msgstr "设备类型:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "音频/视频"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "免提"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "计算机"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "照相"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "打印"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "局域网/网络接入点"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "电脑(笔记本电脑)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "其他"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "周边"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "键盘"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "电话"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "未归类"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "在两个设备上确认使用相同的代码:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "配对设备:"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "密码"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "设为信任设备"
+
+msgid "conn_li_select_device_resolving"
+msgstr "检索设备名称"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "充电中"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "选择连接"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "断开连接"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "确定"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "主DNS地址:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "辅助DNS地址:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "连接:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "默认网关:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP地址:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "子网掩码:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(无)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "详细IP地址"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "无连接"
+
+msgid "conn_mngr_fi_duration"
+msgstr "时间:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "电话:"
+
+msgid "conn_mngr_fi_received"
+msgstr "已收到:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "已发送:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "信号:"
+
+msgid "conn_mngr_fi_status"
+msgstr "状态:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "数据被转移"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "正在连接"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "已连接"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s 连接使用本地IP地址"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "网络连接:"
+
+msgid "conn_mngr_fi_type"
+msgstr "连接类型:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "CSD数据电话"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS电话"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "蓝牙"
+
+msgid "conn_mngr_me_close"
+msgstr "关闭"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "帮助"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "连接"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "工具"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "网络连接"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "更改连接"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "选择连接"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "断开"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP地址"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "移动运营商设置向导"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "电话"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "断开手机"
+
+msgid "conn_mngr_ti_title"
+msgstr "连接管理"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "接受与设备的连接?\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "删除设备?\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "取消接受从 %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "取消发送至 %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "网络连接失败.不兼容Wi-Fi网络.\n重试?"
+
+msgid "conn_nc_pairing_failed"
+msgstr "配对失败.\n重试?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "配对失败.验证失败.\n重试?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "配对失败.设备拒绝认证.\n重试?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "配对失败.设备资源超过.\n重试?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "配对失败.重试?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "配对失败.验证超时.\n重试?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "允许在这方面的数据漫游?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "更改为这个值增加电量时间降低功耗.\n是否改变?"
+
+msgid "conn_nc_retry_connection"
+msgstr "网络连接失败.\n重试?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "验证失败.\n重试?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "连接失败到设备重试?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "网络连接错误.\n重试?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "远程服务器错误.\n重试?"
+
+msgid "conn_nc_roaming"
+msgstr "当您的手机无法接收您的手机网络运营商以及Wifi信号时\n选择'是'来自动创建和维护一个数据连接(漫游).这可能涉及额外费用.\n选择'否'则会在出现上述情况时"
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "当您的手机无法接收您的手机网络运营商以及Wifi信号时\n选择'是'来自动创建和维护一个分组数据连接(漫游).请向您的手机网络运营商咨询网络数据传输的相关费用.\n选择'否'则会在出现上述情况时"
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "连接至失败 %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr "网络连接失败.无法获取IP地址.\n重试?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "网络连接失败.无法获取IP地址.重试?"
+
+msgid "conn_ni_modem_failure"
+msgstr "GPRS调制解调器故障.联系服务商."
+
+msgid "conn_ni_no_access"
+msgstr "没有访问"
+
+msgid "conn_ni_no_bt"
+msgstr "退出飞行模式?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "手机网络不可用"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "未输入PIN码.SIM卡无法使用."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "未插入SIM卡"
+
+msgid "conn_ni_pairing_failed"
+msgstr "配对失败."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "配对失败.身份验证失败."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "配对失败.设备拒绝验证."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "配对失败.设备资源超出."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "配对失败. 没有足够时间去尝试自上次配对失败t."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "配对失败.验证超时."
+
+msgid "conn_ni_select_network"
+msgstr "选择网络电话设置"
+
+msgid "conn_ni_sim_failure"
+msgstr "所有电话功能包括紧急电话因通讯错误而关闭, 你需要重新启动设备来恢复"
+
+msgid "conn_ni_sim_lock"
+msgstr "设备无法使用这种SIM卡"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM卡未被接受.请联系您的运营商"
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM卡注册失败"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM卡被拒绝"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "连接至 %s"
+
+msgid "conn_pb_connecting"
+msgstr "连接"
+
+msgid "conn_pb_pairing"
+msgstr "配对"
+
+msgid "conn_pb_searching"
+msgstr "搜索"
+
+msgid "conn_pb_settings"
+msgstr "检索设置"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "连接"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "总是询问"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "任何连接"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "自动连接"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "无"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "搜索间隔"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "当Wi-Fi可用时自动切换"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "高级"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "连接类型:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN 码方式"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "接入点名称"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "网址"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "自动获取IP地址"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "主DNS地址"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "辅助DNS地址"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP地址"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "默认网关"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "子网掩码"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "自动检索的DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "自动"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc 通道"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "省电模式"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "最省电"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "一般"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "关闭"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Wi-Fi的传输功率"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "仅限WPA2模式"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "不使用代理"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP 代理"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP 代理"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS 代理"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "端口号"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP协议代理"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "自动配置"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "使用代理"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "每次登陆时提示输入密码"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "连接名称"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "连接 %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "连接设置完成.\n点击点击"
+
+msgid "conn_set_iap_fi_password"
+msgstr "密码"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "扫描可用的Wi-Fi网络?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "在飞行模式下无法扫描可用的Wi-Fi网络.\n手动设置连接."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "点击 '下一步' 继续"
+
+msgid "conn_set_iap_fi_username"
+msgstr "用户名"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "连接设置向导允许您定义的Wi-Fi设备的连接"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "网络为隐藏"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "网络模式"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "基础网络"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "加密方式"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "无"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "使用EAP的WPA加密"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA预共享密钥"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "网络名称 (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "每次登录时提示输入密码"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "手动设置用户名"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "网络"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "密码"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP 方式"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "要求客户端身份验证"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "选择证书"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP 方式"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "手动设置用户名"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "用户名"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP 密钥 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP 密钥 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP 密钥 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP 密钥 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "默认WEP密钥"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP密钥太长"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 字符 (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 字符 (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 字符 (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 字符 (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP 密钥"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP 类型"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "预共享密钥"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "在无线下点击按钮来启动简易安装过程然后点击'完成'"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "预共享密钥"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "在无线电台上输入以下的数字然后点击'完成':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "略过 Wi-Fi 保护设定"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "连接设置：高级设置"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP地址"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "其他"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "代理"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "连接设置：完成"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "连接设置：名称和类型"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "连接设置：GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "连接设置：欢迎"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "连接设置：无线网络"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "输入WEP密钥"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "输入的WPA预共享密钥"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "输入隐藏的SSID网"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "连接设置：无线网络"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "选择EAP类型"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "连接设置：WEP密钥"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "连接设置: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "输入用户名"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "用户名和密码"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "连接设置: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "连接设置: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP 认证"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "连接设置: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS 认证"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "连接设置: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS 认证"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "连接设置：WPA的EAP类型"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "连接设置：WPA密钥"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Wi-Fi保护设置"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "输入 WPS 预共享密钥"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Wi-Fi受保护,请设置密码"
+
+msgid "conn_set_ti_conn_set"
+msgstr "网络连接"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "从不"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5分钟"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10分钟"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30分钟"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60分钟"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "蓝牙"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "蓝牙设备"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "修改 EAP-MSCHAPv2 密码"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "选择连接"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "断开或更改连接"
+
+msgid "conn_ti_device_details"
+msgstr "设备信息"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "输入当前PIN码"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "输入新的PIN码"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "输入PIN码"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "输入PUK码"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "输入SIM卡解锁码"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "不正确的PIN码"
+
+msgid "conn_ti_iap_select"
+msgstr "保存接入点?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "为接入点输入PIN码"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "与设备配对"
+
+msgid "conn_ti_phone_call"
+msgstr "呼叫"
+
+msgid "conn_ti_phone_cpa"
+msgstr "电话"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "网络数据"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "数据传输提示"
+
+msgid "conn_ti_phone_network"
+msgstr "网络"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "漫游数据"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "选择网络"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM 卡"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "再次输入新的PIN码"
+
+msgid "conn_ti_receive"
+msgstr "接收文件"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "输入 EAP-GTC 回应"
+
+msgid "conn_ti_roaming"
+msgstr "启用自动数据漫游?"
+
+msgid "conn_ti_select_device"
+msgstr "选择设备"
+
+msgid "conn_ti_send_to_device"
+msgstr "发送到设备"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "启用自动连接蜂窝数据?"
+
+msgid "conn_ti_username_pw"
+msgstr "用户名和密码"
+
+msgid "conn_va_phone_clir_network"
+msgstr "自动选择"
+
+msgid "conn_va_phone_dc_never"
+msgstr "从不"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "双模式"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "总是允许"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "总是询问"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "自动"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "手动"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "蜂窝数据"
+
+msgid "conn_va_wps_complient"
+msgstr "Wi-Fi标准保护设置"
+
+msgid "stab_me_bt"
+msgstr "蓝牙"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "隐藏"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: 可见"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "接收 %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "发送 %s"
+
+msgid "stab_me_bt_off"
+msgstr "关闭"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "网络连接"
+
+msgid "stab_me_internet_disconnected"
+msgstr "无连接"
+
+msgid "stab_me_internet_suspended"
+msgstr "蜂窝数据不可用"
