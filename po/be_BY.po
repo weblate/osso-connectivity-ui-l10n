@@ -1,0 +1,1347 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-04-14 13:27+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Кіраванне падлучэннямі"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Падключыць"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Адключыць"
+
+msgid "conn_bd_devices_delete"
+msgstr "Выдаліць"
+
+msgid "conn_bd_devices_edit"
+msgstr "Рэдагаваць"
+
+msgid "conn_bd_devices_new"
+msgstr "Новы"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Дэвайсы"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Экстраны выклік"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Абраць"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Прапусціць"
+
+msgid "conn_bd_pair"
+msgstr "Сувязь"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Абраць кантакт"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Ачысціць"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Адключыць папярэджанне"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Адключыць зараз"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Папярэджанне пры перадачы дадзеных"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Лічыльнік перадачы дадзеных"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Лічыльнік перадачы дадзеных у роўмінгу"
+
+msgid "conn_bd_receive_ok"
+msgstr "Захаваць"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "Выдаліць падлучэнне? \n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Адключыць і выдаліць злучэнне %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Назва дэвайса"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth уключаны"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Бачны"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Пацведзіць новы пароль"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Падучэнне"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Новы пароль"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Стары пароль"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Імя карыстальніка"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Адключыць %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Утоеная сетка WLAN"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Палучаны мабільныя налады кропкі доступу ад аператара. Абярыце кропку доступу, каб захаваць. Звярніцеся да аператара для атрымання налад зноў у будучыні."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Няма даступных падлучэнняў"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(Няма звязаных прылад)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Пераадрасаванне"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Няма адказу на працягу 20 секунд, недаступны або заняты"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Пераадрасаваць на"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Чаканне выкліку"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Прынятыя"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Ачышчаныя"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Пасланыя"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Дадзеныя перадаюцца праз сетку аператара"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Дадзеныя перадаюцца па сетцы роўмінгу"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Паказваць папярэджанне для кожнага"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "МБ"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Перадача дадзеных у роўмінгу"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Сеткавы рэжым"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN код"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Запыт PIN кода"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Выбар сеткі"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Паказаць свой нумар"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Налады падлучэння"
+
+msgid "conn_fi_receive_device"
+msgstr "Дэвайс:"
+
+msgid "conn_fi_receive_file"
+msgstr "Атрымаць файл праз Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Файл:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Невядомы"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Адчыніць файл пасля захавання"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s Б"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s ГБ"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s КБ"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s МБ"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Адказ"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Выдаліць"
+
+msgid "conn_iaps_bd_done"
+msgstr "Зроблена"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Рэдагаванне"
+
+msgid "conn_iaps_bd_new"
+msgstr "Новы"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Падлученні"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Налады мабільнай кропкі доступу абноўленыя"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Няма прыкладання для адчынення гэтага файла"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth уключаны"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Падучаны да %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Адключаны ад %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Спачатку запоўніце ўсе неабходныя палі"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Назва падлучэння ўжо выкарыстоўваецца"
+
+msgid "conn_ib_correct_pin"
+msgstr "Правільны PIN код"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Спачатку увядзіце нумар для выкліку"
+
+msgid "conn_ib_enter_name"
+msgstr "Спачатку ўвядзіце імя"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Спачатку увядзіце дзейсны IP-адрас"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Аўтаномны рэжым актываваны"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Спалучэнне завершана"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Немагчыма выдаліць пры падлучэнні"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Няправільны PIN код. SIM карта заблакаваная з дапамогай кода PUK."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Няправільны PIN код. Засталася 1 спроба."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Няправільны PIN код. Засталася 2 спробы."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Лічбы не супадаюць"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Няправільны PUK код"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Няправільны PUK код. Засталася яшчэ %d спроб."
+msgstr[1] "Няправільны PUK код. Засталася яшчэ %d спроб."
+
+msgid "conn_ib_invalid_number"
+msgstr "Няправільны нумар"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Дасягнута максімальная колькасць сімвалаў"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Дасягнута максімальная колькасць сімвалаў"
+
+msgid "conn_ib_min8val_req"
+msgstr "Па меншай ступені 8 сімвалаў павінна быць уведзена"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Аўтаматычнае падлучэнне забаронена"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Няма даступных захаваных падлучэнняў"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Паролі не супадаюць"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Стары пароль няправільны"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Няма актыўнага падлучэння"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Няма актыўнага падлучэння да тэлефона"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Няма спалучаных тэлефонаў"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Няма захаваных мабільных падлучэнняў"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Няма захаваных падлучэнняў"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Няма захаваных тэлефонных злучэнняў"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Няма захаваных GPRS падлучэнняў"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Няма захаваных WLAN падлучэнняў"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Магутнасць трансмісіі для ўсіх WLAN злучэнняў змянілася да 10 МВт"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Магутнасць трансмісіі для ўсіх WLAN злучэнняў змянілася да 100 МВт"
+
+msgid "conn_ib_network_selected"
+msgstr "Абранае падлучэнне: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Няма падлучэння для выдалення"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Няма падлучэння для рэдагавання"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Няма спалучаных дэвайсаў"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Актываваны нармальны рэжым"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Недаступна, калі Bluetooth не ўключаны"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Дазволеныя толькі ASCII сімвалы"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Спалучэнне скасавана"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Атрыманне скасавана"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Атрыманне завершана"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Адпраўка скасавана"
+
+msgid "conn_ib_sending_complete"
+msgstr "Адпраўка завершана"
+
+msgid "conn_ib_settings_saved"
+msgstr "Налады захаваныя"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Налады захаваныя. Паўторнае падлучэнне."
+
+msgid "conn_ib_suspended"
+msgstr "Мабільная сувязь недаступна"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Няправільныя сімвалы. Праверце WEP ключ."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Няправільная даўжыня ключа WEP. Праверце WEP ключ"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Памылка аўтэнтыфікацыі"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Налады кропкі доступу не абноўленыя. Атрыманыя налады, ідэнтычныя сучасным."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth адрас:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Назва дэвайса"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Падтрымоўваныя профілі:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SUP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Давераныя дэвайсы"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Тып дэвайса:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Аўдыё/Відэа"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "'Без рук'"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Камп'ютар"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Камера"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Прынтар"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Сетка кропка доступу"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Ноўтбук"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Іншае"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "КПК"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Перыферычны"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Клавіятура"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Тэлефон"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Невядома"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Пераканайцеся, што той жа самы код адлюстроўваецца на абодвух дэвайсах:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Спалучыцца з дэвайсам"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Пароль"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Адзначыць як давераную прыладу"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Атрыманне імені дэвайса"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Змяніць"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Абраць падлучэнне"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Адключыць"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "ОК"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Першасны адрас DNS:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Другасны адрас DNS:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Падлучэнне:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Шлюз па змаўчанні:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP адрас:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Маска падсеткі:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(няма)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "Апісанне IP адрасу"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Няма падлучэння"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Працягласць:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Тэлефон:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Атрымана:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s Б"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s ГБ"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s КБ"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s МБ"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Дасланыя:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Сыгнал:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Стан:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Дадзеныя перадаюцца"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Падлучэнне"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Падлучана"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s выкарыстоўвае лакальны адрас"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Сеціўнае падлучэнне:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Тып падлучэння:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Data call using phone"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS using phone"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Зачыніць"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Дапамога"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Падлучэнне"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Інструменты"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Сеціўнае падлучэнне"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Змяніць падлучэнне"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Абраць падлучэнне"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Адключыцца"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP адрас"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Майстар налады мабільнага аператара"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Тэлефон"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Адключыць ад тэлефона"
+
+msgid "conn_mngr_ti_title"
+msgstr "Дыспетчар злучэнняў"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "Прыняць злучэнне з дэвайсам?\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "Выдаліць дэвайс?\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Скасаваць адтрыманне ад %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Скасаваць адпраўку да %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "Памылка Сеціўнага падлучэння. Несумяшчальная сетка WLAN. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed"
+msgstr "Памылка спалучэння. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "Памылка спалучэння. Аўтэнтыфікацыя не ўдалася. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "Памылка спалучэння. Дэвайс адхіліў аўтэнтыфікацыю. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "Памылка спалучэння. Магчымасці прылады перавышаны. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "Памылка спалучэння. Не прайшло дастаткова часу ад апошняга запыту. \nПаўтарыць?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "Памылка спалучэння. Тайм-аўт праверкі сапраўднасці. \nПаўтарыць?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Дазволіць перадачу дадзеных у роўмінгу?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "Змяненне гэтага значэння істотна павялічыць спажыванне энергіі. \nУсё роўна змяніць?"
+
+msgid "conn_nc_retry_connection"
+msgstr "Памылка Сеціўнага падлучэння. \nПаўтарыць?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "Памылка аўтэнтыфікацыі. \nПаўтарыць?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "Памылка падлучэння да дэвайса %s. \nПаўтарыць?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "Памылка сеткавага падлучэння. \nПаўтарыць?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "Памылка выдаленага сервера. \nПаўтарыць?"
+
+msgid "conn_nc_roaming"
+msgstr "Аўтаматычна даазволіць перадачу дадзеных, калі вы знаходзіцеся ў роўмінгу і там няма кропкі доступу WLAN?\n\nАбіранне 'Так' аўтаматычна стварае і падтрымлівае злучэнне для перадачы дадзеных у роўмінгу. Гэта можа прывесці да дадатковых выдаткаў. Абіранне 'Не' прапануе запыт кожны раз, калі патрабуецца падключэнне да сотавай сеткі замежнага аператара. Вы можаце змяніць гэта пазней праз Налады."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "Аўтаматычна дазволіць GPRS падлучэнне (мабільная сувязь), калі няма кропак доступу WLAN? \n\nПры выбары 'Так' дэвайс аўтаматычна стварае і падтрымлівае пакетную перадачу дадзеных па сетцы паслуг сеткі аператара (калі такія маюцца). Звярніцеся да пастаўшчыка паслуг сеткі для атрымання інфармацыі аб тарыфах за перадачу дадзеных. Пры выбары 'Не' вы будзеце праінфармаваныя, калі спатрэбіцца пакетная перадача дадзеных. Вы можаце змяніць гэта пазней праз Налады."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Памылка падлучэння да %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr "Памылка Сеціўнага падлучэння. Немагчыма атрымаць IP адрас з сервера. \nПаўтарыць?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "Памылка Сеціўнага падлучэння. Немагчыма атрымаць IP-адрас з сервера. WEP-ключ можа быць няправільным. \nПаўтарыць"
+
+msgid "conn_ni_modem_failure"
+msgstr "Не атрымалася ўсталяваць падлучэнне да сеткі. Звярніцеся да аператара."
+
+msgid "conn_ni_no_access"
+msgstr "Няма доступу"
+
+msgid "conn_ni_no_bt"
+msgstr "Выйсці з аўтаномнага рэжыму?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Мабільная сетка недаступная"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN код не ўведзены. SIM карта недаступна."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "SIM карта не ўстаўлена"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Памылка спалучэння"
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Памылка спалучэння. Аўтэнтыфікацыя не ўдалася."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Памылка спалучэння. Дэвайс адхіліў аўтэнтыфікацыю."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Памылка спалучэння. Магчымасці прылады перавышаны."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Памылка спалучэння. Не прайшло дастаткова часу ад апошняга запыту."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Памылка спалучэння. Тайм-аўт праверкі сапраўднасці."
+
+msgid "conn_ni_select_network"
+msgstr "Абярыце сетку ў наладах Тэлефона."
+
+msgid "conn_ni_sim_failure"
+msgstr "Усе тэлефонныя функцыі, уключаючы выклік службы экстранай дапамогі, будуць адключаныя з-за памылкі сувязі. Для аднаўлення, вам трэба перазагрузіць дэвайс."
+
+msgid "conn_ni_sim_lock"
+msgstr "Немагчыма выкарыстоўваць гэтую SIM карту ў дэвайсе"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM карта не прымаецца. Звяжыцеся з вашым аператарам."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "Рэгістраванне SIM карты не ўдалося"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM карта адхілена"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Падлучэнне да %s"
+
+msgid "conn_pb_connecting"
+msgstr "Падлучэнне"
+
+msgid "conn_pb_pairing"
+msgstr "Спалучэнне"
+
+msgid "conn_pb_searching"
+msgstr "Пошук"
+
+msgid "conn_pb_settings"
+msgstr "Атрыманне налад"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Падлучэнні"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Пытаць заўсёды"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Любое падлучэнне"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Падлучацца аўтаматычна"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Няма"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Інтэрвал пошуку"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Пераключыць на WLAN, калі магчыма"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Дадаткова"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Тып злучэння:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN метад"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Назва кропкі доступу"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Сеціўны адрас"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Атрымліваць IP адрас аўтаматычна"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Першасны адрас DNS:"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Другасны адрас DNS:"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP адрас"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Шлюз па змаўчанні"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Маска падсеткі"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Атрымліваць DNS аўтаматычна"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Аўтаматычна"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc канал"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Энергазахаванне"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Уключана (поўнае)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Уключана (сярэдняе)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Выключана"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Магутнасць перадачы WLAN"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 мВт"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 мВт"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Толькі WPA2"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Не выкарыстоўваць proxy для"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Нумар порта"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Аўтаматычная канфігурацыя"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Выкарыстоўваць proxy"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Запытваць пароль пры кожным ўваходзе"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Назва падлучэння"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Падлучэнне %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "Налада злучэння завершана. \nНацісніце 'Гатова', каб захаваць або зачыніць акно, каб адмовіцца ад налады. \nНацісніце 'Дадаткова', каб змяніць дадатковыя параметры."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Пароль"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Сканаваць даступныя сеткі WLAN?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "Немагчыма сканаваць даступныя сеткі WLAN ў рэжыме без сувязі. \nНаладзьце злучэнне ўручную."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Націсніце 'Далей' для працягу"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Імя карыстальніка"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Майстар налады злучэння дазваляе вызначыць WLAN злучэнні на дэвайсе"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Сетка схаваная"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Cеткавы рэжым"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Інфраструктура"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Метад бяспекі"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Няма"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA з EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "Агульны ключ WPA"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Назва сеткі (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Запыт пароля пры кожным ўваходзе"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Поўнае імя карыстальніка"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Сетка"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Пароль"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "Метад EAP"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Патрабаваць аўтэнтыфікацыі кліента"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Абраць сертыфікат"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "Метад EAP"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Выкарыстоўваць поўнае імя карыстальніка"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Імя карыстальніка"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "1 ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "2 ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "3 ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "4 ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Стандартны ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "Даўжыня ключа WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 сімвалаў (ASCII 40/64 біт)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 сімвалаў (HEX 40/64 біт)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 сімвалаў (ASCII 104/128 біт)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 сімвалаў (HEX 104/128 біт)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "Ключ WEP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "Тып EAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Агульны ключ"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Націсніце кнопку на бесправоднай станцыі, каб пачаць лёгкі працэс усталёўкі і націсніце 'Гатова'"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Агульны ключ"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Увядзіце наступныя лічбы на бесправоднай станцыі і націсніце 'Гатова':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Прапусціць наладу бяспечнага Wi-Fi"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Налада злучэння: Дадатковыя налады"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP адрасы"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Іншае"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxies"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Налада злучэння: Завершана"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Налада злучэння: Імя і тып"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Налада злучэння: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Налада злучэння: Сардэчна запрашайма"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Налада злучэння: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Увядзіце ключ WEP"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Увядзіце агульны ключ WPA"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Увядзіце SSID схаванай сеткі"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Налада злучэння: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Абярыце тып WPA"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Налада злучэння: Ключ WEP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Налада злучэння: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Увядзіце імя карыстальніка"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Імя карыстальніка і пароль"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Налада злучэння: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Налада злучэння: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "Аўтэнтыфікацыя WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Налада злучэння: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "Аўтэнтыфікацыя WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Налада злучэння: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "Аўтэнтыфікацыя WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Налада злучэння: Тып WPA EAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Налада злучэння: Ключ WPA"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Налада бяспечнага Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Увядзіце агульны ключ WPS"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Налада бяспечнага Wi-Fi метад PIN"
+
+msgid "conn_set_ti_conn_set"
+msgstr "Сеціўныя падлучэнні"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Ніколі"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 хвілін"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 хвілін"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 хвілін"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 хвілін"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Дэвайсы Bluetooth"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Змяніць пароль EAP-MSCHAPv2"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Абраць падлучэнне"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Адключыцца ці змяніць падлучэнне"
+
+msgid "conn_ti_device_details"
+msgstr "Апісанне дэвайса"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Увядзіце бягучы PIN код"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Увядзіце новы PIN код"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Увядзіце PIN код"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Увядзіце PUK код"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "Увядзіце код для разблакоўкі SIM карты"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Няправільны PIN код"
+
+msgid "conn_ti_iap_select"
+msgstr "Захаваць кропку доступу?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Увядзіце PIN код для кропкі доступу"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Спалучыцца з дэвайсам"
+
+msgid "conn_ti_phone_call"
+msgstr "Выклік"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Тэлефон"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Сеткавы трафік аператара"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Папярэджанне пры перадачы дадзеных"
+
+msgid "conn_ti_phone_network"
+msgstr "Сетка"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Сеткавы трафік у роўмінгу"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Абраць сетку"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM карта"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Паўтарыце новы PIN код"
+
+msgid "conn_ti_receive"
+msgstr "Атрымаць файл"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Увядзіце EAP-GTC адказ"
+
+msgid "conn_ti_roaming"
+msgstr "Уключыць аўтаматычную перадачу дадзеных у роўмінгу?"
+
+msgid "conn_ti_select_device"
+msgstr "Абраць дэвайс"
+
+msgid "conn_ti_send_to_device"
+msgstr "Даслаць да дэвайса"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Дазволіць аўтаматычнае падлучэнне мабільнай перадачы дадзеных?"
+
+msgid "conn_ti_username_pw"
+msgstr "Імя карыстальніка і пароль"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Па выбару аператара"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Ніколі"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "GSM/3G"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Заўсёды дазволена"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Заўсёды пытаць"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Аўтаматычна"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Уручную"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Мабільныя дадзеныя"
+
+msgid "conn_va_wps_complient"
+msgstr "Магчымасць налады бяспечнай Wi-Fi"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Утоены"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: бачны"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Атрыманне ад %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Дасланне да %s"
+
+msgid "stab_me_bt_off"
+msgstr "Выключаны"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Сеціўнае злучэнне"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Не падлучаны"
+
+msgid "stab_me_internet_suspended"
+msgstr "Мабільнае падлучэнне недаступнае"
