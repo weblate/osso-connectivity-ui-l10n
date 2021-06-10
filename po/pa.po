@@ -1,0 +1,1346 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_ap_connmanager"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਮੈਨੇਜਰ"
+
+msgid "conn_bd_device_details_connect"
+msgstr "ਕੁਨੈਕਟ ਕਰੋ"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ"
+
+msgid "conn_bd_devices_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "conn_bd_devices_edit"
+msgstr "ਸੋਧ"
+
+msgid "conn_bd_devices_new"
+msgstr "ਨਵਾਂ"
+
+msgid "conn_bd_dialog_devices"
+msgstr "ਜੰਤਰ"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "ਐਮਰਜੈਂਸੀ ਕਾਲ"
+
+msgid "conn_bd_dialog_ok"
+msgstr "ਚੁਣੋ"
+
+msgid "conn_bd_dialog_skip"
+msgstr "ਛੱਡੋ"
+
+msgid "conn_bd_pair"
+msgstr "ਪੇਅਰ ਕਰੋ"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "ਸੰਪਰਕ ਚੁਣੋ"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "ਸਾਫ਼ ਕਰੋ"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Disable warning"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Disconnect now"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Enable transfer warning"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "ਡਾਟਾ ਗਿਣਤੀ"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Roaming network data counter"
+
+msgid "conn_bd_receive_ok"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਹਟਾਉਣਾ ਹੈ?\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "ਡਿਸਕੁਨੈਕਟ ਕਰਨਾ ਅਤੇ ਕੁਨੈਕਸ਼ਨ %s ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "ਮੇਰੇ ਜੰਤਰ ਦਾ ਨਾਂ"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "ਨੋਕੀਆ N੯੦੦"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "ਬਲਿਊਟੁੱਥ ਚਾਲੂ"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "ਦਿੱਖ"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "ਪੁਰਾਣਾ ਪਾਸਵਰਡ"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "%s ਡਿਸਕੁਨੈਕਟ ਕਰੋ"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "ਲੁਕਵਾਂ ਵਾਈ-ਫਾਈ"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Cellular access point settings received from operator. Select access point to save. Consult operator to receive settings again in future."
+
+msgid "conn_fi_no_conn_available"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(ਕੋਈ ਪੇਅਰ ਕੀਤਾ ਜੰਤਰ ਨਹੀਂ)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "ਕਾਲ ਫਾਰਵਰਡ"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "੨੦ ਸਕਿੰਟਾਂ ਵਿੱਚ ਕੋਈ ਜਵਾਬ ਨਹੀਂ, ਉਪਲੱਬਧ ਨਹੀਂ ਜਾਂ ਰੁੱਝੇ"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "ਅੱਗੇ ਭੇਜੋ"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "ਕਾਲ ਉਡੀਕ ਵਿੱਚ"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "ਆਈ"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "ਸਾਫ਼ ਕੀਤੇ"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "ਭੇਜੇ"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Data transferred in home network"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Data transferred in roaming network"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Display warning for every"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "ਡਾਟਾ ਰੋਮਿੰਗ"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "ਨੈੱਟਵਰਕ ਮੋਡ"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN ਕੋਡ"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN ਕੋਡ ਮੰਗ"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "ਨੈੱਟਵਰਕ ਚੋਣ"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "ਮੇਰਾ ਕਾਲ ਕਰਨ ਵਾਲਾ ID ਦਿਓ"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ"
+
+msgid "conn_fi_receive_device"
+msgstr "ਜੰਤਰ:"
+
+msgid "conn_fi_receive_file"
+msgstr "ਫਾਇਲ ਬਲਿਊਟੁੱਥ ਰਾਹੀਂ ਲੈਣੀ ਹੈ?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "ਫਾਇਲ:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "ਅਣਜਾਣ"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "ਸੰਭਾਲਣ ਬਾਅਦ ਫਾਇਲ ਖੋਲ੍ਹੋ"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "ਜਵਾਬ"
+
+msgid "conn_iaps_bd_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "conn_iaps_bd_done"
+msgstr "ਮੁਕੰਮਲ"
+
+msgid "conn_iaps_bd_edit"
+msgstr "ਸੋਧ"
+
+msgid "conn_iaps_bd_new"
+msgstr "ਨਵਾਂ"
+
+msgid "conn_iaps_ti_connections"
+msgstr "ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "ਸੈਲੂਲਰ ਅਸੈੱਸ ਪੁਆਇੰਟ ਸੈਟਿੰਗ ਅੱਪਡੇਟ ਕੀਤੀ"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "ਇਹ ਫਾਇਲ ਖੋਲ੍ਹਣ ਲਈ ਕੋਈ ਐਪਲੀਕੇਸ਼ਨ ਨਹੀਂ ਹੈ"
+
+msgid "conn_ib_bt_set_on"
+msgstr "ਬਲਿਊਟੁੱਥ ਸੈੱਟ ਚਾਲੂ"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "%s ਤੋਂ ਡਿਸਕੁਨੈਕਟ"
+
+msgid "conn_ib_compl_all"
+msgstr "ਪਹਿਲਾਂ ਸਭ ਲੋੜੀਦੇ ਖੇਤਰ ਭਰੋ"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤੋਂ ਵਿੱਚ ਹੈ"
+
+msgid "conn_ib_correct_pin"
+msgstr "PIN ਕੋਡ ਠੀਕ ਹੈ"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "ਪਹਿਲਾਂ ਡਾਇਲਅੱਪ ਨੰਬਰ ਦਿਓ"
+
+msgid "conn_ib_enter_name"
+msgstr "ਪਹਿਲਾਂ ਨਾਂ ਦਿਓ"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "ਪਹਿਲਾਂ ਠੀਕ IP ਐਡਰੈੱਸ ਦਿਓ"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "ਆਫਲਾਈਨ ਮੋਡ ਐਕਟੀਵੇਟ ਹੈ"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "ਪੇਅਰਿੰਗ ਮੁਕੰਮਲ ਹੋਈ"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "ਇੰਟਰਨੈੱਟ ਨਾਲ ਕੁਨੈਕਟ ਹੋਣ ਸਮੇਂ ਹਟਾਉਣ ਤੋਂ ਅਸਮਰੱਥ"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Incorrect PIN. SIM locked with PUK code."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Incorrect PIN code. 1 attempt remaining."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Incorrect PIN code. 2 attempts remaining."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Codes do not match"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Incorrect PUK code"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Incorrect PUK code. %d attempt remaining."
+msgstr[1] "Incorrect PUK code. %d attempts remaining."
+
+msgid "conn_ib_invalid_number"
+msgstr "ਗਲਤ ਨੰਬਰ"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Maximum number of characters reached"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Maximum number of characters reached"
+
+msgid "conn_ib_min8val_req"
+msgstr "ਘੱਟੋ-ਘੱਟ ੮ ਅੱਖਰ ਦੇਣੇ ਲਾਜ਼ਮੀ ਹਨ"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "ਆਟੋਮੈਟਿਕ ਕੁਨਕੈਸ਼ਨ ਬੰਦ ਹੈ"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "ਕੋਈ ਸੰਭਾਲਿਆ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਅਤੇ ਪੁਸ਼ਟੀ ਕੀਤਾ ਪਾਸਵਰਡ ਮਿਲਦੇ ਨਹੀਂ ਹਨ"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "ਪੁਰਾਣਾ ਪਾਸਵਰਡ ਗਲਤ ਹੈ"
+
+msgid "conn_ib_net_no_conn"
+msgstr "ਕੋਈ ਐਕਟਿਵ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "ਫੋਨ ਲਈ ਕੋਈ ਚਾਲੂ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "ਕੋਈ ਫੋਨ ਪੇਅਰ ਨਹੀਂ ਹੈ"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "ਕੋਈ ਡਾਟਾ ਕਾਲ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਸੰਭਾਲਿਆ"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "ਕੋਈ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਸੰਭਾਲਿਆ"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "No phone connections saved"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "ਕੋਈ GPRS ਕੁਨੈਕਸ਼ਨ ਸੰਭਾਲਿਆ ਨਹੀਂ"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "ਕੋਈ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਸੰਭਾਲਿਆ"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Transmission power for all Wi-Fi connections changed to 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Transmission power for all Wi-Fi connections changed to 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "ਚੁਣਿਆ ਨੈੱਟਵਰਕ: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "ਹਟਾਉਣ ਲਈ ਕੋਈ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "ਸੋਧਣ ਲਈ ਕੋਈ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "ਕੋਈ ਪੇਅਰ ਕੀਤਾ ਜੰਤਰ ਨਹੀਂ"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "ਸਧਾਰਨ ਮੋਡ ਸਰਗਰਮ ਹੈ"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Not available while Bluetooth set off"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "ਕੇਵਲ ASCII ਅੱਖਰ ਮਨਜ਼ੂਰ ਹਨ"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "ਪੇਅਰ ਕਰਨਾ ਰੱਦ ਕੀਤਾ"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "ਲੈਣਾ ਰੱਦ ਕੀਤਾ"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Receiving complete"
+
+msgid "conn_ib_sending_canceled"
+msgstr "ਭੇਜਣਾ ਰੱਦ ਕੀਤਾ"
+
+msgid "conn_ib_sending_complete"
+msgstr "ਭੇਜਣਾ ਮੁਕੰਮਲ ਹੋਇਆ"
+
+msgid "conn_ib_settings_saved"
+msgstr "ਸੈਟਿੰਗ ਸੰਭਾਲੀ ਗਈ"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "ਸੈਟਿੰਗ ਸੰਭਾਲੀ ਗਈ। ਮੁੜ-ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "conn_ib_suspended"
+msgstr "ਸੈੱਲੂਲਰ ਡਾਟਾ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Invalid characters. Check WEP key."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Invalid WEP key length. Check WEP key"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "ਪਰਮਾਣਕਿਤਾ ਫੇਲ੍ਹ ਹੋਈ"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Cellular access point settings not updated. Received settings identical to current ones."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "ਬਲਿਉਟੁੱਥ ਐਡਰੈੱਸ:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "ਜੰਤਰ ਨਾਂ"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "ਸਹਾਇਕ ਪਰੋਫਾਇਲ:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "ਟਰਸਟੱਡ ਜੰਤਰ"
+
+msgid "conn_li_device_details_d_type"
+msgstr "ਜੰਤਰ ਕਿਸਮ:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "ਆਡੀਓ/ਵਿਡੀਓ"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "ਹੈੱਡਫਰੀ"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "ਕੰਪਿਊਟਰ"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "ਕੈਮਰਾ"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "ਪਰਿੰਟਰ"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/ਨੈੱਟਵਰਕ ਅਸੈੱਸ ਪੁਆਇੰਟ"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "ਕੰਪਿਊਟਰ (ਲੈਪਟਾਪ)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "ਫੁਟਕਲ"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "ਪੇਰੀਫਿਰਲ"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "ਕੀਬੋਰਡ"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "ਫੋਨ"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "ਬਿਨਾਂ-ਵਰਗ"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Confirm that same code is shown on both devices:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "ਜੰਤਰ ਨਾਲ ਪੇਅਰ ਕਰੋ"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "ਪਾਸਕੋਡ"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "ਟਰੱਸਟ ਕੀਤੇ ਜੰਤਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Retrieving device name"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "ਬਦਲੋ"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਚੁਣੋ"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "ਪ੍ਰਾਇਮਰੀ DNS ਐਡਰੈੱਸ:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "ਸੈਕੰਡਰੀ DNS ਐਡਰੈੱਸ:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "ਕੁਨੈਕਸ਼ਨ:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "ਡਿਫਾਲਟ ਗੇਟਵੇ:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP ਐਡਰੈੱਸ:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "ਨੈੱਟਮਾਸਕ:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(ਕੋਈ ਨਹੀਂ)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "IP ਐਡਰੈੱਸ ਵੇਰਵਾ"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ"
+
+msgid "conn_mngr_fi_duration"
+msgstr "ਅੰਤਰਾਲ:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "ਫੋਨ:"
+
+msgid "conn_mngr_fi_received"
+msgstr "ਮਿਲੇ:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "ਭੇਜੇ:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "ਸਿਗਨਲ:"
+
+msgid "conn_mngr_fi_status"
+msgstr "ਹਾਲਤ:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Data being transferred"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "ਕੁਨੈਕਟ ਹੈ"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s using link-local IP address"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ:"
+
+msgid "conn_mngr_fi_type"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਟਾਈਪ:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "ਫੋਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਡਾਟਾ ਕਾਲ"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "ਫੋਨ ਵਰਤ ਕੇ GPRS"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "ਐਡ ਹਾਕ Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "ਬਲਿਊਟੁੱਥ"
+
+msgid "conn_mngr_me_close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "ਮੱਦਦ"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "ਕੁਨੈਕਟਵਿਟੀ"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "ਟੂਲ"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਬਦਲੋ"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਚੁਣੋ"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP ਐਡਰੈੱਸ"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "ਮੋਬਾਇਲ ਓਪਰੇਟਰ ਸੈਟਅੱਪ ਸਹਾਇਕ"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "ਫੋਨ"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "ਫੋਨ ਤੋਂ ਡਿਸ-ਕੁਨੈਕਟ"
+
+msgid "conn_mngr_ti_title"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਮੈਨੇਜਰ"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "ਜੰਤਰ ਤੋਂ ਕੁਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਕਰਨਾ ਹੈ?\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "ਜੰਤਰ ਹਟਾਉਣਾ ਹੈ?\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Cancel receiving from %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Cancel sending to %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "Internet connection failed. Incompatible Wi-Fi network.\nTry again?"
+
+msgid "conn_nc_pairing_failed"
+msgstr "Pairing failed.\nTry again?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "Pairing failed. Authentication failed.\nTry again?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "Pairing failed. Device rejected authentication.\nTry again?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "Pairing failed. Device resources exceeded.\nTry again?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "Pairing failed. Not enough time elapsed since last pairing attempt.\nTry again?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "Pairing failed. Authentication time-out.\nTry again?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Allow data roaming?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "Changing to this value increases power consumption significantly.\nChange anyway?"
+
+msgid "conn_nc_retry_connection"
+msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸਨ ਫੇਲ੍ਹ ਹੋਇਆ।\nਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "ਪਰਮਾਣਕਿਤਾ ਫੇਲ੍ਹ ਹੋਈ।\nਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "Connection failed to device %s.\nTry again?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਗਲਤੀ ਹੈ।\nਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "ਰਿਮੋਟ ਸਰਵਰ ਗਲਤੀ ਆਈ ਹੈ।\nਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?"
+
+msgid "conn_nc_roaming"
+msgstr "Automatically enable data connection when outside of your cellular operator’s network (roaming) and no Wi-Fi connection\nis available?\n\nChoosing 'Yes' automatically creates and maintains a data connection when roaming. This may involve additional costs. Choosing 'No' offers a prompt whenever a data connection to a foreign cellular network is required. You can change this later\nvia Settings."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr " Automatically enable packet data connection (cellular data connection) when no Wi-Fi connection is available?\n\nBy choosing Yes, the device automatically creates and maintains a packet data connection to your network service operator’s network (where available). Contact your network service provider for information about data transmission charges. By choosing No, you will be informed whenever a packet data connection is needed. You can change this later via Settings."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ"
+
+msgid "conn_ni_link_local_ip"
+msgstr "Internet connection failed. Unable to retrieve IP address from server.\nTry again?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "Internet connection failed. Unable to retrieve IP address from server. WEP key may be incorrect.\nTry again?"
+
+msgid "conn_ni_modem_failure"
+msgstr "ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਨਾਲ ਸੰਪਰਕ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ। ਸਰਵਿਸ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+
+msgid "conn_ni_no_access"
+msgstr "ਅਸੈੱਸ ਨਹੀਂ"
+
+msgid "conn_ni_no_bt"
+msgstr "ਆਫਲਾਈਨ ਮੋਡ ਬੰਦ ਕਰਨਾ ਹੈ?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "ਸੈੱਲੂਲਰ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "PIN code not entered. SIM card unavailable."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "ਸਿਮ ਕਾਰਡ ਨਹੀਂ ਪਾਇਆ"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Pairing failed."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Pairing failed. Authentication failed."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Pairing failed. Device rejected authentication."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Pairing failed. Device resources exceeded."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Pairing failed. Not enough time elapsed since last pairing attempt."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Pairing failed. Authentication time-out."
+
+msgid "conn_ni_select_network"
+msgstr "ਫੋਨ ਸੈਟਿੰਗ ਵਿੱਚ ਨੈੱਟਵਰਕ ਚੁਣੋ।"
+
+msgid "conn_ni_sim_failure"
+msgstr "All telephony functions, including emergency calls, are disabled due to a communication error. To recover, you might have to reboot the device."
+
+msgid "conn_ni_sim_lock"
+msgstr "Unable to use this SIM card in device"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM card not accepted. Contact your operator."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "SIM card registration failed"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM card rejected"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "%s ਨਾਲ ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "conn_pb_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "conn_pb_pairing"
+msgstr "ਪੇਅਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "conn_pb_searching"
+msgstr "ਖੋਜ ਜਾਰੀ ਹੈ"
+
+msgid "conn_pb_settings"
+msgstr "ਸੈਟਿੰਗ ਲਈ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "ਕੋਈ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "ਆਟੋਮੈਟਿਕ ਹੀ ਕੁਨੈਕਟ ਕਰੋ"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "ਖੋਜ ਅੰਤਰਾਲ"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "ਜਦੋਂ ਵਾਈ-ਫਾਈ ਉਪਲੱਬਧ ਹੋਵੇ ਤਾਂ ਵਰਤੋਂ"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "ਤਕਨੀਕੀ"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਕਿਸਮ:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN ਢੰਗ"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "ਅਸੈੱਸ ਪੁਆਇੰਟ ਨਾਂ"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "ਵੈੱਬ ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "ਆਟੋਮੈਟਿਕ ਲਿਆ IP ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "ਪ੍ਰਾਇਮਰੀ DNS ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "ਸੈਕੰਡਰੀ DNS ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "ਡਿਫਾਲਟ ਗੇਟਵੇ"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "ਸਬ-ਨੈੱਟ ਮਾਸਕ"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Auto-retrieve DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "ਐਡ ਹਾਕ ਚੈਨਲ"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "ਊਰਜਾ ਬੱਚਤ"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "ਚਾਲੂ (ਵੱਧੋ-ਵੱਧ)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "ਚਾਲੂ (ਠੀਕ-ਠੀਕ)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "ਬੰਦ"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "ਵਾਈ-ਫਾਈ ਟਰਾਂਸਮਿਸ਼ਨ ਪਾਵਰ"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "੧੦ mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "੧੦੦ mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "WPA2-ਕੇਵਲ ਮੋਡ"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "ਪਰਾਕਸੀ ਨਾ ਵਰਤੋਂ"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP ਪਰਾਕਸੀ"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP ਪਰਾਕਸੀ"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS ਪਰਾਕਸੀ"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "ਪੋਰਟ ਨੰਬਰ"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP ਪਰਾਕਸੀ"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "ਆਟੋਮੈਟਿਕ ਸੰਰਚਨਾ"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "ਪਰਾਕਸੀ ਵਰਤੋਂ"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Prompt password at every login"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਨਾਂ"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "%d ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "Connection setup complete.\nTap 'Finish' to save or close the dialog to discard the settings.\nTap 'Advanced' to edit the advanced settings."
+
+msgid "conn_set_iap_fi_password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "ਉਪਲੱਬਧ ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕ ਲਈ ਸਕੈਨ ਕਰਨਾ ਹੈ?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "ਆਫਲਾਈਨ ਮੋਡ ਵਿੱਚ ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਕੁਨੈਕਸ਼ਨ ਖੁਦ ਸੈੱਟ ਕਰੋ ਜੀ।"
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "ਜਾਰੀ ਰੱਖਣ ਲਈ 'ਅੱਗੇ' ਛੂਹੋ"
+
+msgid "conn_set_iap_fi_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Connection setup wizard allows you to define a Wi-Fi connection on your device"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "ਵਾਈ-ਫਾਈ"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "ਨੈੱਟਵਰਕ ਲੁਕਵਾਂ ਹੈ"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "ਨੈੱਟਵਰਕ ਮੋਡ"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "ਐਡ-ਹਾਕ"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "ਇੰਫਰਾਸਟੱਕਚਰ"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "ਸੁਰੱਖਿਆ ਢੰਗ"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA EAP ਨਾਲ"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA ਪ੍ਰੀ-ਸ਼ੇਅਰਡ ਕੀ"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "ਨੈੱਟਵਰਕ ਨਾਂ (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "ਹਰ ਵਾਰ ਲਾਗਇਨ ਸਮੇਂ ਪਾਸਵਰਡ ਪੁੱਛੋ"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਖੁਦ ਦਿਓ"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "ਨੈੱਟਵਰਕ"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP ਢੰਗ"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "ਕਲਾਇਟ ਪ੍ਰਮਾਣਿਤ ਲੋੜੀਦੀ ਹੈ"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਚੁਣੋ"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP ਢੰਗ"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "ਖੁਦ ਯੂਜ਼ਰ ਨਾਂ ਦਿਓ"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP ਕੁੰਜੀ ੧"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP ਕੁੰਜੀ ੨"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP ਕੁੰਜੀ ੩"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP ਕੁੰਜੀ ੪"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "ਡਿਫਾਲਟ WEP ਕੁੰਜੀ"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "੧"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "੨"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "੩"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "੪"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "WEP ਕੁੰਜੀ ਲੰਬਾਈ"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "੫ ਅੱਖਰ (ASCII 40/64 ਬਿੱਟ)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "੧੦ ਅੱਖਰ (HEX 40/64 ਬਿੱਟ)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "੧੩ ਅੱਖਰ (ASCII 104/128 ਬਿੱਟ)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "੨੬ ਅੱਖਰ (HEX 104/128 ਬਿੱਟ)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP ਕੁੰਜੀ"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP ਕਿਸਮ"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "ਪਹਿਲਾਂ-ਸਾਂਝੀ ਕੀਤੀ ਕੁੰਜੀ"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "ਸੌਖਾ ਸੈਟਅੱਪ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਬੇਤਾਰ ਸਟੇਸ਼ਨ ਉੱਤੇ ਬਟਨ ਦੱਬੋ ਅਤੇ 'ਮੁਕੰਮਲ' ਨੂੰ ਛੂਹੋ"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "ਪਹਿਲਾਂ-ਸਾਂਝੀ ਕੀਤੀ ਕੁੰਜੀ"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "ਬੇਤਾਰ ਸਟੇਸ਼ਨ ਉੱਤੇ ਹੇਠ ਦਿੱਤੇ ਅੰਕ ਲਿਖੋ ਅਤੇ 'ਮੁਕੰਮਲ' ਨੂੰ ਛੂਹੋ:"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Skip Wi-Fi Protected Setup"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਤਕਨੀਕੀ ਸੈਟਅੱਪ"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP ਐਡਰੈੱਸ"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "ਹੋਰ"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "ਪਰਾਕਸੀ"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਮੁਕੰਮਲ"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਨਾਂ ਅਤੇ ਕਿਸਮ"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਵਾਈ-ਫਾਈ"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "WEP ਕੁੰਜੀ ਦਿਓ"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Enter WPA pre-shared key"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "ਲੁਕਵੇਂ ਨੈੱਟਵਰਕ ਦਾ SSID ਦਿਓ"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: ਵਾਈ-ਫਾਈ"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "EAP ਕਿਸਮ ਚੁਣੋ"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WEP ਕੁੰਜੀ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਦਿਓ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਤੇ ਪਾਸਵਰਡ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP ਪਰਮਾਣਕਿਤਾ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS ਪਰਮਾਣਕਿਤਾ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS ਪਰਮਾਣਕਿਤਾ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA EAP ਕਿਸਮ"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਸੈਟਅੱਪ: WPA ਕੁੰਜੀ"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "ਵਾਈ-ਫਾਈ ਸੁਰੱਖਿਅਤ ਸੈਟਅੱਪ"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Enter WPS pre-shared key"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Wi-Fi protected setup PIN method "
+
+msgid "conn_set_ti_conn_set"
+msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "੫ ਮਿੰਟ"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "੧੦ ਮਿੰਟ"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "੩੦ ਮਿੰਟ"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "੬੦ ਮਿੰਟ"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "ਬਲਿਊਟੁੱਥ"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "ਬਲਿਊਟੁੱਥ ਜੰਤਰ"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "EAP-MSCHAPv2 ਪਾਸਵਰਡ ਬਦਲੋ"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਚੁਣੋ"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ ਕਰੋ ਜਾਂ ਕੁਨੈਕਸ਼ਨ ਬਦਲੋ"
+
+msgid "conn_ti_device_details"
+msgstr "ਜੰਤਰ ਵੇਰਵਾ"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "ਮੌਜੂਦਾ PIN ਕੋਡ ਦਿਓ"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "ਨਵਾਂ PIN ਕੋਡ ਦਿਓ"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "PIN ਕੋਡ ਦਿਓ"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "PUK ਕੋਡ ਦਿਓ"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "ਅਣ-ਲਾਕ ਸਿਮ ਕਾਰਡ ਲਈ ਕੋਡ ਦਿਓ"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "ਗਲਤ ਪਿੰਨ ਕੋਡ"
+
+msgid "conn_ti_iap_select"
+msgstr "ਅਸੈੱਸ ਪੁਆਇੰਟ ਸੰਭਾਲਣਾ ਹੈ?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "ਅਸੈੱਸ ਪੁਆਇੰਟ ਲਈ ਪਿੰਨ ਦਿਓ"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "ਜੰਤਰ ਨਾਲ ਪੇਅਰ ਕਰੋ"
+
+msgid "conn_ti_phone_call"
+msgstr "ਕਾਲ ਕਰੋ"
+
+msgid "conn_ti_phone_cpa"
+msgstr "ਫੋਨ"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "ਨੈੱਟਵਰਕ ਡਾਟਾ"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Data transfer warning"
+
+msgid "conn_ti_phone_network"
+msgstr "ਨੈੱਟਵਰਕ"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Roaming network data"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "ਨੈੱਟਵਰਕ ਚੁਣੋ"
+
+msgid "conn_ti_phone_sim"
+msgstr "ਸਿਮ ਕਾਰਡ"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "ਨਵਾਂ ਪਿੰਨ ਕੋਡ ਫੇਰ ਦਿਉ।"
+
+msgid "conn_ti_receive"
+msgstr "ਫਾਇਲ ਲਵੋ"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Enter EAP-GTC response"
+
+msgid "conn_ti_roaming"
+msgstr "Enable automatic data roaming?"
+
+msgid "conn_ti_select_device"
+msgstr "ਜੰਤਰ ਚੁਣੋ"
+
+msgid "conn_ti_send_to_device"
+msgstr "ਜੰਤਰ ਨੂੰ ਭੇਜੋ"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "ਆਟੋਮੈਟਿਕ ਸੈਲੂਲਰ ਡਾਟਾ ਕੁਨੈਕਸ਼ਨ ਚਾਲੂ ਕਰਨੀ ਹੈ?"
+
+msgid "conn_ti_username_pw"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਤੇ ਪਾਸਵਰਡ"
+
+msgid "conn_va_phone_clir_network"
+msgstr "ਨੈੱਟਵਰਕ ਨੂੰ ਚੁਣਨ ਦਿਓ"
+
+msgid "conn_va_phone_dc_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "ਡੁਅਲ"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "ਹਮੇਸ਼ਾ ਮਨਜ਼ੂਰ"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "ਹਮੇਸ਼ਾ ਪੁੱਛੋ"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "ਖੁਦ"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "ਸੈਲੂਲਰ ਡਾਟਾ"
+
+msgid "conn_va_wps_complient"
+msgstr "ਵਾਈ-ਫਾਈ ਸੁਰੱਖਿਅਤ ਸੈਟਅੱਪ ਅਨੁਕੂਲ"
+
+msgid "stab_me_bt"
+msgstr "ਬਲਿਊਟੁੱਥ"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "ਲੁਕਵਾਂ"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: ਦਿੱਖ"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "%s ਤੋਂ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "stab_me_bt_file_sending"
+msgstr "%s ਨੂੰ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "stab_me_bt_off"
+msgstr "ਬੰਦ"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "stab_me_internet_disconnected"
+msgstr "ਕੁਨੈਕਟ ਨਹੀਂ"
+
+msgid "stab_me_internet_suspended"
+msgstr "ਸੈਲੂਲਰ ਡਾਟਾ ਉਪਲੱਬਧ ਨਹੀਂ"
