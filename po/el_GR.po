@@ -1,0 +1,1346 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Διαχείριση συνδέσεων"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Σύνδεση"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Αποσύνδεση"
+
+msgid "conn_bd_devices_delete"
+msgstr "Διαγραφή"
+
+msgid "conn_bd_devices_edit"
+msgstr "Επεξεργασία"
+
+msgid "conn_bd_devices_new"
+msgstr "Νέα"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Συσκευές"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Κλήση έκτακτης ανάγκης"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Επιλογή"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Παράλειψη"
+
+msgid "conn_bd_pair"
+msgstr "Ταίριασμα"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Επιλογή επαφής"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Καθαρισμός"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Ακύρωση προειδοποίησης"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Να γίνει αποσύνδεση τώρα"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Ενεργοποίηση προειδοποίησης μεταφοράς "
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Μετρητής δεδομένων"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Μετρητής δεδομένων δικτύου περιαγωγής"
+
+msgid "conn_bd_receive_ok"
+msgstr "Αποθήκευση"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "Διαγραφή σύνδεσης;\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Αποσύνδεση και διαγραφή σύνδεσης; %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Όνομα της συσκευής"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth ενεργοποιημένο"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Ορατό"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Επιβεβαίωση νέου κωδικού"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Σύνδεση"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Νέος κωδικός"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Παλιός κωδικός"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Όνομα χρήστη"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Αποσύνδεση %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Απόκρυψη Wi-Fi"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Ρυθμίσεις πρόσβασης στο διαδίκτυο λήφθηκαν από το δίκτυο. Επιλέξτε το σημείο πρόσβασης για να γίνει αποθήκευση. Συμβουλευτείτε το δίκτυο σας για να ξαναλάβετε τις ρυθμίσεις στο μέλλον."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Δεν υπάρχουν διαθέσιμες συνδέσεις"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(δεν υπάρχουν συνδεδεμένες συσκευές)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Προώθηση κλήσεων"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Αν δεν υπάρχει απάντηση σε 20 δευτερόλεπτα, μη διαθέσιμο ή απασχολημένο"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Προώθηση στο"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Αναμονή κλήσης"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Λήφθηκαν"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Τελευταίος μηδενισμός"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Στάλθηκαν"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Δεδομένα που μεταφέρθηκαν σε οικιακό δίκτυο"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Δεδομένα που μεταφέρθηκαν σε δίκτυο περιαγωγής"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Προειδοποίηση για κάθε"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Πρόσβαση δεδομένων"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Τύπος δικτύου"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "Κωδικός PIN"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Αίτημα κωδικού PIN"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Επιλογή δικτύου"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Αποστολή του αριθμού μου"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Ρυθμίσεις σύνδεσης"
+
+msgid "conn_fi_receive_device"
+msgstr "Συσκευή:"
+
+msgid "conn_fi_receive_file"
+msgstr "Λήψη αρχείου μέσω Bluetooth;"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Αρχείο:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Άγνωστο"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Άνοιγμα του αρχείου μετά την αποθήκευση"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Απάντηση"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Διαγραφή"
+
+msgid "conn_iaps_bd_done"
+msgstr "Έτοιμο"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Επεξεργασία"
+
+msgid "conn_iaps_bd_new"
+msgstr "Νέο"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Συνδέσεις"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Ρυθμίσεις πρόσβασης δικτύου ενημερώθηκαν"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Δεν υπάρχει εφαρμογή για το άνοιγμα αυτού του αρχείου"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth ενεργοποιημένο"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Συνδέθηκε με το %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Αποσυνδέθηκε από το %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Συμπληρώστε όλα τα πεδία πρώτα"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Το όνομα της σύνδεσης χρησιμοποιείται"
+
+msgid "conn_ib_correct_pin"
+msgstr "Κωδικός PIN σωστός"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Εισάγετε αριθμό προς κλήση"
+
+msgid "conn_ib_enter_name"
+msgstr "Εισάγετε όνομα πρώτα"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Εισάγετε έγκυρη διεύθυνση IP πρώτα"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Η επιλογή \"μη συνδεδεμένος\" ενεργοποιήθηκε"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Η σύνδεση ολοκληρώθηκε"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Αδυναμία διαγραφής ενώ η συσκευή είναι συνδεδεμένη στο διαδίκτυο"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Λάθος PIN. Η κάρτα SIM κλειδώθηκε με τον κωδικό PUK."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Λάθος κωδικός PIN. Απομένει 1 προσπάθεια."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Λάθος κωδικός PIN. Απομένουν 2 προσπάθειες."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Λάθος κωδικός PUK "
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Λανθασμένος κωδικός PUK. Απομένει %d προσπάθεια."
+msgstr[1] "Λανθασμένος κωδικός PUK. Απομένουν %d προσπάθειες."
+
+msgid "conn_ib_invalid_number"
+msgstr "Λάθος αριθμός"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Μέγιστος αριθμός χαρακτήρων"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Ελάχιστος αριθμός χαρακτήρων"
+
+msgid "conn_ib_min8val_req"
+msgstr "Τουλάχιστον 8 χαρακτήρες πρέπει να εισαχθούν"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Η αυτόματη σύνδεση απενεργοποιήθηκε"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Δεν υπάρχουν διαθέσιμες αποθηκευμένες συνδέσεις"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Ο νέος και ο επιβεβαιωμένος κωδικός δεν ταιριάζουν"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Ο παλιός κωδικός είναι λάθος"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Δεν υπάρχει ενεργή σύνδεση"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Δεν υπάρχει ενεργή κλήση"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Το τηλέφωνο δεν συνδέθηκε"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Δεν αποθηκεύτηκαν δεδομένα κλήσης"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Δεν αποθηκεύτηκαν συνδέσεις"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Δεν αποθηκεύτηκαν τηλεφωνικές συνδέσεις"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Δεν αποθηκεύτηκαν συνδέσεις GPRS "
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Δεν αποθηκεύτηκαν συνδέσεις Wi-Fi"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Η ενέργεια του σήματος για όλες τις συνδέσεις Wi-Fi άλλαξε σε 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Η ενέργεια του σήματος για όλες τις συνδέσεις Wi-Fi άλλαξε σε 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Επιλεγμένο δίκτυο: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Δεν υπάρχει σύνδεση για διαγραφή"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Δεν υπάρχει σύνδεση για επεξεργασία"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Δεν υπάρχουν συνδεδεμένες συσκευές"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Η επιλογή \"κανονική λειτουργία\" ενεργοποιήθηκε"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Δεν είναι διαθέσιμο όσο το Bluetooth είναι απενεργοποιημένο"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Μόνο χαρακτήρες ASCII επιτρέπονται"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Η σύνδεση ακυρώθηκε"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Η λήψη ακυρώθηκε"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Η λήψη ολοκληρώθηκε"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Η αποστολή ακυρώθηκε"
+
+msgid "conn_ib_sending_complete"
+msgstr "Η αποστολή ολοκληρώθηκε"
+
+msgid "conn_ib_settings_saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν. Επανασύνδεση."
+
+msgid "conn_ib_suspended"
+msgstr "Δεν είναι διαθέσιμα τα δεδομένα κυψελοειδούς σύνδεσης"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Λάθος χαρακτήρες. Ελέγξτε το κλειδί WEP."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Λάθος μέγεθος του κλειδιού WEP . Ελέγξτε το κλειδί WEP"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Η ταυτοποίηση απέτυχε"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Οι ρυθμίσεις σύνδεσης δεν ενημερώθηκαν. Λήφθηκαν ίδιες με τις υπάρχουσες ρυθμίσεις."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Διεύθυνση Bluetooth:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Όνομα συσκευής"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Υποστηριζόμενα προφίλ:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Έμπιστη συσκευή"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Τύπος συσκευής:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Ήχος/Βίντεο"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Ακουστικά"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Υπολογιστής"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Κάμερα"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Εκτυπωτής"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Σύνδεση σημείου πρόσβασης"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Υπολογιστής (φορητός)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Άλλα"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "Υπολογιστής παλάμης"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Περιφερειακό"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Πληκτρολόγιο"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Τηλέφωνο"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Ακατηγοριοποίητο"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Επιβεβαιώστε ότι ο ίδιος κωδικός φαίνεται και στις δύο συσκευές:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Σύνδεση με τη συσκευή"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Κωδικός"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Ορισμός ως έμπιστη συσκευή"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Λήψη ονόματος συσκευής"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Αλλαγή"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Επιλογή σύνδεσης"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Αποσύνδεση"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "ΟΚ"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Πρωτεύουσα διεύθυνση DNS:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Δευτερεύουσα  διεύθυνση DNS:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Σύνδεση:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Προεπιλεγμένη πύλη:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "Διεύθυνση IP:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Μάσκα δικτύου:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(κανένα)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "Λεπτομέρειες διεύθυνσης IP"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Δεν υπάρχει σύνδεση"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Διάρκεια:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Τηλέφωνο:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Λήφθηκαν:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Στάλθηκαν:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Σήμα:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Κατάσταση:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Τα δεδομένα μεταφέρονται"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Σύνδεση"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Συνδέθηκε"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "Η σύνδεση %s χρησιμοποιεί σύνδεσμο-τοπική διεύθυνση IP"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Σύνδεση διαδικτύου:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Τύπος σύνδεσης:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Κλήση δεδομένων χρησιμοποιώντας το τηλέφωνο"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS(χρησιμοποιώντας το τηλέφωνο)"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc Wi-Fi"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Κλείσιμο"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Βοήθεια"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Συνδεσιμότητα"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Εργαλεία"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Σύνδεση διαδικτύου"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Αλλαγή σύνδεσης"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Επιλογή σύνδεσης"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Αποσύνδεση"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "Διεύθυνση IP"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Οδηγός εγκατάστασης φορέα κινητού"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Τηλέφωνο"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Αποσύνδεση από το τηλέφωνο"
+
+msgid "conn_mngr_ti_title"
+msgstr "Διαχείριση συνδέσεων"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "Αποδοχή σύνδεσης με τη συσκευή;\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "Διαγραφή συσκευής;\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Ακύρωση λήψης από τη συσκευή %s;"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Ακύρωση αποστολής στη συσκευή %s;"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "Η σύνδεση στο διαδίκτυο απέτυχε. Μη συμβατό δίκτυο Wi-Fi.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed"
+msgstr "Η σύνδεση απέτυχε.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "Η σύνδεση απέτυχε. Η ταυτοποίηση απέτυχε.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "Η σύνδεση απέτυχε. Η συσκευή απέρριψε την ταυτοποίηση.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "Η σύνδεση απέτυχε. Η συσκευή έφτασε σε όριο πόρων.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "Η σύνδεση απέτυχε. Δεν πέρασε αρκετός χρόνος από την τελευταία προσπάθεια σύνδεσης.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "Η σύνδεση απέτυχε. Σφάλμα ορίου χρόνου κατά την προσπάθεια της ταυτοποίησης.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Αποδοχή περιαγωγής;"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "Η αλλαγή σε αυτή την τιμή αυξάνει σημαντικά την κατανάλωση ενέργειας.\nΑλλαγή παρ' όλα αυτά;"
+
+msgid "conn_nc_retry_connection"
+msgstr "Η σύνδεση διαδίκτυο απέτυχε.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "Η ταυτοποίηση απέτυχε.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "Η σύνδεση με τη συσκευή %s απέτυχε.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "Σφάλμα σύνδεσης δικτύου.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "Σφάλμα απομακρυσμένου εξυπηρετητή.\nΠροσπάθεια ξανά;"
+
+msgid "conn_nc_roaming"
+msgstr "Αυτόματη ενεργοποίηση της σύνδεσης δεδομένων(περιαγωγή) όταν είστε εκτός δικτύου και δεν υπάρχουν διαθέσιμες συνδέσεις WI-FI;\n\nΕπιλέξτε 'Ναι' για αυτόματη δημιουργία και διατήρηση σύνδεση περιαγωγής. Αυτό ίσως να προκαλέσει επιπλέον κόστος. Επιλέγοντας 'Όχι' θα σας γίνεται υπενθύμιση όποτε μία σύνδεση δεδομένων απαιτείται σε ένα ξένο δίκτυο. Μπορείτε να το αλλάξετε αργότερα\nμέσω των Ρυθμίσεων."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "Αυτόματη ενεργοποίηση της σύνδεσης δεδομένων δικτύου όταν δεν υπάρχουν διαθέσιμες συνδέσεις WI-FI;\n\nΕπιλέγοντας Ναι, η συσκευή δημιουργεί και διατηρεί αυτόματα μία σύνδεση δεδομένων του δικτύου σας (όταν είναι διαθέσιμη). Επικοινωνήστε με τον πάροχο του δικτύου σας για πληροφορίες σχετικά με τις χρεώσεις. Επιλέγοντας όχι, θα ενημερώνεστε όποτε μία σύνδεση δεδομένων απαιτείται. Μπορείτε να το αλλάξετε αργότερα μέσω των Ρυθμίσεων."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Η σύνδεση στο %s απέτυχε"
+
+msgid "conn_ni_link_local_ip"
+msgstr "Η σύνδεση διαδίκτυο απέτυχε. Αδυναμία ανάκτησης διεύθυνσης IP από τον εξυπηρετητή.\nΠροσπάθεια ξανά;"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "Η σύνδεση στο διαδίκτυο απέτυχε. Αδυναμία ανάκτησης διεύθυνσης IP από τον εξυπηρετητή. Το κλειδί WEP ίσως να είναι λάθος.\nΠροσπάθεια ξανά;"
+
+msgid "conn_ni_modem_failure"
+msgstr "Αδυναμία δημιουργίας σύνδεσης δικτύου. Επικοινωνήστε με το σέρβις."
+
+msgid "conn_ni_no_access"
+msgstr "Δεν υπάρχει πρόσβαση"
+
+msgid "conn_ni_no_bt"
+msgstr "Έξοδος από την επιλογή \"μη συνδεδεμένος\";"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Κυψελοειδές δίκτυο μη διαθέσιμο"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "Δεν έγινε εισαγωγή του κωδικού PIN. Κάρτα SIM μη διαθέσιμη."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Δεν έγινε εισαγωγή κάρτας SIM"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Η σύνδεση απέτυχε."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Η σύνδεση απέτυχε. Η ταυτοποίηση απέτυχε."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Η σύνδεση απέτυχε. Η συσκευή απέρριψε την ταυτοποίηση."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Η σύνδεση απέτυχε. Σφάλμα πόρων της συσκευής."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Η σύνδεση απέτυχε. Δεν πέρασε αρκετός χρόνος από την τελευταία προσπάθεια σύνδεσης."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Η σύνδεση απέτυχε. Σφάλμα ορίου χρόνου στην ταυτοποίηση."
+
+msgid "conn_ni_select_network"
+msgstr "Επιλέξτε το δίκτυο στις ρυθμίσεις Τηλεφώνου."
+
+msgid "conn_ni_sim_failure"
+msgstr "Όλες οι λειτουργίες τηλεφωνίας, συμπεριλαμβανομένων των κλήσεων έκτακτης ανάγκης, απενεργοποιήθηκαν εξαιτίας σφάλματος επικοινωνίας. Για ανάκτηση, ίσως χρειαστεί να επανεκκινήσετε τη συσκευή σας."
+
+msgid "conn_ni_sim_lock"
+msgstr "Αδυναμία χρήσης αυτής της κάρτας SIM στη συσκευή"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "Η κάρτα SIM απορρίφθηκε. Επικοινωνήστε με το δίκτυο σας."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "Η καταχώρηση στο μητρώο της κάρτας SIM απέτυχε"
+
+msgid "conn_ni_sim_rejected"
+msgstr "Η κάρτα SIM απορρίφθηκε"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Σύνδεση με τη συσκευή %s"
+
+msgid "conn_pb_connecting"
+msgstr "Σύνδεση"
+
+msgid "conn_pb_pairing"
+msgstr "Σύνδεση"
+
+msgid "conn_pb_searching"
+msgstr "Αναζήτηση"
+
+msgid "conn_pb_settings"
+msgstr "Λήψη ρυθμίσεων"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Συνδέσεις"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Πάντα ερώτηση"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Οποιαδήποτε σύνδεση"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Αυτόματη σύνδεση"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Κανένα"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Διάστημα αναζήτησης"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Αλλαγή σε δίκτυο Wi-Fi όταν είναι διαθέσιμο"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Για προχωρημένους"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Τύπος σύνδεσης:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "Μέθοδος PIN"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Όνομα σημείου πρόσβασης"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Διεύθυνση ιστοσελίδας"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Αυτόματη ανάκτηση διεύθυνσης IP"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Πρωτεύον διεύθυνση DNS"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Δευτερεύουσα διεύθυνση DNS"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "Διεύθυνση IP"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Προεπιλεγμένη πύλη"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Μάσκα υποδικτύου"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Αυτόματα ανάκτηση DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Αυτόματο"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Κανάλι Ad-hoc"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Εξοικονόμηση ενέργειας"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Ενεργό (περισσότερο)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "On (ενδιάμεσο)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Ανενεργό"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Ισχύς μετάδοσης Wi-Fi"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Τύπος WPA2 μόνο"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Μην χρησιμοποιείς proxy για"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Αριθμός θύρας"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Αυτόματη ρύθμιση"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Χρήση proxy"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Εισαγωγή κωδικού σε κάθε είσοδο"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Όνομα σύνδεσης"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Σύνδεση %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "Η ρύθμιση της σύνδεσης ολοκληρώθηκε.\nΕπιλέξτε 'Τέλος' για να αποθηκεύσετε ή κλείστε το παράθυρο για να απορρίψετε τις ρυθμίσεις.\nΕπιλέξτε 'Για προχωρημένους' για να επεξεργαστείτε τις εξειδικευμένες ρυθμίσεις."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Κωδικός"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Σάρωση για διαθέσιμα δίκτυα Wi-Fi;"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "Αδυναμία σάρωσης για δίκτυα Wi-Fi κατά τη διάρκεια offline mode.\nΡυθμίστε χειροκίνητα τη σύνδεση."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Επιλέξτε 'Επόμενο' για να συνεχίσετε"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Όνομα χρήστη"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Ο οδηγός ρύθμισης σύνδεσης σας επιτρέπει να ορίσετε μία σύνδεση Wi-Fi στη συσκευή σας"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Κρυμμένο δίκτυο"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Τύπος δικτύου"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad-hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Υποδομή"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Μέθοδος ασφάλειας"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Καμία"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA με EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "Προ-διαμοιρασμένο κλειδί(pre-shared key) WPA"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Όνομα δικτύου (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Εισαγωγή κωδικού σε κάθε είσοδο"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Χρήση όνομα χρήστη χειροκίνητα"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Δίκτυο"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Κωδικός"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "Μέθοδος EAP"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Απαιτείται ταυτοποίηση του πελάτη"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Επιλογή πιστοποιητικού"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "Μέθοδος EAP"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Χρήση όνομα χρήστη χειροκίνητα"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Όνομα χρήστη"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "Κλειδί WEP 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "Κλειδί WEP 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "Κλειδί WEP 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "Κλειδί WEP 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Προεπιλεγμένο κλειδί WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "Μήκος κλειδιού WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 χαρακτήρες (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 χαρακτήρες (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 χαρακτήρες (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 χαρακτήρες (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "Κλειδί WEP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "Τύπος EAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Προ-διαμοιρασμένο κλειδί(pre-shared key)"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Πατήστε ένα κουμπί στον ασύρματο σταθμό για να ξεκινήσετε τη ρύθμιση εύκολης σύνδεσης και πατήστε 'Εντάξει'"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Προ-διαμοιρασμένο κλειδί(pre-shared key)"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Εισάγετε τα παρακάτω ψηφία στον ασύρματο σταθμό και επιλέξτε 'Εντάξει':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Παράκαμψη εγκατάστασης ασφαλούς ασύρματου δικτύου"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Ρύθμιση σύνδεσης: Ρυθμίσεις για προχωρημένους"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "Διευθύνσεις IP"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Άλλα"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Εξουσιοδοτήσεις Proxies"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Ρύθμιση σύνδεσης: Ολοκλήρωση"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Ρύθμιση σύνδεσης: Όνομα και τύπος"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Ρύθμιση σύνδεσης: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Ρύθμιση σύνδεσης: Καλώς ήρθατε"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Ρύθμιση σύνδεσης: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Εισάγετε το κλειδί WEP"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Εισάγετε το προ-διαμοιρασμένο κλειδί(pre-shared key) WPA"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Εισάγετε το SSID του κρυμμένου δικτύου"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Ρύθμιση σύνδεσης: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Επιλέξτε τύπο EAP"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Ρύθμιση σύνδεσης: Κλειδί WEP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Ρύθμιση σύνδεσης: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Εισάγετε το όνομα χρήστη"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Εισάγετε το όνομα χρήστη & τον κωδικό"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Ρύθμιση σύνδεσης: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Ρύθμιση σύνδεσης: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "Ταυτοποίηση WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Ρύθμιση σύνδεσης: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "Ταυτοποίηση WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Ρύθμιση σύνδεσης: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "Ταυτοποίηση WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Ρύθμιση σύνδεσης: Τύπος WPA EAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Ρύθμιση σύνδεσης: Κλειδί WPA"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Προστατευμένη ρύθμιση Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Εισάγετε το προ-διαμοιρασμένο κλειδί(pre-shared key) WPS "
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Προστατευμένη ρύθμιση Wi-Fi με κωδικό PIN"
+
+msgid "conn_set_ti_conn_set"
+msgstr "Συνδέσεις διαδικτύου"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Ποτέ"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 λεπτά"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 λεπτά"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 λεπτά"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 λεπτά"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Συσκευές Bluetooth"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Αλλάξτε τον κωδικό EAP-MSCHAPv2"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Επιλογή σύνδεσης"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Αποσύνδεση ή αλλαγή σύνδεσης"
+
+msgid "conn_ti_device_details"
+msgstr "Λεπτομέρειες συσκευής"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Εισάγετε τον τρέχον κωδικό PIN"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Εισάγετε τον νέο κωδικό PIN"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Εισάγετε τον κωδικό PIN"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Εισάγετε τον κωδικό PUK"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "Εισαγωγή κωδικού για ξεκλείδωμα\nτης κάρτας SIM"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Λάθος κωδικός PIN"
+
+msgid "conn_ti_iap_select"
+msgstr "Αποθήκευση σημείου πρόσβασης;"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Εισάγετε τον κωδικό PIN για το σημείο πρόσβασης"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Σύνδεση με συσκευή"
+
+msgid "conn_ti_phone_call"
+msgstr "Κλήση"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Τηλέφωνο"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Δεδομένα δικτύου"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Προειδοποίηση μεταφοράς δεδομένων"
+
+msgid "conn_ti_phone_network"
+msgstr "Δίκτυο"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Δεδομένα δικτύου περιαγωγής"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Επιλογή δικτύου"
+
+msgid "conn_ti_phone_sim"
+msgstr "Κάρτα SIM"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Ξανά-εισάγετε τον κωδικό PIN"
+
+msgid "conn_ti_receive"
+msgstr "Λήψη αρχείου"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Εισάγετε την απάντηση EAP-GTC"
+
+msgid "conn_ti_roaming"
+msgstr "Ενεργοποίηση αυτόματης περιαγωγής;"
+
+msgid "conn_ti_select_device"
+msgstr "Επιλέξτε μία συσκευή"
+
+msgid "conn_ti_send_to_device"
+msgstr "Αποστολή σε μία συσκευή"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Ενεργοποίηση αυτόματης σύνδεσης δεδομένων κυψελοειδούς δικτύου;"
+
+msgid "conn_ti_username_pw"
+msgstr "Όνομα χρήστη & κωδικός"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Άσε το δίκτυο να επιλέξει"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Ποτέ"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Διπλό"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Επιτρέπεται πάντα"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Πάντα ερώτηση"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Αυτόματη"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Χειροκίνητη"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Δεδομένα δικτύου"
+
+msgid "conn_va_wps_complient"
+msgstr "Συμβατο με εγκατάσταση ασφαλούς ασύρματου δικτύου"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Κρυμμένο"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: ορατό"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Λήψη από το %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Αποστολή στο %s"
+
+msgid "stab_me_bt_off"
+msgstr "Ανενεργό"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Σύνδεση διαδικτύου"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Δεν συνδέθηκε"
+
+msgid "stab_me_internet_suspended"
+msgstr "Δεδομένα του κυψελοειδούς δικτύου μη διαθέσιμα"
