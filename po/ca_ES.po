@@ -1,0 +1,1347 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Gestor de connexions"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Connecta"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Desconnecta"
+
+msgid "conn_bd_devices_delete"
+msgstr "Suprimeix"
+
+msgid "conn_bd_devices_edit"
+msgstr "Edita"
+
+msgid "conn_bd_devices_new"
+msgstr "Nova"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Dispositius"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Trucada d'emergència"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Tria"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Omet"
+
+msgid "conn_bd_pair"
+msgstr "Aparella"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Tria de contacte"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Neteja"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Activa l'avís"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Desconnecta ara"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Activa l'avís de transferència"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Comptador de dades"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Comptador de dades en itinerància"
+
+msgid "conn_bd_receive_ok"
+msgstr "Desa"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "S'elimina la connexió?\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Es desconnecta i s'elimina la connexió %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Nom del dispositiu"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth activat"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Visible"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Verifica la nova contrasenya"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Connexió"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Contrasenya nova"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Contrasenya antiga"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Nom d'usuari"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Desconnecta de %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Wi-Fi oculta"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Configuració del punt d'accés rebuda de l'operador. Trieu un punt d'accés per desar. Consulteu l'operador per rebre la configuració de nou en un futur."
+
+msgid "conn_fi_no_conn_available"
+msgstr "No hi ha connexions disponibles"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(no hi ha dispositius emparellats)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Reenviament de trucades"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "No hi ha resposta en 20 segons, no disponible o ocupat"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Reenvia a"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Trucada en espera"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Rebut"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Netejat"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Enviat"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Dades transferides a xarxa mòbil local"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Dades transferides a xarxa mòbil en itinerància"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Mostra un avís cada"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "MB"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Dades en itinerància"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Mode de xarxa"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "Codi PIN"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "Sol·licitud de codi PIN"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Selecció de xarxa"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Envia el meu número"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Preferències de connexió"
+
+msgid "conn_fi_receive_device"
+msgstr "Dispositiu:"
+
+msgid "conn_fi_receive_file"
+msgstr "Voleu rebre un fitxer via Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Fitxer:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Desconegut"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Obre el fitxer després de desar-lo"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Resposta"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Esborra"
+
+msgid "conn_iaps_bd_done"
+msgstr "Fet"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Edita"
+
+msgid "conn_iaps_bd_new"
+msgstr "Nou"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Connexions"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Configuració del punt d'accés mòbil actualitzada"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "No hi ha cap programa per obrir aquest fitxer"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth actiu"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Connectat a %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Desconnectat de %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Omple tots els camps necessaris"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Nom de connexió ja existent"
+
+msgid "conn_ib_correct_pin"
+msgstr "Codi PIN correcte"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Introduïu el número"
+
+msgid "conn_ib_enter_name"
+msgstr "Introduïu el nom"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Introduïu una adreça IP vàlida"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Mode sense connexió"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "S'ha realitzat l'aparellament"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "No es pot esborrar mentre s'està connectat a Internet"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "PIN incorrecte. SIM bloquejada amb el codi PUK"
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "PIN incorrecte. Queda 1 intent."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "PIN incorrecte. Queden 2 intents."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Els codis no coincideixen"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Codi PUK incorrecte"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Codi PUK incorrecte. Queda %d intent."
+msgstr[1] "Codi PUK incorrecte. Queden %d intents."
+
+msgid "conn_ib_invalid_number"
+msgstr "Número invàlid"
+
+msgid "conn_ib_max_char_reached"
+msgstr "S'ha arribat al màxim nombre de caràcters"
+
+msgid "conn_ib_maxval_reach"
+msgstr "S'ha arribat al màxim nombre de caràcters"
+
+msgid "conn_ib_min8val_req"
+msgstr "Calen com a mínim 8 caràcters"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Connexió automàtica desactivada"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "No hi ha connexions desades disponibles"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "La nova contrasenya i la confirmació no coincideixen"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "La contrasenya antiga es incorrecta"
+
+msgid "conn_ib_net_no_conn"
+msgstr "No hi ha cap connexió activa"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "El telèfon no té cap connexió en curs"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "No hi ha cap telèfon aparellat"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "No hi ha dades de trucades desades"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "No hi ha connexions desades"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "No hi ha connexions amb telèfons desades"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "No hi ha connexions GPRS desades"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "No hi ha connexions Wi-Fi desades"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "La potència de transmissió per a les connexions Wi-Fi s'ha configurat a 10 mW"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "La potència de transmissió per a les connexions Wi-Fi s'ha configurat a 100 mW"
+
+msgid "conn_ib_network_selected"
+msgstr "Xarxa seleccionada: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "No hi ha connexions per esborrar"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "No hi ha connexions per editar"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "No hi ha dispositius aparellats"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "S'ha activat el mode normal"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "No disponible quan el Bluetooth està desactivat"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Només es permeten caràcters ASCII"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "S'ha cancel·lat l'aparellament"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "S'ha cancel·lat la recepció"
+
+msgid "conn_ib_receiving_complete"
+msgstr "S'ha realitzat la recepció"
+
+msgid "conn_ib_sending_canceled"
+msgstr "S'ha cancel·lat l'enviament"
+
+msgid "conn_ib_sending_complete"
+msgstr "S'ha realitzat l'enviament"
+
+msgid "conn_ib_settings_saved"
+msgstr "S'han desat les preferències"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Preferències desades. Es reconnecta."
+
+msgid "conn_ib_suspended"
+msgstr "Dades mòbils no disponibles"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Caràcters invàlids. Comproveu la clau WEP."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Longitud de clau WEP no vàlida. Comproveu la clau WEP"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "L'autenticació ha fallat"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Preferències del punt d'accés mòbil no actualitzades. Les dades rebudes son idèntiques a les actuals."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Adreça Bluetooth:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Nom de dispositiu"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Perfils permesos:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Dispositius de confiança"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Tipus de dispositiu:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "So/Vídeo"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "Mans lliures"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Ordinador"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Càmera"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Impressora"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "Punt d'accés LAN/Xarxa"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Ordinador portàtil"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Miscelània"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Perifèric"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Teclat"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Telèfon"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Sense categoria"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Confirmeu que es mostra el mateix codi als dos dispositius."
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Aparella amb el dispositiu"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Codi de pas"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Configura com a dispositiu de confiança"
+
+msgid "conn_li_select_device_resolving"
+msgstr "S'està obtenint el nom de dispositiu"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Canvia"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Tria la connexió"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Desconnecta"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "D'acord"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "DNS primari:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "DNS secundari:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Connexió:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Porta d'enllaç:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "Adreça IP:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Màscara de xarxa:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(cap)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "Detalls de l'adreça IP"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Sense connexió"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Duració:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Telèfon:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Rebut:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s B"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s GB"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s kB"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s MB"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Enviats:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Senyal:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Estat:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "S'estan transferint dades"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "S'està connectant"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Connectat"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s utilitzant adreça IP d'enllaç local"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Connexiò a Internet"
+
+msgid "conn_mngr_fi_type"
+msgstr "Tipus de connexió:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Trucada de dades fent servir el telèfon"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "GPRS fent servir el telèfon"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Wi-Fi ad-hoc"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Tanca"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Ajuda"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Connectivitat"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Eines"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Connexió a internet"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Canvia la connexió"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Tria de connexió"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Desconnecta"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "Adreça IP"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Asisstent de configuraciò de l'operador mòbil"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Telèfon"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Desconnecta del telèfon"
+
+msgid "conn_mngr_ti_title"
+msgstr "Gestor de connexions"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "S'accepta connexió amb el dispositiu?\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "S'esborra el dispositiu?\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Es cancel·la la recepció de %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Es cancel·la l'enviament a %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "La connexió a Internet ha fallat. Xarxa Wi-Fi incompatible.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed"
+msgstr "L'aparellament ha fallat.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "L'aparellament ha fallat. Autenticació fallada.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "L'aparellament ha fallat. El dispositiu ha rebutjat l'autenticació.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "L'aparellament ha fallat. El dispositiu s'ha quedat sense recursos.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "L'aparellament ha fallat. No ha passat prou temps des de l'últim intent.\nS'intenta de nou?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "L'aparellament ha fallat. Temps d'espera excedit en l'autenticació.\nS'intenta de nou?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Es permet dades en itinerància?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "Canviar a aquest valor augmenta el consum de bateria considerablement.\nEsteu segur que voleu canviar-lo?"
+
+msgid "conn_nc_retry_connection"
+msgstr "Ha fallat la connexió a Internet.\nS'intenta de nou?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "Ha fallat l'autenticació.\nS'intenta de nou?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "Ha fallat la connexió al dispositiu %s.\nS'intenta de nou?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "Error amb la connexió de la xarxa.\nS'intenta de nou?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "Error amb el servidor remot.\nS'intenta de nou?"
+
+msgid "conn_nc_roaming"
+msgstr "Es permet connexió automàtica quan estigui en itinerància i no hi hagi connexions Wi-Fi disponibles?\n\nEn triar 'Sí' es crea i manté automàticament una connexió de dades en itinerància, que pot comportar costs addicionals. En triar 'No' es preguntarà cada vegada. Podeu canviar l'opció més tard a 'Preferències'."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "Es permet connexió de dades automàticament quan no hi hagi Wi-FI disponible?\n\nEn triar 'Si' es crea i manté automàticament una connexió de dades. Contacteu amb el vostre proveïdor per consultar el cost de la transmissió de dades. En triar 'No' es preguntarà cada vegada que calgui una connexió de dades. Podeu canviar-ho més tard a 'Preferències'."
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Ha fallat la connexió a %s."
+
+msgid "conn_ni_link_local_ip"
+msgstr "Ha fallat la connexió a Internet. No s'ha pogut obtenir adreça IP del servidor.\nS'intenta de nou?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "Ha fallat la connexió a Internet. No s'ha pogut obtenir adreça IP del servidor. La clau WEP pot ser incorrecta.\nS'intenta de nou?"
+
+msgid "conn_ni_modem_failure"
+msgstr "No es pot connectar a la xarxa. Contacteu amb el proveïdor de servei."
+
+msgid "conn_ni_no_access"
+msgstr "Sense accés"
+
+msgid "conn_ni_no_bt"
+msgstr "Se surt del mode sense connexió?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Xarxa mòbil no disponible"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "No s'ha entrat amb PIN. La SIM no és disponible."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "No hi ha targeta SIM"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Ha fallat l'aparellament."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Ha fallat l'aparellament. Ha fallat l'autenticació."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Ha fallat l'aparellament. El dispositiu ha rebutjat l'autenticació."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Ha fallat l'aparellament. El dispositiu no té recursos."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Ha fallat l'aparellament. No ha passat prou temps des de l'últim intent"
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Ha fallat l'aparellament. S'ha excedit el temps d'espera a l'autenticació."
+
+msgid "conn_ni_select_network"
+msgstr "Trieu la xarxa a les preferències del telèfon"
+
+msgid "conn_ni_sim_failure"
+msgstr "Totes les funcions de telefonia, incloent trucades d'emergència, s'han inhabilitat a causa d'un error de comunicacions. Per recuperar-les, cal reiniciar el dispositiu."
+
+msgid "conn_ni_sim_lock"
+msgstr "No es pot fer servir aquesta targeta SIM en aquest dispositiu"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "Targeta SIM no acceptada. Contacteu amb el vostre operador."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "El registre de targeta SIM ha fallat"
+
+msgid "conn_ni_sim_rejected"
+msgstr "Tarjeta SIM rebutjada"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Connexió a %s"
+
+msgid "conn_pb_connecting"
+msgstr "S'està connectant"
+
+msgid "conn_pb_pairing"
+msgstr "Aparellament"
+
+msgid "conn_pb_searching"
+msgstr "S'està cercant"
+
+msgid "conn_pb_settings"
+msgstr "Obtenció de la configuració"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Connexions"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Demana-ho sempre"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Qualsevol connexió"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Connecta automàticament"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Cap"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Interval de cerca"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Canvia a Wi-Fi quan estigui disponible"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Avançat"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Tipus de connexió:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "Mètode de PIN"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Nom del punt d'accés"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Adreça web"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Obtén automàticament adreça IP"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "DNS primari"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "DNS secundari"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "Adreça IP"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Porta d'enllaç"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Màscara de xarxa"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Obtén automàticament DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Automàtic"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Canal Ad-hoc"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Estalvi d'energia"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Activat (max.)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Activat (mig)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Desactivat"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "Energia de transmissió Wi-Fi"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 mW"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 mW"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "Només WPA2"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "No utilitzis un servidor intermediari per"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Port"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Configuració automàtica"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Utilitza un servidor intermediari"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Demana la contrasenya a cada entrada"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Nom de la connexió"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Connexió %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "Configuració de connexió finalitzada.\nToqueu 'Finalitza' per desar o tancar el diàleg per descartar la configuració.\nToqueu 'Avançat' per editar les preferències avançades."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Contrasenya"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "GPRS"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Voleu cercar xarxes Wi-Fi disponibles?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "No es poden cercar xarxes Wi-Fi quan s'està en mode sense connexió.\nConfigureu la connexió manualment."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Toqueu 'Següent' per continuar"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Nom d'usuari"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "L'auxiliar de connexió us ajuda a definir una connexió Wi-Fi."
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "Wi-Fi"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Xarxa oculta"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Mode de xarxa"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad-hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Infraestructura"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Mètode de seguretat"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Cap"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA amb EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA clau pre-compartida"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Nom de la xarxa (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Demana contrasenya a cada entrada"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Nom d'usuari manual"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Xarxa"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Contrasenya"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "Mètode EAP"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Requereix l'autenticació de client"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Tria de certificat"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "Mètode EAP"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Utilitza nom d'usuari manual"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Nom d'usuari"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "Clau WEP 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "Clau WEP 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "Clau WEP 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "Clau WEP 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "Clau WEP per defecte"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "Longitud de la clau WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 caràcters (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 caràcters (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 caràcters (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 caràcters (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "Clau WEP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "Tipus d'EAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Clau pre-compartida"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Toqueu un botó a l'estació Wi-Fi per iniciar el procés de configuració fàcil i toqueu 'Fet'."
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Clau pre-compartida"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Introduïu els següents dígits a l'estació Wi-Fi i toqueu 'Fet'."
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Omet la configuració de Wi-Fi protegit."
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Configuració de connexió: Preferències avançades"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "Adreces IP"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Altres"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Servidors intermediaris"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Configuració de connexió: Finalitzada"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Configuració de connexió: Nom i tipus"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Configuració de connexió: GPRS"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Configuració de connexió: Benvingut"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Configuració de connexió: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Introduïu clau WEP"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Introduïu clau WPA"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Introduïu SSID de xarxa oculta"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Configuració de connexió: Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Trieu el tipus d'EAP"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Configuració de connexió: Clau WEP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Configuració de connexió: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Introduïu el nom d'usuari"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Nom d'usuari i contrasenya"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Configuració de connexió: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Configuració de connexió: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "Autenticació WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Configuració de connexió: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "Autenticació WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Configuració de connexió: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "Autenticaciói WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Configuració de connexió: WPA EAP type"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Configuració de connexió: Clau WPA"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Configuració de Wi-Fi protegit."
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Introduïu la clau WPS"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Configuració Wi-Fi protegida amb PIN"
+
+msgid "conn_set_ti_conn_set"
+msgstr "Connexions a Internet"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Mai"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 minuts"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 minuts"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 minuts"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 minuts"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Dispositius bluetooth"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Canvia clau EAP-MSCHAPv2"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Tria la connexió"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Desconnexió o canvi de connexió"
+
+msgid "conn_ti_device_details"
+msgstr "Detalls de sispositiu"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Introduïu el codi PIN actual"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Introduïu el nou codi PIN"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Introduïu el codi PIN"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Introduïu el codi PUK"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "Introduïu el codi de desbloqueig de la SIM"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Codi PIN incorrecte"
+
+msgid "conn_ti_iap_select"
+msgstr "Voleu desar el punt d'accés?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Introduïu el PIN del punt d'accés"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Aparella amb el dispositiu"
+
+msgid "conn_ti_phone_call"
+msgstr "Trucades"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Telèfon"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Dades"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Avís de transferència de dades"
+
+msgid "conn_ti_phone_network"
+msgstr "Xarxa"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Dades en itinerància"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Tria de xarxa"
+
+msgid "conn_ti_phone_sim"
+msgstr "Targeta SIM"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Repetiu el nou codi PIN"
+
+msgid "conn_ti_receive"
+msgstr "Rep el fitxer"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Introduïu resposta EAP-GTC"
+
+msgid "conn_ti_roaming"
+msgstr "S'activen les dades automàticament en itinerància?"
+
+msgid "conn_ti_select_device"
+msgstr "Tria de dispositiu"
+
+msgid "conn_ti_send_to_device"
+msgstr "Envia a dispositiu"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Es permet la connexió automàtica a Internet mòbil?"
+
+msgid "conn_ti_username_pw"
+msgstr "Nom d'usuari i contrasenya"
+
+msgid "conn_va_phone_clir_network"
+msgstr "Permet que la xarxa triï"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Mai"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dual"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Permet sempre"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Demana-ho sempre"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Automàtic"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Manual"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Dades mòbils"
+
+msgid "conn_va_wps_complient"
+msgstr "Compleix amb l'estàndard Wi-Fi Protegit"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Ocult"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: visible"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Rebent de %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Enviant a %s"
+
+msgid "stab_me_bt_off"
+msgstr "Desactivat"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Connexió a internet"
+
+msgid "stab_me_internet_disconnected"
+msgstr "No connectat"
+
+msgid "stab_me_internet_suspended"
+msgstr "Dades mòbils no disponibles"
