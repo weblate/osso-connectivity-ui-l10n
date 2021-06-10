@@ -1,0 +1,1346 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_ap_connmanager"
+msgstr "Управление на връзките"
+
+msgid "conn_bd_device_details_connect"
+msgstr "Свързване"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "Изключване"
+
+msgid "conn_bd_devices_delete"
+msgstr "Изтриване"
+
+msgid "conn_bd_devices_edit"
+msgstr "Редактиране"
+
+msgid "conn_bd_devices_new"
+msgstr "Ново"
+
+msgid "conn_bd_dialog_devices"
+msgstr "Устройства"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "Спешен разговор"
+
+msgid "conn_bd_dialog_ok"
+msgstr "Избор"
+
+msgid "conn_bd_dialog_skip"
+msgstr "Пропускане"
+
+msgid "conn_bd_pair"
+msgstr "Сдвояване"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "Избор на контакт"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "Изчистване"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "Изключване на предупреждението"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "Изключване сега"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "Предупреждение при прехвърляне на данни"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "Брояч на данни към оператора"
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "Брояч на данни в роуминг"
+
+msgid "conn_bd_receive_ok"
+msgstr "Запазване"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "Изтриване на връзката?\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "Изключване и изтриване на връзка %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "Име на устройството"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "Nokia N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "Bluetooth е включен"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "Видим"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "Потвържаване на новата парола"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "Връзка"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "Нова парола"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "Стара парола"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "Потребителско име"
+
+msgid "conn_fi_disconnect_iap"
+msgstr "Изключване от %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "Скрита WLAN мрежа"
+
+msgid "conn_fi_iap_select_text"
+msgstr "Получени настройки на мобилна точка за достъп от оператора. Изберете точка за достъп, която да бъде  записана. Посъветвайте се с вашия оператор как да получите настройките отново в бъдеще."
+
+msgid "conn_fi_no_conn_available"
+msgstr "Няма налични връзки"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(няма сдвоени устройства)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "Пренасочване на обаждане"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "Няма отговор за 20 секунди, не е наличен или е зает"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "Пренасочване към"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "Обаждане в очакване"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "Приет"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "Изчистен"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "Изпратен"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "Данни прехвърлени през мрежата на оператора"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "Данни прехвърлени през роуминг мрежа"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "Предупреждаване на всеки"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "МБ"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "Дата роуминг"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "Мрежов режим"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "PIN номер"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "PIN номер заявка"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "Избор на мрежа"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "Показване на моя номер"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "Настройки на връзките"
+
+msgid "conn_fi_receive_device"
+msgstr "Устройство:"
+
+msgid "conn_fi_receive_file"
+msgstr "Приемане на файл през Bluetooth?"
+
+msgid "conn_fi_receive_file_file"
+msgstr "Файл:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "Неизвестен"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "Запис и отваряне на файла"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s Б"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s ГБ"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s кБ"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s МБ"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "Отговор"
+
+msgid "conn_iaps_bd_delete"
+msgstr "Изтриване"
+
+msgid "conn_iaps_bd_done"
+msgstr "Готово"
+
+msgid "conn_iaps_bd_edit"
+msgstr "Редактиране"
+
+msgid "conn_iaps_bd_new"
+msgstr "Нов"
+
+msgid "conn_iaps_ti_connections"
+msgstr "Връзки"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "Обновени са настройките на мобилната точка за достъп"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "Неизвестен тип файл"
+
+msgid "conn_ib_bt_set_on"
+msgstr "Bluetooth е включен"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "Свързан с %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "Разкачен от %s"
+
+msgid "conn_ib_compl_all"
+msgstr "Първо попълнете всички необходими полета"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "Връзката вече съществува"
+
+msgid "conn_ib_correct_pin"
+msgstr "Правилен PIN номер"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "Първо въведете номер за набиране"
+
+msgid "conn_ib_enter_name"
+msgstr "Първо въведете име"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "Първо въведете валиден IP адрес"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "Активиран е режим \"без комуникации\""
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "Сдвояването приключено"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "Не може да бъде изтрита докато сте свързани"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "Невалиден PIN. SIM картата е заключена с PUK номер."
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "Невалиден PIN номер."
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "Невалиден PIN номер. Остават още %d опита."
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "Номерата не съвпадат"
+
+msgid "conn_ib_incorrect_puk"
+msgstr "Невалиден PUK номер"
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] "Невалиден PUK номер. Остават още %d опита."
+msgstr[1] "Incorrect PUK code. %d attempts remaining."
+
+msgid "conn_ib_invalid_number"
+msgstr "Невалиден номер"
+
+msgid "conn_ib_max_char_reached"
+msgstr "Достигнат е максималния брой символи"
+
+msgid "conn_ib_maxval_reach"
+msgstr "Достигнат е максималния брой символи"
+
+msgid "conn_ib_min8val_req"
+msgstr "Трябва да бъдат въведени поне осем символа"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "Автоматичното свързване забранено"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "Няма налични запазени връзки"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "Паролите не съвпадат"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "Невалидна стара парола"
+
+msgid "conn_ib_net_no_conn"
+msgstr "Няма активна връзка"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "Няма активна връзка към телефона"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "Няма сдвоени телефони"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "Няма записани мобилни връзки за пренос на данни"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "Няма записани връзки"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "Няма записани телефонни връзки"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "Няма записани връзки за пренос на данни"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "Няма записани WLAN връзки"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "Мощността на предаване за всички WLAN връзки сменена на 10 мВ"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "Мощността на предаване за всички WLAN връзки сменена на 100 мВ"
+
+msgid "conn_ib_network_selected"
+msgstr "Избрана мрежа: %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "Няма връзка за изтриване"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "Няма връзка за редактиране "
+
+msgid "conn_ib_no_paired_devices"
+msgstr "Няма сдвоени устройства"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "Активиран е нормален режим"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "Не е наличен докато Bluetooth е изключен"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "Само ASCII символи са разрешени"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "Сдвояването прекъснато"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "Получаването прекъснато"
+
+msgid "conn_ib_receiving_complete"
+msgstr "Получаването завършено"
+
+msgid "conn_ib_sending_canceled"
+msgstr "Изпращането прекъснато"
+
+msgid "conn_ib_sending_complete"
+msgstr "Изпращането завършено"
+
+msgid "conn_ib_settings_saved"
+msgstr "Настройките са запазени"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "Настройките са запазени. Свързване наново."
+
+msgid "conn_ib_suspended"
+msgstr "Няма налична мобилната връзка"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "Невалидни символи. Проверете WEP ключа."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "Невалидна дължина на WEP ключа. Проверете WEP ключа"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "Неуспешно удостоверяване"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "Не са обновени настройките на мобилната точка за достъп. Получените настройки са идентични с настоящите."
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "Bluetooth адрес:"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "Име на устройството"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "Поддържани профили:"
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "Доверено устройство"
+
+msgid "conn_li_device_details_d_type"
+msgstr "Тип на устройството:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "Аудио/Видео"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "\"без ръце\""
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "Компютър"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "Камера"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "Принтер"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "LAN/Мрежова точка за достъп"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "Компютър (преносим)"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "Друго"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "Периферно"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "Клавиатура"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "Телефон"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "Неизвестно"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "Потвържаване че един и същи номер е показан и на двете устройства:"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "Сдвояване с устройство"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "Парола"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "Конфигурирай като доверено устройство"
+
+msgid "conn_li_select_device_resolving"
+msgstr "Получаване на името на устройството"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "Смяна"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "Избор на мрежа"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "Изключване"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "Добре"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "Основен DNS адрес:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "Вторичен DNS адрес:"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "Връзка:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "Шлюз по подразбиране:"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "IP адрес:"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "Мрежова маска:"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(няма)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "Детайли за IP адрес"
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "Няма връзка"
+
+msgid "conn_mngr_fi_duration"
+msgstr "Продължителност:"
+
+msgid "conn_mngr_fi_phone"
+msgstr "Телефон:"
+
+msgid "conn_mngr_fi_received"
+msgstr "Получени:"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s Б"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s ГБ"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s кБ"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s МБ"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Изпратени:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "Сигнал:"
+
+msgid "conn_mngr_fi_status"
+msgstr "Състояние:"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "Прехвърлят се данни"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "Свързване"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "Свързан"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s използва локален линк IP адрес"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "Интернет връзка:"
+
+msgid "conn_mngr_fi_type"
+msgstr "Тип на връзката:"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "Data call using phone"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "Packet data using phone"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "WiMAX"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "WLAN"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "Ad hoc WLAN"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "Bluetooth"
+
+msgid "conn_mngr_me_close"
+msgstr "Затваряне"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "Помощ"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "Настройки на връзката"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "Инструменти"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "Интернет връзка"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "Смяна на връзката"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "Избор на мрежа"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "Изключване"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "IP адрес"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "Помощник за настройка на мобилен оператор"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "Телефон"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "Разкачване от телефона"
+
+msgid "conn_mngr_ti_title"
+msgstr "Управление на връзките"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "Приемане на връзка с устройство?\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "Изтриване на устройство?\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "Прекъсване на получаването от %s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "Прекъсване на изпращането към %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "Интернет връзката се разпадна. Несъвместима WLAN мрежа.\nНов опит?"
+
+msgid "conn_nc_pairing_failed"
+msgstr "Неуспешно сдвояване.\nНов опит?"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "Неуспешно сдвояване. Неуспешно удостоверяване.\nНов опит?"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "Неуспешно сдвояване. Устройството отхвърли удостоверяването.\nНов опит?"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "Неуспешно сдвояване. Надхвърлени са възможностите на устройството.\nНов опит?"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "Неуспешно сдвояване. Не е минало достатъчно време от последния опит.\nНов опит?"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "Неуспешно сдвояване. Изтече времето за удостоверяване.\nНов опит?"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "Разрешаване на роуминг на данни?"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "Промяната на тази стойност увеличава значимо консумацията на енергия.\nПромяна въпреки това?"
+
+msgid "conn_nc_retry_connection"
+msgstr "Интернет връзката се разпадна.\nНов опит?"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "Неуспешно удостоверяване.\nНов опит?"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "Връзката с устройство %s се разпадна.\nНов опит?"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "Грешка във връзката към избраната мрежа.\nДа се опита ли отново?"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "Грешка с отдалечения сървър.\nНов опит?"
+
+msgid "conn_nc_roaming"
+msgstr "Автоматично разрешаване на преносa на данни, когато сте извън мрежата на вашия оператор (роуминг) и няма налична WLAN връзка?\n\nИзбирайки \"Да\", автоматично се създава и поддържа връзка за пренос на данни, когато сте в роуминг. Това може да означава допълнителни разходи. Избирайки \"Не\" ще бъдете питани винаги, когато е необходима връзка за пренос на данни от външни оператори. Това може да бъде променено по-късно през Настройки."
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "Автоматично разрешаване на пренос на данни (мобилна връзка), когато няма налична WLAN връзка?\n\nИзбирайки \"Да\", автоматично се създава и поддържа връзка за пренос на данни към вашия мобилен оператор (където е възможно). Свържете се с вашия оператор за информация свързана с цените за пренос на данни. Избирайки \"Не\" ще бъдете питани винаги, когато е необходима връзка за пренос на данни. Това може да бъде променено по-късно през Настройки. "
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "Връзката към %s се разпадна"
+
+msgid "conn_ni_link_local_ip"
+msgstr "Интернет връзката се разпадна. Неуспешно получаване на IP адрес от сървъра.\nНов опит?"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "Интернет връзката се разпадна. Неуспешно получаване на IP адрес от сървъра. Може би WEP ключа е невалиден\nНов опит?"
+
+msgid "conn_ni_modem_failure"
+msgstr "Неуспешно установяване на мрежова връзка. Свържете се с оператора."
+
+msgid "conn_ni_no_access"
+msgstr "Няма достъп"
+
+msgid "conn_ni_no_bt"
+msgstr "Излизане от режима без комуникации?"
+
+msgid "conn_ni_no_cell_network"
+msgstr "Мобилната мрежа е недостъпна"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "Не е въведен PIN номер. SIM картата е недостъпна."
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "Не е поставена SIM карта"
+
+msgid "conn_ni_pairing_failed"
+msgstr "Неуспешно сдвояване."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "Неуспешно сдвояване. Неуспешно удостоверяване."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "Неуспешно сдвояване. Устройството отхвърли удостоверяването."
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "Неуспешно сдвояване. Надхвърлени са възможностите на устройството."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "Неуспешно сдвояване. Не е минало достатъчно време от последния опит."
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "Неуспешно сдвояване. Изтече времето за удостоверяване."
+
+msgid "conn_ni_select_network"
+msgstr "Изберете мрежа в Настройки на телефона.Select network in Phone settings."
+
+msgid "conn_ni_sim_failure"
+msgstr "Всички телефонни функции, включително спешните разговори, са забранени поради комуникационен проблем. За възстановяване, може да се наложи да рестартирате устройството."
+
+msgid "conn_ni_sim_lock"
+msgstr "Не може да бъде използвана SIM картата в устройството"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "SIM картата не е приета. Свържете се с Вашия оператор."
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "Неуспешно регистриране на SIM картата"
+
+msgid "conn_ni_sim_rejected"
+msgstr "SIM картата е отхвърлена"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "Свързване с %s"
+
+msgid "conn_pb_connecting"
+msgstr "Свързване"
+
+msgid "conn_pb_pairing"
+msgstr "Сдвояване"
+
+msgid "conn_pb_searching"
+msgstr "Търсене"
+
+msgid "conn_pb_settings"
+msgstr "Получаване на настройки"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "Връзки"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "Винаги питай"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "Коя да е връзка"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "Автоматично свързване"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "Няма"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "Интернал за търсене"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "Превключване към WLAN когато е възможно"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "Още настр."
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "Тип на връзката:"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "PIN метод"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "Име на точка за достъп"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "Интернет адрес"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "Автоматично получаване на IP адрес"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "Основен DNS адрес"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "Вторичен DNS адрес"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "IP адрес"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "Шлюз по подразбиране"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "Мрежова маска"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "Автоматично получаване на DNS"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "Автоматично"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "Ad hoc канал"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "Пестене на енергия"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "Включено (пълно)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "Включена (средно)"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "Изключено"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "мощност на WLAN връзката"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "10 мВ"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "100 мВ"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "само WPA2 режим"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "Не използвай proxy за"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "FTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "HTTP proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "HTTPS proxy"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "Номер на порт"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "RTSP proxy"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "Автоматична конфигурация"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "Използване на proxy"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "Питане за парола при всяко влизане"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "Име на връзката"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "Връзка %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "Конфигурирането на връзката приключи.\nНатиснете \"Край\" за да запишете или затворете прозореца за да отхвърлите настройките.\nНатиснете \"Допълнителни\" за да редактирате допълнителните настройки."
+
+msgid "conn_set_iap_fi_password"
+msgstr "Парола"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "Мобилна"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "Да се сканира ли за наличните WLAN мрежи?"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "Невъзможно сканиране за наличните WLAN мрежи по време на режим без комуникации.\nКонфигурирайте връзката ръчно."
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "Натиснете 'Напред' за да продължите"
+
+msgid "conn_set_iap_fi_username"
+msgstr "Потребителско име"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "Помощникът за конфигуриране на връзки дава възможност за дефиниране на WLAN връзки на Вашето устройство"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "WLAN"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "Мрежата е скрита"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "Тип на мрежата"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "Ad hoc"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "Инфраструктура"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "Метод на сигурност"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "Няма"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA с EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "WPA споделен ключ"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "Име на мрежата (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "Питане за паролата при всяко включване"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "Попълнено потребителско име"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "Мрежа"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "Парола"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "EAP метод"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "Изисква се удостоверяване на клиента"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "Избор на удостоверение"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "EAP метод"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "Използване на попълнетото потребителско име"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "Потребителско име"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP ключ 1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP ключ 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP ключ 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEP ключ 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "WEP ключ по подразбиране"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "Дължина на WEP ключа"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "5 символа (ASCII 40/64 бита)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "10 символа (HEX 40/64 бита)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr "13 символа (ASCII 104/128 бита)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "26 символа (HEX 104/128 бита)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "WEP ключ"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "EAP тип"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "Предефиниран ключ"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "Натиснете бутона на безжичната станция за да стартирате бързи настройки и натиснете 'Готово'"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr "Предефиниран ключ"
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "Въведете следните цифри на безжичната станция и натиснете 'Готово':"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "Прескачане конфигурирането на защитена Wi-FI"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "Конфигуриране на връзката: допълнителни настройки"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "IP адреси"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "Други"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "Proxies"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "Конфигуриране на мрежата: приключено"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "Конфигуриране на мрежата: име и тип"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "Конфигуриране на мрежата: мобилна"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "Конфигуриране на мрежата: Здравейте"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "Конфигуриране на мрежата: WLAN"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "Въвеждане на WEP ключ"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "Въвеждане на WPA предефиниран ключ"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "Въвеждане на SSID на скритата мрежа"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "Конфигуриране на мрежата: WLAN"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "Избор на EAP тип"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "Конфигуриране на мрежата: WEP ключ"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "Конфигуриране на мрежата: WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "Въвеждане на потребителско име"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "Потребителско име и парола"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "Конфигуриране на мрежата: WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "Конфигуриране на мрежата: WPA EAP PEAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "WPA EAP PEAP удостоверяване"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "Конфигуриране на мрежата: WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS удостоверяване"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "Конфигуриране на мрежата: WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS удостоверяване"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "Конфигуриране на мрежата: WPA EAP тип"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "Конфигуриране на мрежата: WPA ключ"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "Конфигуриране на защитена Wi-Fi"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr "Въвеждане на WPS предефиниран ключ"
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "Конфигуриране на защитена Wi-Fi PIN метод "
+
+msgid "conn_set_ti_conn_set"
+msgstr "Интернет връзки"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "Никога"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 минути"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 минути"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 минути"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 минути"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "Bluetooth"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "Bluetooth устройства"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "Промяна на EAP-MSCHAPv2 парола"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "Избор на мрежа"
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "Изключване или смяна на връзката"
+
+msgid "conn_ti_device_details"
+msgstr "Информация за устройство"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "Въвеждане на текущ PIN номер"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "Въвеждане на нов PIN номер"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "Въвеждане на PIN номер"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "Въвеждане на PUK номер"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "PIN за отключване на SIM картата"
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "Невалиден PIN номер"
+
+msgid "conn_ti_iap_select"
+msgstr "Запис на точката за достъп?"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "Въвеждане на PIN на точката за достъп"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "Сдвояване с устройство"
+
+msgid "conn_ti_phone_call"
+msgstr "Обаждане"
+
+msgid "conn_ti_phone_cpa"
+msgstr "Телефон"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "Мрежов трафик към оператора"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "Предупреждение при прехвърляне на данни"
+
+msgid "conn_ti_phone_network"
+msgstr "Мрежа"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "Мрежов трафик в роуминг"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "Избор на мрежа"
+
+msgid "conn_ti_phone_sim"
+msgstr "SIM карта"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "Повторно въвеждане на новия PIN номер"
+
+msgid "conn_ti_receive"
+msgstr "Получаване на файл"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "Въвеждане на EAP-GTC отговор"
+
+msgid "conn_ti_roaming"
+msgstr "Разрешаване на автоматичен пренос на данни при роуминг?"
+
+msgid "conn_ti_select_device"
+msgstr "Избор на устройство"
+
+msgid "conn_ti_send_to_device"
+msgstr "Изпращане до устройство"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "Разрешаване на автоматична мобилна връзка?"
+
+msgid "conn_ti_username_pw"
+msgstr "Потребителско име и парола"
+
+msgid "conn_va_phone_clir_network"
+msgstr "По избор на оператора"
+
+msgid "conn_va_phone_dc_never"
+msgstr "Никога"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "GSM/3G"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "Винаги разрешено"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "Винаги да се пита"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "Автоматично"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "Ръчно"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "Мобилни данни"
+
+msgid "conn_va_wps_complient"
+msgstr "Възможност за конфигуриране на защитена Wi-Fi"
+
+msgid "stab_me_bt"
+msgstr "Bluetooth"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "Скрит"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: видим"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "Получаванe ot %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "Изпращане към %s"
+
+msgid "stab_me_bt_off"
+msgstr "Изключен"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "Интернет връзка"
+
+msgid "stab_me_internet_disconnected"
+msgstr "Няма връзка"
+
+msgid "stab_me_internet_suspended"
+msgstr "Няма налична мобилната връзка"
