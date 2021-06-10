@@ -1,0 +1,1346 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2011-11-06 15:28+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_ap_connmanager"
+msgstr "مدیریت بر اتصال"
+
+msgid "conn_bd_device_details_connect"
+msgstr "اتصال"
+
+msgid "conn_bd_device_details_disconnect"
+msgstr "قطع اتصال"
+
+msgid "conn_bd_devices_delete"
+msgstr "پاک کردن"
+
+msgid "conn_bd_devices_edit"
+msgstr "ویرایش"
+
+msgid "conn_bd_devices_new"
+msgstr "جدید"
+
+msgid "conn_bd_dialog_devices"
+msgstr "دستگاه"
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr "تماس اضطراری"
+
+msgid "conn_bd_dialog_ok"
+msgstr "انتخاب"
+
+msgid "conn_bd_dialog_skip"
+msgstr "پریدن"
+
+msgid "conn_bd_pair"
+msgstr "جفت شدن"
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr "انتخاب تماس"
+
+msgid "conn_bd_phone_dc_reset"
+msgstr "پاک کردن"
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr "اخطار قطع"
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr "اتصال قطع شود"
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr "فعال کردن اخطار انتقال"
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr "شمارنده ی تاریخ شبکه "
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr "شمارنده ی تاریخ رومینگ شبکه"
+
+msgid "conn_bd_receive_ok"
+msgstr "ذخیره"
+
+msgid "conn_del_iap_fi_delete"
+msgstr "ارتباطات حذف شود؟\n%s"
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr "قطع ارتباط و حذف اتصال از؟ %s?"
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr "نام دستگاه من"
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr "نوکیا N900"
+
+msgid "conn_fi_bluetooth_on"
+msgstr "بولوتوث روشن"
+
+msgid "conn_fi_bluetooth_visible"
+msgstr "قابل رویت"
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr "نگارش رمز جدید"
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr "ارتباط"
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr "رمز جدید"
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr "رمز قدیمی"
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr "نام کاربری"
+
+msgid "conn_fi_disconnect_iap"
+msgstr " قطع ارتباط از %s"
+
+msgid "conn_fi_hidden_wlan"
+msgstr "وایرلس پنهان"
+
+msgid "conn_fi_iap_select_text"
+msgstr "تنظیمات اکسیس پوینت سلولی از اپراتور دریافت شده است.اکسیس پوینت را برای ذخیره انتخاب کنید\nبرای دریافت مجدد تنظیمات در آینده با اپراتور تماس بگیرید"
+
+msgid "conn_fi_no_conn_available"
+msgstr "ارتباطات در دسترس نیست"
+
+msgid "conn_fi_no_paired_devices"
+msgstr "(هیچ دستگاه مشابهی یافت نشد)"
+
+msgid "conn_fi_phone_call_divert"
+msgstr "تماس انتقال یافت"
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr "پس از گذشت 20 ثانیه  پاسخی داده نشد .در دسترس نیست یا اشغال است"
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr "انتقال یافت به"
+
+msgid "conn_fi_phone_call_waiting"
+msgstr "انتظار مکالمه"
+
+msgid "conn_fi_phone_dc_received"
+msgstr "دریافت شده"
+
+msgid "conn_fi_phone_dc_reset"
+msgstr "پاک شده"
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr "%c"
+
+msgid "conn_fi_phone_dc_sent"
+msgstr "ارسال"
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr "انتقال داده ها در شبکه خانگی"
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr "داده ها انتقال داده شد به شبکه ی رومینگ"
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr "هشدار نمایش داده شده برای هر"
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr "مگابایت"
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr "اطلاعات رومینگ"
+
+msgid "conn_fi_phone_network_mode"
+msgstr "حالت شبکه"
+
+msgid "conn_fi_phone_network_pin"
+msgstr "پین کد"
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr "پاسخ پین کد"
+
+msgid "conn_fi_phone_network_sel"
+msgstr "شبکه ی انتخاب شده"
+
+msgid "conn_fi_phone_send_call_id"
+msgstr "ارسال شناسه ی تماس من"
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr "تنظیمات اتصالات"
+
+msgid "conn_fi_receive_device"
+msgstr "دستگاه:"
+
+msgid "conn_fi_receive_file"
+msgstr "دریافت فایل از طریق بلوتوث"
+
+msgid "conn_fi_receive_file_file"
+msgstr "فایل:"
+
+msgid "conn_fi_receive_file_unknown"
+msgstr "ناشناخته"
+
+msgid "conn_fi_receive_open_and_save"
+msgstr "باز کردن فایل بعد از ذخیره"
+
+msgid "conn_fi_received_sent_byte"
+msgstr "%s بایت"
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr "%s گیگابایت"
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr "%s کیلوبایت"
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr "%s مگابایت"
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr "پاسخ"
+
+msgid "conn_iaps_bd_delete"
+msgstr "پاک کردن"
+
+msgid "conn_iaps_bd_done"
+msgstr "انجام"
+
+msgid "conn_iaps_bd_edit"
+msgstr "ویرایش"
+
+msgid "conn_iaps_bd_new"
+msgstr "جدید"
+
+msgid "conn_iaps_ti_connections"
+msgstr "اتصالات"
+
+msgid "conn_ib_ap_settings_updated"
+msgstr "تنظیمات اکسس پوینت آپدیت شد"
+
+msgid "conn_ib_bt_file_not_known"
+msgstr "نرم افزاری برای باز کردن فایل نیست"
+
+msgid "conn_ib_bt_set_on"
+msgstr "بلوتوث روشن شد"
+
+msgid "conn_ib_btdevice_connected"
+msgstr "اتصال یافت به %s"
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr "قطع شد از %s"
+
+msgid "conn_ib_compl_all"
+msgstr "ابتدا تمام فیلد های مورد نیاز را کامل نمایید"
+
+msgid "conn_ib_conn_name_in_use"
+msgstr "نام اتصال در حال استفاده"
+
+msgid "conn_ib_correct_pin"
+msgstr "پین کد درست است"
+
+msgid "conn_ib_enter_dialup_num"
+msgstr "اول عدد را شماره گیری کنید"
+
+msgid "conn_ib_enter_name"
+msgstr "وارد کردن نام"
+
+msgid "conn_ib_enter_valid_ip"
+msgstr "ابتدا آدرس آی پی معتبر وارد نمایید"
+
+msgid "conn_ib_flight_mode_activated"
+msgstr "حالت آفلاین فعال"
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr "جفت شدن کامل شد"
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr "در هنگام اتصال به اینترنت ، قادر به حذف کردن نمی‌باشد"
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr "پین کد نادرست است سیم کارت با پوک کد قفل شد "
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr "پین کد نادرست است"
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr "پین کد نادرست است\n %d تلاش باقی مانده"
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr "کد ها مطابقت ندارند"
+
+msgid "conn_ib_incorrect_puk"
+msgstr ""
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] ""
+
+msgid "conn_ib_invalid_number"
+msgstr "شماره نامعتبر"
+
+msgid "conn_ib_max_char_reached"
+msgstr "حداکثر تعداد کارکتر استفاده شده"
+
+msgid "conn_ib_maxval_reach"
+msgstr "حداکثر تعداد کارکتر استفاده شده"
+
+msgid "conn_ib_min8val_req"
+msgstr "حداقل 8 کارکتر باید وارد شود"
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr "اتصال بصورت خودکار غیر فعال شد"
+
+msgid "conn_ib_net_conn_not_found"
+msgstr "اتصالات بدون ذخیره در دسترس"
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr "رمز عبور جدید و تایید رمز عبور با هم مطابقت ندارند"
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr "رمز عبور قبلی اشتباه است."
+
+msgid "conn_ib_net_no_conn"
+msgstr "بدون اتصال فعال"
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr "بدون اتصال به تلفن در حال انجام"
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr "تلفن جفت نشد"
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr "هیچ اطلاعات ارتباطات تماسی ذخیره نشده است"
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr "بدون اتصال ذخیره شده"
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr "هیچ اطلاعات کانکشن تلفنی ذخیره نشده است"
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr "هیچ اطلاعات کانکشن جی‌پی‌آر‌اس‌ی ذخیره نشده است"
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr "هیچ اطلاعات کانکشن وای‌فای ذخیره نشده است"
+
+msgid "conn_ib_net_tx_to_10"
+msgstr "قدرت انتقال برای تمام اتصالات وایرلس به 10 میلی وات تغیر کرد"
+
+msgid "conn_ib_net_tx_to_100"
+msgstr "قدرت انتقال برای تمام اتصالات وایرلس به 100 میلی وات تغییر کرد"
+
+msgid "conn_ib_network_selected"
+msgstr "شبکه انتخاب شده : %s"
+
+msgid "conn_ib_no_conn_del"
+msgstr "اتصالی برای حذف وجود ندارد"
+
+msgid "conn_ib_no_conn_edit"
+msgstr "اتصالی برای ویرایش وجود ندارد"
+
+msgid "conn_ib_no_paired_devices"
+msgstr "دستگاهی برای جفت شدن نیست"
+
+msgid "conn_ib_normal_mode_activated"
+msgstr "حالت عادی فعال"
+
+msgid "conn_ib_not_available_bt_off"
+msgstr "هنگامی که بلوتوث خاموش است ، فعال نمی‌باشد"
+
+msgid "conn_ib_only_ascii_characters"
+msgstr "تنها کاراکتر های ASCII  مجاز می‌باشند"
+
+msgid "conn_ib_pairing_canceled"
+msgstr "جفت شدن لغو شد"
+
+msgid "conn_ib_receiving_canceled"
+msgstr "دریافت لغو شد"
+
+msgid "conn_ib_receiving_complete"
+msgstr "دریافت کامل شد"
+
+msgid "conn_ib_sending_canceled"
+msgstr "ارسال لغو شد"
+
+msgid "conn_ib_sending_complete"
+msgstr "ارسال کامل شد"
+
+msgid "conn_ib_settings_saved"
+msgstr "تنظیمات ذخیره شد"
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr "تنظیمات ذخیره شد. اتصال مجدد."
+
+msgid "conn_ib_suspended"
+msgstr "اطلاعات سلولی موجود نیست"
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr "کاراکتر اشتباه. اتمام کلید WEP."
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr "طول کلید WEP نامعتبر. اتمام کلید WEP"
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr "تایید ناموفق بود"
+
+msgid "conn_in_ap_settings_equal"
+msgstr "تنظیمات اکسیس پوینت آپدیت نمی‌باشند.تنظیمات دریافتی به همانند جاری تغییر یافت"
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr "A2DP"
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr "آدرس بلوتوث :"
+
+msgid "conn_li_device_details_d_dun"
+msgstr "DUN"
+
+msgid "conn_li_device_details_d_ftp"
+msgstr "FTP"
+
+msgid "conn_li_device_details_d_hfp"
+msgstr "HFP"
+
+msgid "conn_li_device_details_d_hid"
+msgstr "HID"
+
+msgid "conn_li_device_details_d_hsp"
+msgstr "HSP"
+
+msgid "conn_li_device_details_d_name"
+msgstr "نام دستگاه"
+
+msgid "conn_li_device_details_d_opp"
+msgstr "OPP"
+
+msgid "conn_li_device_details_d_profiles"
+msgstr "پروفایل های پشتیبانی شده : "
+
+msgid "conn_li_device_details_d_sap"
+msgstr "SAP"
+
+msgid "conn_li_device_details_d_spp"
+msgstr "SPP"
+
+msgid "conn_li_device_details_d_trust"
+msgstr "دستگاه مطمئن"
+
+msgid "conn_li_device_details_d_type"
+msgstr "نوع دستگاه:"
+
+msgid "conn_li_device_details_d_type_av"
+msgstr "صوتی/ویدئو"
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr "هندسفری"
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr "کامپیوتر"
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr "دوربین"
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr "چاپگر"
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr "اکسس پوینت شبکه / لن"
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr "لپ تاپ"
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr "متفرقه"
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr "PDA"
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr "ثانوی"
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr "صفحه کلید"
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr "تلفن"
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr "بدون گروه بندی مجموعه"
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr "تکرار کد همان است که در هر دو دستگاه نشان داده شده است :"
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr "جفت با دستگاه"
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr "تائید کد"
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr "قرار دادن به عنوان دستگاه قابل اعتماد"
+
+msgid "conn_li_select_device_resolving"
+msgstr "بازیابی نام دستگاه"
+
+msgid "conn_mngr_bd_change_iap"
+msgstr "تعویض"
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr "انتخاب اتصال"
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr "قطع اتصال"
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr "تایید"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr "آدرس دی ان اس اصلی:"
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr "متوسطه آدرس دی ان اس :"
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr "اتصال:"
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr "دروازه ها :"
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr "آدرس آی پی :"
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr "نقاب شبکه :"
+
+msgid "conn_mngr_dia_fi_none"
+msgstr "(خالی)"
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr "جزئیات آدرس آی پی."
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr "بدون اتصال"
+
+msgid "conn_mngr_fi_duration"
+msgstr "مدت زمان :"
+
+msgid "conn_mngr_fi_phone"
+msgstr "تلفن:"
+
+msgid "conn_mngr_fi_received"
+msgstr "دریافت :"
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr "%s بایت"
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr "%s گیگابایت"
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr "%s کیلوبایت"
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr "%s مگابایت"
+
+msgid "conn_mngr_fi_sent"
+msgstr "Sent:"
+
+msgid "conn_mngr_fi_signal"
+msgstr "سیگنال :"
+
+msgid "conn_mngr_fi_status"
+msgstr "وضعیت :"
+
+msgid "conn_mngr_fi_status_active"
+msgstr "اطلاعات در حال انتقال"
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr "اتصال"
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr "متصل"
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr "%s با استفاده از آدرس آی پی لینک محلی"
+
+msgid "conn_mngr_fi_status_none"
+msgstr "–"
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr "اتصال به اینترنت :"
+
+msgid "conn_mngr_fi_type"
+msgstr "نوع اتصال :"
+
+msgid "conn_mngr_fi_type_csd"
+msgstr "اطلاعات تماس با استفاده از تلفن"
+
+msgid "conn_mngr_fi_type_psd"
+msgstr "بسته اطلاعاتی با استفاده از تلفن"
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr "وایمکس"
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr "وایلن"
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr "وای‌فای اختصاصی"
+
+msgid "conn_mngr_me_bluetooth"
+msgstr "بلوتوث"
+
+msgid "conn_mngr_me_close"
+msgstr "بسته"
+
+msgid "conn_mngr_me_conn_help"
+msgstr "کمک"
+
+msgid "conn_mngr_me_conn_set"
+msgstr "تنظیمات اتصال به کامپیوتر"
+
+msgid "conn_mngr_me_conn_tools"
+msgstr "ابزار"
+
+msgid "conn_mngr_me_int_conn"
+msgstr "اتصال به اینترنت"
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr "تغییر اتصال"
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr "انتخاب اتصال"
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr "قطع اتصال"
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr "آدرس آی پی"
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr "تنظیمات جادویی اپراتور موبایل"
+
+msgid "conn_mngr_me_phone_change"
+msgstr "تلفن"
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr "قطع اتصال از طریق گوشی"
+
+msgid "conn_mngr_ti_title"
+msgstr "مدیریت ارتباط"
+
+msgid "conn_nc_bt_connect_device"
+msgstr "پذیرش ارتباط با دستگاه؟\n%s"
+
+msgid "conn_nc_bt_delete_device"
+msgstr "پاک کردن دستگاه؟\n%s"
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr "لغو کردن دریافت؟%s?"
+
+msgid "conn_nc_cancel_bt_send"
+msgstr "انصراف ارسال به %s?"
+
+msgid "conn_nc_incompatible_ap"
+msgstr "اتصال به اینترنت به شکست انجامید. شبکه وایرلس ناسازگار است.\nمجدد تلاش شود؟"
+
+msgid "conn_nc_pairing_failed"
+msgstr "جفت شدن ناموفق بود.\nتلاش دوباره؟"
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr "جفت شدن شکست خورده است. تأیید هویت شکست خورده است.\nتلاش دوباره؟"
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr "عملیات جفت سازی به شکست انجامید.احراز هویت دستگاه رد شد\nمجدد تلاش شود؟"
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr "جفت شدن شکست خورده است. منابع دستگاه فراتر رفته است.\nتلاش دوباره؟"
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr "عملیات جفت سازی به شکست انجامید.از زمان آخرین درخواست جفت سازی زمان زیادی سپری نشده است\nمجدد تلاش شود؟"
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr "عملیات جفت سازی به شکست انجامید.مدت زمان احراز حویت به اتمام رسید\nمجدد تلاش شود؟"
+
+msgid "conn_nc_phone_data_roaming"
+msgstr "مجوز رومینگ"
+
+msgid "conn_nc_power_saving_warning"
+msgstr "این تغییر مقدار قابل توجهی مصرف انرژِی را افزایش میدهد.\nتغییر می دهید؟"
+
+msgid "conn_nc_retry_connection"
+msgstr "اتصال به اینترنت شکست خورد\nتلاش دوباره؟"
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr "تأیید هویت شکست خورده است.\nتلاش دوباره؟"
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr "اتصال به دستگاه شکست خورد %s.\nتلاش دوباره؟"
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr "خطای اتصال به شبکه.\nتلاش دوباره؟"
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr "ریموت کردن سرور با ارور مواجه شد\nمجدد تلاش شود؟"
+
+msgid "conn_nc_roaming"
+msgstr "هنگامی که خارج از محدوده‌ی اپراتور خود هستید و کانکشن وایرلسی هم وجود نداشته باشد ، بصورت اتوماتیک حالت رومینگ فعال میشود\nآیا قبول میکنید؟\nبا انتخاب گزینه‌ی \" بله \" هنگامی که در حالت رومینگ باشید بصورت اتوماتیک کانکشنی ایجاد و حفظ خواهد شد.این ممکن است هزینه های اضافی را در بر داشته باشد\nبا انتخاب گزینه‌ی \" خیر \" هر زمان که اتصال به یک شبکه‌ی سلولی خارجی مورد نیاز باشد ، سریع به شما ارجاع میدهدشما می‌توانید این گزینه را در آینده از قسمت تنظیمات تغییر دهید"
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr "هنگامی که شبکه‌ی بی‌سیم در دسترس نباشد ، اتوماتیک پاکت اطلاعاتی داده ( کانکشن سلولی ) فعال شود؟\n\nبا انتخاب گزینه‌ی \" بله \" دستگاه بصورت اتوماتیک کانکشن اتصال داده ای ( مکانی که فعال باشد ) به اپراتور شبکه‌ی شما ، ساخته و حفظ می‌نماید\nبرای اطلاعات بیشتر با پشتیبانی فراهم کننده سرویس اپراتور خود تماس حاصل نمایید\nبا انتخاب گزینه‌ی \" خیر \" هر زمانی که کانکشن پاکت داده ای نیاز باشد ، شما مطلع خواهید شد\nشما می‌توانید این تنظیمات را در آینده از قسمت تنظیمات گوشی تغییر بدهید"
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr "خطا در اتصال به %s"
+
+msgid "conn_ni_link_local_ip"
+msgstr "اتصال به اینترنت به شکست انجامید. قادر به بازیابی آدرس آی پی را از روی سرور نمی‌باشد.\nتلاش دوباره؟"
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr "اتصال به اینترنت به شکست انجامید. قادر به بازیابی آدرس آی پی را از روی سرور نمی‌باشد. کلید WEP ممکن است نادرست باشد.\nتلاش دوباره؟"
+
+msgid "conn_ni_modem_failure"
+msgstr "قادر به اتصال به شبکه نمی‌باشد. با فراهم کننده سرویس خود تماس حاصل نمایید"
+
+msgid "conn_ni_no_access"
+msgstr "بدون دسترسی"
+
+msgid "conn_ni_no_bt"
+msgstr "خروج از حالت آفلاین؟"
+
+msgid "conn_ni_no_cell_network"
+msgstr "شبکه تلفن همراه در دسترس نیست"
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr "پین کد وارد نشده است.سیم کارت در دسترس نمی‌باشد"
+
+msgid "conn_ni_no_sim_card_in"
+msgstr "بدون سیم کارت وارد شدید"
+
+msgid "conn_ni_pairing_failed"
+msgstr "جفت شدن شکست خورده است."
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr "جفت شدن شکست خورده است. تأیید هویت شکست خورده است."
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr "عملیات جفت سازی با شکست مواجه شد.احراز حویت دستگاه رد شد"
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr "جفت شدن شکست خورده است. منابع دستگاه فراتر از حد رفته است."
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr "جفنت شدن شکست خورده است هنوز به اندازه ی کافی از تلاش اخر برای جفت شدن سپری نشده"
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr "عملیات جفت سازی با شکست مواجه شد.مدت زمان احراز حویت به اتمام رسید"
+
+msgid "conn_ni_select_network"
+msgstr "شبکه را در تنظیمات تلفن انتخاب کنید"
+
+msgid "conn_ni_sim_failure"
+msgstr "تمام کارکرد های تلفن از جمله تماس های اظطراری با توجه به یک خطای ارتباطی غیر فعال شدند.برای بازیابی این امکانات ، شما میبایست دستگاه را ریستارت نمایید"
+
+msgid "conn_ni_sim_lock"
+msgstr "قادر به استقاده از این سیم کارت در دستگاه نمی‌باشد"
+
+msgid "conn_ni_sim_not_accepted"
+msgstr "سیم کارت، پذیرفته نیست. با اپراتور خود تماس بگیرید"
+
+msgid "conn_ni_sim_reg_fail"
+msgstr "ثبت نام سیم کارت شکست خورد"
+
+msgid "conn_ni_sim_rejected"
+msgstr "سیم کارت را رد کرد"
+
+msgid "conn_pb_btdevice_connecting"
+msgstr "اتصال یافت به %s"
+
+msgid "conn_pb_connecting"
+msgstr "در حال اتصال"
+
+msgid "conn_pb_pairing"
+msgstr "در حال جفت شدن"
+
+msgid "conn_pb_searching"
+msgstr "در حال جستجو کردن"
+
+msgid "conn_pb_settings"
+msgstr "بازیابی تنظیمات"
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr "اتصالات"
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr "همیشه بخواهد"
+
+msgid "conn_set_fi_conn_set_any"
+msgstr "هر اتصال"
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr "اتصال به صورت خودکار"
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr "%s"
+
+msgid "conn_set_fi_conn_set_none"
+msgstr "هیچ کدام"
+
+msgid "conn_set_fi_conn_set_search"
+msgstr "فاصله‌ی هر جستجو"
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr "تغییر به وایرلس در صورت موجود بودن"
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr "وایرلس"
+
+msgid "conn_set_iap_bd_advanced"
+msgstr "جستجوی پیشرفته"
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr "نوع اتصال :"
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr "متد پین"
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr "دسترسی به اکسس پوینت"
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr "آدرس وب"
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr "بازیابی خودکار آدرس آی پی"
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr "آدرس دی ان اس اصلی"
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr "آدرس دی ان اس متوسطه"
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr "ادرس ای پی"
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr "دروازه پیش فرض"
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr "ماسک زیر شبکه"
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr "بازیابی خودکار دی ان اس"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr "اتوماتیک"
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr "کانال اختصاصی"
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr "صرفه جویی در برق"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr "( در حداکثر )"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr "( در متوسط )"
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr "خاموش"
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr "انتقال قدرت وایرلس"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr "ده میلی وات"
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr "صد میلی وات"
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr "WPA2 فقط حالت"
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr "آیا از پروکسی استفاده نمی کنید؟"
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr "اف تی پی پروکسی"
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr "پروکسی HTTP"
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr "پروکسی HTTPS"
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr "شماره پورت"
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr "conn_set_iap_fi_adv_proxies_rtsp"
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr "پیکربندی اتوماتیک"
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr "استفاده از پروکسی"
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr "اعلان رمز ورود در هر بار ورود به سیستم"
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr "نام اتصال"
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr "ارتباط %d"
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr "راه اندازی ارتباط کامل است.\nبرای پایان داده به تنظیمات و ذخیره‌ی آن گزینه‌ی \" پایان \" را فشار دهید و برای خارج شدن از تنظیمات و لغو آن خارج از محدوده را کلیک نمایید.\nبرای انجام پیشرفته تر تنظیمات گزینه‌ی \" تنظیمات پیشرفته \" را انتخاب نمایید"
+
+msgid "conn_set_iap_fi_password"
+msgstr "رمز ورود"
+
+msgid "conn_set_iap_fi_psd"
+msgstr "اطلاعات TapPacket"
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr "اسکن برای شبکه های موجود وایرلس؟"
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr "ناتوان از اسکن برای یافتن شبکه های بی سیم در حالت آفلاین.\nکانکشن را بصورت دستی وارد نمایید"
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr "برای ادامه دکمه‌ی \" بعدی \" را فشار دهید"
+
+msgid "conn_set_iap_fi_username"
+msgstr "نام کاربری"
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr "اتصال ویزارد به شما اجازه می دهد تا یک اتصال بی سیم بر روی دستگاه خود تعریف کنید"
+
+msgid "conn_set_iap_fi_wlan"
+msgstr "بی سیم"
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr "شبکه پنهان است"
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr "حالت شبکه"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr "تک کاره"
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr "زیرساخت"
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr "روش امنیتی"
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr "هیچ کدام"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr "WEP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr "WPA با EAP"
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr "قفل اشتراک گذاری WPA"
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr "نام شبکه (SSID)"
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr "اعلان رمز عبور در هر بار ورود به سیستم"
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr "نام کاربری دستی"
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr "SSID"
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr "شبکه"
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr "رمز عبور"
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr "روش EAP"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr "اجازه نامه مشتری"
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr "انتخاب گواهی"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr "روش EAP"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr "EAP GTC"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr "EAP MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr "MSCHAPv2"
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr "استفاده از نام کاربری دستی"
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr "نام کاربری"
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr "WEP کلید1"
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr "WEP کلید 2"
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr "WEP کلید 3"
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr "WEPکلید 4"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr "کلید پیشفرض WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr "1"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr "2"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr "3"
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr "4"
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr "طول کلید WEP"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr "پنج کاراکتر  (ASCII 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr "ده کاراکتر (HEX 40/64 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr " سیزده کاراکتر (ASCII 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr "بیست و شش کاراکتر (HEX 104/128 bits)"
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr "کلید WEP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr "PEAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr "TLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr "TTLS"
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr "نوع EAP"
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr "قفل اشتراک گذاری"
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr "دکمه ای را در ایستگاه وایرلس برای ساده کردن پروسه‌ی تنظیمات فشار دهید و روی \" انجام شد \" کلیک نمایید"
+
+msgid "conn_set_iap_fi_wlan_wps_passphrase"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr "ارقام آمده در ادامه را در ایستگاه وایرلس وارد نمایید و روی گزینه‌ی \" انجام شد \" کلیک کنید"
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr "رد کردن تنظیمات حفاظتی وای‌فای"
+
+msgid "conn_set_iap_ti_adv"
+msgstr "اتصال راه اندازی : تنظیمات پیشرفته"
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr "EAP"
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr "آدرس آی پی"
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr "دیگر"
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr "پروکسی"
+
+msgid "conn_set_iap_ti_finish"
+msgstr "اتصال راه اندازی : کامل"
+
+msgid "conn_set_iap_ti_name_type"
+msgstr "اتصال راه اندازی : نام و نوع"
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr "اتصال راه اندازی : اطلاعات بسته"
+
+msgid "conn_set_iap_ti_welcome"
+msgstr "اتصال راه اندازی : خوش آمدید"
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr "اتصال راه اندازی : وایلن"
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr "کلید WEP را وارد کنید"
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr "WPA را وارد کنید قبل از مشترک کلید"
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr "SSID شبکه‌ی مخفی را وارد نمایید"
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr "اتصال راه اندازی :وایلن"
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr "انتخاب نوع EAP"
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr "اتصال راه اندازی : کلید WEP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr "اتصال راه اندازی : WPA EAP GTC"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr "نام کاربر"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr "نام کاربری و رمز عبور"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr "اتصال راه اندازی : WPA EAP MSCHAPv2"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr "اتصال راه اندازی : PEAP WPA EAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr "EAP PEAP WPA و خروج"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr "اتصال راه اندازی : WPA EAP TLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr "WPA EAP TLS و خروج"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr "اتصال راه اندازی : WPA EAP TTLS"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr "WPA EAP TTLS authentication"
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr "اتصال راه اندازی : WPA نوع EAP"
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr "اتصال راه اندازی : کلید WPA"
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr "تنظیمات حفاظتی و امنیتی وای-فای"
+
+msgid "conn_set_iap_ti_wlan_wps_passphrase"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr "متد پین تنظیمات حفاظتی و امنیتی وای-فای"
+
+msgid "conn_set_ti_conn_set"
+msgstr "قابلیت اتصال به اینترنت"
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr "هرگز"
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr "5 دقیقه"
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr "10 دقیقه"
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr "30 دقیقه"
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr "60 دقیقه"
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr "بلوتوث"
+
+msgid "conn_ti_bluetooth_devices"
+msgstr "دستگاه بلوتوث"
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr "تغییر EAP - MSCHAPv2 رمز عبور"
+
+msgid "conn_ti_connect_dialog_title"
+msgstr "انتخاب اتصال "
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr "قطع اتصال و یا تغییر"
+
+msgid "conn_ti_device_details"
+msgstr "جزئیات دستگاه"
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr "پین کد فعلی را وارد کنید"
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr "پین کد جدید را وارد کنید"
+
+msgid "conn_ti_enter_pin_code"
+msgstr "پین کد را وارد کنید"
+
+msgid "conn_ti_enter_puk_code"
+msgstr "پوک کد را وارد کنید"
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr "برای حذف قفل اپراتور کد را وارد  کنید "
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr "پین کد نادرست است"
+
+msgid "conn_ti_iap_select"
+msgstr "اکسس پوینت ذخیره شود؟"
+
+msgid "conn_ti_iap_select_pin"
+msgstr "پین کد را برای ذخیره اکسیس پوینت وارد کنید"
+
+msgid "conn_ti_pair_with_dvc"
+msgstr "جفت با دستگاه"
+
+msgid "conn_ti_phone_call"
+msgstr "صدا"
+
+msgid "conn_ti_phone_cpa"
+msgstr "تلفن"
+
+msgid "conn_ti_phone_data_counter"
+msgstr "اطلاعات شبکه خانگی"
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr "هشدار انتقال داده ها"
+
+msgid "conn_ti_phone_network"
+msgstr "شبکه"
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr "اطلاعات رومینگ شبکه"
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr "انتخاب شبکه"
+
+msgid "conn_ti_phone_sim"
+msgstr "سیم کارت"
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr "دوباره پین کد جدید را وارد کنید"
+
+msgid "conn_ti_receive"
+msgstr "فایل دریافت شد"
+
+msgid "conn_ti_response_eap_gtc"
+msgstr "وارد EAP - GTC پاسخ"
+
+msgid "conn_ti_roaming"
+msgstr "فعال کردن خودکار اطلاعات رومینگ؟"
+
+msgid "conn_ti_select_device"
+msgstr "انتخاب دستگاه"
+
+msgid "conn_ti_send_to_device"
+msgstr "ارسال به یک دستگاه"
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr "کانکشن سلولی داده ها بصورت اتوماتیک فعال شود؟"
+
+msgid "conn_ti_username_pw"
+msgstr "نام کاربری و رمز ورود"
+
+msgid "conn_va_phone_clir_network"
+msgstr "اجازه دهید شبکه را انتخاب کند"
+
+msgid "conn_va_phone_dc_never"
+msgstr "هرگز"
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr "GSM"
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr "3G"
+
+msgid "conn_va_phone_network_mode_b"
+msgstr "Dual"
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr "همیشه اجازه می دهد"
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr "همیشه بخواهد"
+
+msgid "conn_va_phone_network_sel_a"
+msgstr "اتوماتیک"
+
+msgid "conn_va_phone_network_sel_m"
+msgstr "دستی"
+
+msgid "conn_va_placeholder_iap_name"
+msgstr "اطلاعات همراه"
+
+msgid "conn_va_wps_complient"
+msgstr "read this\n\nبی سیم راه اندازی حفاظت سازگار"
+
+msgid "stab_me_bt"
+msgstr "بلوتوث"
+
+msgid "stab_me_bt__device_hidden"
+msgstr "پنهان"
+
+msgid "stab_me_bt_device_visible"
+msgstr "%s: قابل رویت"
+
+msgid "stab_me_bt_file_receiving"
+msgstr "دریافت از %s"
+
+msgid "stab_me_bt_file_sending"
+msgstr "ارسال به %s"
+
+msgid "stab_me_bt_off"
+msgstr "خاموش"
+
+msgid "stab_me_internet_connected_to"
+msgstr "%s"
+
+msgid "stab_me_internet_connection"
+msgstr "اتصال به اینترنت"
+
+msgid "stab_me_internet_disconnected"
+msgstr "وصل نشده"
+
+msgid "stab_me_internet_suspended"
+msgstr "اطلاعات سلولی موجود نیست"
