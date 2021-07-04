@@ -892,6 +892,12 @@ msgstr "Subnet mask"
 msgid "conn_set_iap_fi_adv_ip_val1"
 msgstr "Auto-retrieve DNS"
 
+msgid "conn_set_iap_fi_adv_provider_type"
+msgstr "Provider type"
+
+msgid "conn_set_iap_fi_adv_provider_id"
+msgstr "Provider ID"
+
 msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
 msgstr "Automatic"
 
@@ -980,6 +986,18 @@ msgstr "Tap 'Next' to continue"
 
 msgid "conn_set_iap_fi_username"
 msgstr "User name"
+
+msgid "conn_set_iap_fi_dummy"
+msgstr "Dummy network"
+
+msgid "conn_set_iap_fi_adv_dummy_type"
+msgstr "Dummy type"
+
+msgid "conn_set_iap_ti_dummycreate"
+msgstr "Dummy network creation"
+
+msgid "conn_set_iap_fi_dummy_details"
+msgstr "Dummy network details"
 
 msgid "conn_set_iap_fi_welcome_text"
 msgstr ""
@@ -1149,8 +1167,14 @@ msgstr "IP Addresses"
 msgid "conn_set_iap_ti_adv_misc"
 msgstr "Other"
 
+msgid "conn_set_iap_ti_adv_dummy"
+msgstr "Dummy"
+
 msgid "conn_set_iap_ti_adv_proxies"
 msgstr "Proxies"
+
+msgid "conn_set_iap_ti_adv_providers"
+msgstr "Providers"
 
 msgid "conn_set_iap_ti_finish"
 msgstr "Connection setup: Complete"
