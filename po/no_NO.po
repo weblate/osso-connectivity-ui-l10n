@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: osso-connectivity-ui 20100104144742\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.01.04 14:47+0200\n"
-"PO-Revision-Date: 2021-08-07 20:18+0000\n"
+"PO-Revision-Date: 2021-08-08 01:35+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "maemo-leste/osso-connectivity-ui-l10n/nb_NO/>\n"
@@ -66,7 +66,7 @@ msgid "conn_bd_phone_network_data_counter"
 msgstr "Teller for hjemmenettverksdata"
 
 msgid "conn_bd_phone_roaming_network_data_counter"
-msgstr "Teller for roaming-nettverksdata"
+msgstr "Teller for gjestingsnettverksdata"
 
 msgid "conn_bd_receive_ok"
 msgstr "Lagre"
@@ -86,7 +86,7 @@ msgid "conn_fi_bluetooth_device_name_default"
 msgstr "Nokia N800"
 
 msgid "conn_fi_bluetooth_on"
-msgstr "Bluetooth på"
+msgstr "Blåtann på"
 
 msgid "conn_fi_bluetooth_visible"
 msgstr "Synlig"
@@ -152,7 +152,7 @@ msgid "conn_fi_phone_limit_dialog_home"
 msgstr "Data overført i hjemmenettverk"
 
 msgid "conn_fi_phone_limit_dialog_roaming"
-msgstr "Data overført i roaming-nettverk"
+msgstr "Data overført i gjestingsnettverk"
 
 msgid "conn_fi_phone_limit_display_warning"
 msgstr "Vis advarsel for hver"
@@ -161,7 +161,7 @@ msgid "conn_fi_phone_limit_megabyte"
 msgstr "MB"
 
 msgid "conn_fi_phone_network_data_roam"
-msgstr "Data-roaming"
+msgstr "Datagjesting"
 
 msgid "conn_fi_phone_network_mode"
 msgstr "Nettverksmodus"
@@ -233,7 +233,7 @@ msgid "conn_ib_bt_file_not_known"
 msgstr "Ingen programmer til å åpne denne filen med"
 
 msgid "conn_ib_bt_set_on"
-msgstr "Bluetooth aktivert"
+msgstr "Blåtann aktivert"
 
 msgid "conn_ib_btdevice_connected"
 msgstr "Koblet til %s"
@@ -355,7 +355,7 @@ msgid "conn_ib_normal_mode_activated"
 msgstr "Normal modus er aktivert"
 
 msgid "conn_ib_not_available_bt_off"
-msgstr "Ikke tilgjengelig når Bluetooth er deaktivert"
+msgstr "Ikke tilgjengelig når Blåtann er av"
 
 msgid "conn_ib_only_ascii_characters"
 msgstr "Bare ASCII-tegn er tillatt"
@@ -402,7 +402,7 @@ msgid "conn_li_device_details_d_a2dp"
 msgstr "A2DP"
 
 msgid "conn_li_device_details_d_bt_addr"
-msgstr "Bluetooth-adresse:"
+msgstr "Blåtannsadresse:"
 
 msgid "conn_li_device_details_d_dun"
 msgstr "DUN"
@@ -600,7 +600,7 @@ msgid "conn_mngr_fi_type_wlan_adhoc"
 msgstr "Ad-hoc-WLAN"
 
 msgid "conn_mngr_me_bluetooth"
-msgstr "Bluetooth"
+msgstr "Blåtann"
 
 msgid "conn_mngr_me_close"
 msgstr "Lukk"
@@ -694,7 +694,7 @@ msgstr ""
 "Prøv igjen?"
 
 msgid "conn_nc_phone_data_roaming"
-msgstr "Tillate data-roaming?"
+msgstr "Tillat datagjesting?"
 
 msgid "conn_nc_power_saving_warning"
 msgstr ""
@@ -1257,10 +1257,10 @@ msgid "conn_set_va_conn_set_search_5"
 msgstr "60 minutter"
 
 msgid "conn_ti_bluetooth_cpa"
-msgstr "Bluetooth"
+msgstr "Blåtann"
 
 msgid "conn_ti_bluetooth_devices"
-msgstr "Bluetooth-enheter"
+msgstr "Blåtannsenheter"
 
 msgid "conn_ti_change_eap_msc_pw"
 msgstr "Endre EAP-MSCHAPv2-passord"
@@ -1384,7 +1384,7 @@ msgid "conn_va_wps_complient"
 msgstr "Samsvar med Wi-Fi Protected Setup"
 
 msgid "stab_me_bt"
-msgstr "Bluetooth"
+msgstr "Blåtann"
 
 msgid "stab_me_bt__device_hidden"
 msgstr "Skjult"
