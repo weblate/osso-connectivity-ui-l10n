@@ -1,3 +1,9 @@
+osso-connectivity-ui-l10n (7.3.1) unreleased; urgency=medium
+
+  * New release with provider translation strings
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sat, 21 Aug 2021 12:45:27 +0200
+
 osso-connectivity-ui-l10n (7.3.0) unreleased; urgency=medium
 
   * Tag new release
