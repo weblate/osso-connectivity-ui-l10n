@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2024-04-19 00:03+0000\n"
+"PO-Revision-Date: 2024-04-29 03:07+0000\n"
 "Last-Translator: Nicoara Alex <alex.nicoara@yahoo.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-connectivity-ui-l10n/ro/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.5.1\n"
 
 msgid "conn_ap_connmanager"
 msgstr "Manager de conexiune"
@@ -25,40 +25,40 @@ msgid "conn_bd_device_details_connect"
 msgstr "Conectare"
 
 msgid "conn_bd_device_details_disconnect"
-msgstr "Disconnect"
+msgstr "Deconectare"
 
 msgid "conn_bd_devices_delete"
 msgstr "Delete"
 
 msgid "conn_bd_devices_edit"
-msgstr "Edit"
+msgstr "Editați"
 
 msgid "conn_bd_devices_new"
-msgstr "New"
+msgstr "Nou"
 
 msgid "conn_bd_dialog_devices"
-msgstr "Devices"
+msgstr "Dispozitive"
 
 msgid "conn_bd_dialog_emergency_call"
-msgstr "Emergency call"
+msgstr "Apel de urgență"
 
 msgid "conn_bd_dialog_ok"
-msgstr "Select"
+msgstr "Selectați"
 
 msgid "conn_bd_dialog_skip"
-msgstr "Skip"
+msgstr "Ocolire"
 
 msgid "conn_bd_pair"
-msgstr "Pair"
+msgstr "Pereche"
 
 msgid "conn_bd_phone_call_divert_contact"
-msgstr "Select contact"
+msgstr "Selectați contact"
 
 msgid "conn_bd_phone_dc_reset"
-msgstr "Clear"
+msgstr "Ștergeți"
 
 msgid "conn_bd_phone_limit_disable_warning"
-msgstr "Disable warning"
+msgstr "Dezactivați avertismentul"
 
 msgid "conn_bd_phone_limit_disconnect"
 msgstr "Disconnect now"
@@ -284,9 +284,9 @@ msgstr "Incorrect PUK code"
 
 msgid "conn_ib_incorrect_puk_final"
 msgid_plural "conn_ib_incorrect_puk"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Cod PUK incorect. %d încercare rămasă."
+msgstr[1] "Cod PUK incorect. %d încercări rămase."
+msgstr[2] "Cod PUK incorect. %d încercări rămase."
 
 msgid "conn_ib_invalid_number"
 msgstr "Invalid number"
