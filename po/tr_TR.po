@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: osso-connectivity-ui 20091102095704\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.07.13 12:17+0300\n"
-"PO-Revision-Date: 2021-05-26 07:18+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-connectivity-ui-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "conn_ap_connmanager"
 msgstr "Bağlantı yöneticisi"
@@ -30,10 +30,10 @@ msgid "conn_bd_devices_edit"
 msgstr "Düzenle"
 
 msgid "conn_bd_devices_new"
-msgstr "Cihazlar"
+msgstr "Yeni"
 
 msgid "conn_bd_dialog_devices"
-msgstr "Yeni"
+msgstr "Aygıtlar"
 
 msgid "conn_bd_dialog_emergency_call"
 msgstr "Acil arama"
@@ -80,7 +80,7 @@ msgid "conn_del_iap_fi_disconnect_delete"
 msgstr "%s bağlantısı kes ve sil?"
 
 msgid "conn_fi_bluetooth_device_name"
-msgstr "Cihazımın adı"
+msgstr "Aygıtımın adı"
 
 msgid "conn_fi_bluetooth_device_name_default"
 msgstr "Nokia N900"
@@ -119,7 +119,7 @@ msgid "conn_fi_no_conn_available"
 msgstr "Uygun bağlantı yok"
 
 msgid "conn_fi_no_paired_devices"
-msgstr "(eşleşmiş cihaz yok)"
+msgstr "(eşleşmiş aygıt yok)"
 
 msgid "conn_fi_phone_call_divert"
 msgstr "Arama aktarma"
@@ -179,7 +179,7 @@ msgid "conn_fi_placeholder_iap_settings"
 msgstr "Bağlantı ayarları"
 
 msgid "conn_fi_receive_device"
-msgstr "Cihaz:"
+msgstr "Aygıt:"
 
 msgid "conn_fi_receive_file"
 msgstr "Bluetooth üzerinden dosya al?"
@@ -289,10 +289,10 @@ msgid "conn_ib_invalid_number"
 msgstr "Geçersiz numara"
 
 msgid "conn_ib_max_char_reached"
-msgstr "Maksimum karakter limitine ulaşıldı"
+msgstr "En fazla karakter sayısına ulaşıldı"
 
 msgid "conn_ib_maxval_reach"
-msgstr "Maksimum karakter limitine ulaşıldı"
+msgstr "En fazla karakter sayısına ulaşıldı"
 
 msgid "conn_ib_min8val_req"
 msgstr "En az 8 karakter girilmeli"
@@ -349,7 +349,7 @@ msgid "conn_ib_no_conn_edit"
 msgstr "Düzenlenecek bağlantı yok"
 
 msgid "conn_ib_no_paired_devices"
-msgstr "Eşleşmiş cihaz yok"
+msgstr "Eşleştirilen aygıt yok"
 
 msgid "conn_ib_normal_mode_activated"
 msgstr "Normal mod aktifleşti"
@@ -418,7 +418,7 @@ msgid "conn_li_device_details_d_hsp"
 msgstr "HSP"
 
 msgid "conn_li_device_details_d_name"
-msgstr "Cihaz adı"
+msgstr "Aygıt adı"
 
 msgid "conn_li_device_details_d_opp"
 msgstr "OPP"
@@ -433,10 +433,10 @@ msgid "conn_li_device_details_d_spp"
 msgstr "SPP"
 
 msgid "conn_li_device_details_d_trust"
-msgstr "Güvenilen cihaz"
+msgstr "Güvenilen aygıt"
 
 msgid "conn_li_device_details_d_type"
-msgstr "Cihaz türü:"
+msgstr "Aygıt türü:"
 
 msgid "conn_li_device_details_d_type_av"
 msgstr "Ses/Video"
@@ -478,7 +478,7 @@ msgid "conn_li_device_details_d_type_uncat"
 msgstr "Kategorisiz"
 
 msgid "conn_li_pair_numeric_confirm"
-msgstr "Aynı kodun iki cihazda da göründüğünü onaylayın:"
+msgstr "Aynı kodun iki aygıtta da göründüğünü onaylayın:"
 
 msgid "conn_li_pair_with_dvc_name"
 msgstr "Aygıtla eşleştir"
@@ -487,10 +487,10 @@ msgid "conn_li_pair_with_dvc_passcd"
 msgstr "Erişim kodu"
 
 msgid "conn_li_pair_with_dvc_set_trust"
-msgstr "Güvenilen cihazlara ekle"
+msgstr "Güvenilen aygıtlara ekle"
 
 msgid "conn_li_select_device_resolving"
-msgstr "Cihaz ismi alınıyor"
+msgstr "Aygıt ismi alınıyor"
 
 msgid "conn_mngr_bd_change_iap"
 msgstr "Değiştir"
@@ -526,7 +526,7 @@ msgid "conn_mngr_dia_fi_none"
 msgstr "(hiç)"
 
 msgid "conn_mngr_dia_ti_ip_address"
-msgstr "IP adres detayları"
+msgstr "IP adresi ayrıntıları"
 
 msgid "conn_mngr_fi_conn_name_no_conn"
 msgstr "Bağlantı yok"
@@ -641,12 +641,12 @@ msgstr "Bağlantı yöneticisi"
 
 msgid "conn_nc_bt_connect_device"
 msgstr ""
-"Cihazla bağlantıyı kabul et?\n"
+"Aygıtla bağlantı kabul edilsin mi?\n"
 "%s"
 
 msgid "conn_nc_bt_delete_device"
 msgstr ""
-"Cihazı sil?\n"
+"Aygıt silinsin mi?\n"
 "%s"
 
 msgid "conn_nc_cancel_bt_receive"
@@ -672,13 +672,13 @@ msgstr ""
 
 msgid "conn_nc_pairing_failed_rejected"
 msgstr ""
-"Eşleşme başarısız. Cihaz kimlik denetimini reddetti.\n"
-"Tekrar dene?"
+"Eşleşme başarısız. Aygıt kimlik denetimini reddetti.\n"
+"Tekrar denensin mi?"
 
 msgid "conn_nc_pairing_failed_res_exceeded"
 msgstr ""
-"Eşleşme başarısız. Cihaz kaynakları aşıldı.\n"
-"Tekrar dene?"
+"Eşleşme başarısız. Aygıt kaynakları aşıldı.\n"
+"Tekrar denensin mi?"
 
 msgid "conn_nc_pairing_failed_time_elapsed"
 msgstr ""
@@ -710,8 +710,8 @@ msgstr ""
 
 msgid "conn_nc_retry_connection_gw_failed"
 msgstr ""
-"%s cihazına bağlantı başarısız.\n"
-"Tekrar dene?"
+"%s aygıtına bağlantı başarısız.\n"
+"Tekrar denensin mi?"
 
 msgid "conn_nc_retry_connection_network_error"
 msgstr ""
@@ -760,7 +760,7 @@ msgstr ""
 "Tekrar dene?"
 
 msgid "conn_ni_modem_failure"
-msgstr "Hücresel modem arızası. Servisle irtibata geçin."
+msgstr "Hücresel modem arızası. Hizmetle irtibata geçin."
 
 msgid "conn_ni_no_access"
 msgstr "Erişim yok"
@@ -784,10 +784,10 @@ msgid "conn_ni_pairing_failed_auth_failed"
 msgstr "Eşleşme başarısız. Kimlik denetimi başarısız."
 
 msgid "conn_ni_pairing_failed_rejected"
-msgstr "Eşleşme başarısız. Cihaz kimlik denetimini reddetti."
+msgstr "Eşleşme başarısız. Aygıt kimlik denetimini reddetti."
 
 msgid "conn_ni_pairing_failed_res_exceeded"
-msgstr "Eşleşme başarısız. Cihaz kaynakları aşıldı."
+msgstr "Eşleşme başarısız. Aygıt kaynakları aşıldı."
 
 msgid "conn_ni_pairing_failed_time_elapsed"
 msgstr "Eşleşme başarısız. Son denemeden sonra yeterli süre geçmedi."
@@ -799,10 +799,13 @@ msgid "conn_ni_select_network"
 msgstr "Telefon ayarlarından şebekeyi seçin."
 
 msgid "conn_ni_sim_failure"
-msgstr "Tüm telefon özellikleri, acil durum aramaları dahil iletişim hatası sebebiyle etkisizleştirildi. Çözmek için, cihazı yeniden başlatmanız gerekebilir."
+msgstr ""
+"Tüm telefon özellikleri, acil durum aramaları dahil iletişim hatası "
+"sebebiyle etkisizleştirildi. Çözmek için, aygıtı yeniden başlatmanız "
+"gerekebilir."
 
 msgid "conn_ni_sim_lock"
-msgstr "Cihazda bu SIM kart kullanılamıyor"
+msgstr "Aygıtta bu SIM kart kullanılamıyor"
 
 msgid "conn_ni_sim_not_accepted"
 msgstr "SIM kart kabul edilmedi. Operatörle irtibata geçin."
@@ -981,7 +984,9 @@ msgid "conn_set_iap_fi_username"
 msgstr "Kullanıcı adı"
 
 msgid "conn_set_iap_fi_welcome_text"
-msgstr "Bağlantı kurulum sihirbazı cihazınızda bir Wi-Fi bağlantısı tanımlamanızı sağlar"
+msgstr ""
+"Bağlantı kurulum sihirbazı aygıtınızda bir Wi-Fi bağlantısı tanımlamanızı "
+"sağlar"
 
 msgid "conn_set_iap_fi_wlan"
 msgstr "Wi-Fi"
@@ -1251,7 +1256,7 @@ msgid "conn_ti_bluetooth_cpa"
 msgstr "Bluetooth"
 
 msgid "conn_ti_bluetooth_devices"
-msgstr "Bluetooth cihazları"
+msgstr "Bluetooth aygıtları"
 
 msgid "conn_ti_change_eap_msc_pw"
 msgstr "EAP-MSCHAPv2 parolasını değiştir"
@@ -1263,7 +1268,7 @@ msgid "conn_ti_connect_disconnect_dialog_title"
 msgstr "Bağlantıyı kes veya değiştir"
 
 msgid "conn_ti_device_details"
-msgstr "Cihaz detayları"
+msgstr "Aygıt ayrıntıları"
 
 msgid "conn_ti_enter_current_pin_code"
 msgstr "Geçerli PIN kodunuzu girin"
@@ -1329,10 +1334,10 @@ msgid "conn_ti_roaming"
 msgstr "Otomatik veri dolaşımı aktifleşsin mi?"
 
 msgid "conn_ti_select_device"
-msgstr "Cihaz seçin"
+msgstr "Aygıt seçin"
 
 msgid "conn_ti_send_to_device"
-msgstr "Bir cihaza gönder"
+msgstr "Bir aygıta gönder"
 
 msgid "conn_ti_use_device_psd_auto"
 msgstr "Otomatik hücresel veri bağlantısı aktifleşsin mi?"
