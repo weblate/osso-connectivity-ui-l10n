@@ -1314,6 +1314,9 @@ msgstr "Select network"
 msgid "conn_ti_phone_sim"
 msgstr "SIM card"
 
+msgid "conn_ti_phone_modem"
+msgstr "Modem"
+
 msgid "conn_ti_re_enter_new_pin_code"
 msgstr "Re-enter new PIN code"
 
