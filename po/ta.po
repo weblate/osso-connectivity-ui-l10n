@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-connectivity-ui 20100104144742\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.01.04 14:47+0200\n"
+"PO-Revision-Date: 2010.01.04 14:47+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "conn_ap_connmanager"
+msgstr ""
+
+msgid "conn_bd_device_details_connect"
+msgstr ""
+
+msgid "conn_bd_device_details_disconnect"
+msgstr ""
+
+msgid "conn_bd_devices_delete"
+msgstr ""
+
+msgid "conn_bd_devices_edit"
+msgstr ""
+
+msgid "conn_bd_devices_new"
+msgstr ""
+
+msgid "conn_bd_dialog_devices"
+msgstr ""
+
+msgid "conn_bd_dialog_emergency_call"
+msgstr ""
+
+msgid "conn_bd_dialog_ok"
+msgstr ""
+
+msgid "conn_bd_dialog_skip"
+msgstr ""
+
+msgid "conn_bd_pair"
+msgstr ""
+
+msgid "conn_bd_phone_call_divert_contact"
+msgstr ""
+
+msgid "conn_bd_phone_dc_reset"
+msgstr ""
+
+msgid "conn_bd_phone_limit_disable_warning"
+msgstr ""
+
+msgid "conn_bd_phone_limit_disconnect"
+msgstr ""
+
+msgid "conn_bd_phone_limit_enable_warning"
+msgstr ""
+
+msgid "conn_bd_phone_network_data_counter"
+msgstr ""
+
+msgid "conn_bd_phone_roaming_network_data_counter"
+msgstr ""
+
+msgid "conn_bd_receive_ok"
+msgstr ""
+
+msgid "conn_del_iap_fi_delete"
+msgstr ""
+
+msgid "conn_del_iap_fi_disconnect_delete"
+msgstr ""
+
+msgid "conn_fi_bluetooth_device_name"
+msgstr ""
+
+msgid "conn_fi_bluetooth_device_name_default"
+msgstr ""
+
+msgid "conn_fi_bluetooth_on"
+msgstr ""
+
+msgid "conn_fi_bluetooth_visible"
+msgstr ""
+
+msgid "conn_fi_change_eap_msc_pw_confirmpw"
+msgstr ""
+
+msgid "conn_fi_change_eap_msc_pw_conn"
+msgstr ""
+
+msgid "conn_fi_change_eap_msc_pw_newpw"
+msgstr ""
+
+msgid "conn_fi_change_eap_msc_pw_oldpw"
+msgstr ""
+
+msgid "conn_fi_change_eap_msc_pw_username"
+msgstr ""
+
+msgid "conn_fi_disconnect_iap"
+msgstr ""
+
+msgid "conn_fi_hidden_wlan"
+msgstr ""
+
+msgid "conn_fi_iap_select_text"
+msgstr ""
+
+msgid "conn_fi_no_conn_available"
+msgstr ""
+
+msgid "conn_fi_no_paired_devices"
+msgstr ""
+
+msgid "conn_fi_phone_call_divert"
+msgstr ""
+
+msgid "conn_fi_phone_call_divert_note"
+msgstr ""
+
+msgid "conn_fi_phone_call_divert_to"
+msgstr ""
+
+msgid "conn_fi_phone_call_waiting"
+msgstr ""
+
+msgid "conn_fi_phone_dc_received"
+msgstr ""
+
+msgid "conn_fi_phone_dc_reset"
+msgstr ""
+
+msgid "conn_fi_phone_dc_reset_time"
+msgstr ""
+
+msgid "conn_fi_phone_dc_sent"
+msgstr ""
+
+msgid "conn_fi_phone_limit_dialog_home"
+msgstr ""
+
+msgid "conn_fi_phone_limit_dialog_roaming"
+msgstr ""
+
+msgid "conn_fi_phone_limit_display_warning"
+msgstr ""
+
+msgid "conn_fi_phone_limit_megabyte"
+msgstr ""
+
+msgid "conn_fi_phone_network_data_roam"
+msgstr ""
+
+msgid "conn_fi_phone_network_mode"
+msgstr ""
+
+msgid "conn_fi_phone_network_pin"
+msgstr ""
+
+msgid "conn_fi_phone_network_pin_request"
+msgstr ""
+
+msgid "conn_fi_phone_network_sel"
+msgstr ""
+
+msgid "conn_fi_phone_send_call_id"
+msgstr ""
+
+msgid "conn_fi_placeholder_iap_settings"
+msgstr ""
+
+msgid "conn_fi_receive_device"
+msgstr ""
+
+msgid "conn_fi_receive_file"
+msgstr ""
+
+msgid "conn_fi_receive_file_file"
+msgstr ""
+
+msgid "conn_fi_receive_file_unknown"
+msgstr ""
+
+msgid "conn_fi_receive_open_and_save"
+msgstr ""
+
+msgid "conn_fi_received_sent_byte"
+msgstr ""
+
+msgid "conn_fi_received_sent_gigabyte"
+msgstr ""
+
+msgid "conn_fi_received_sent_kilobyte"
+msgstr ""
+
+msgid "conn_fi_received_sent_megabyte"
+msgstr ""
+
+msgid "conn_fi_user_response_eap_gtc"
+msgstr ""
+
+msgid "conn_iaps_bd_delete"
+msgstr ""
+
+msgid "conn_iaps_bd_done"
+msgstr ""
+
+msgid "conn_iaps_bd_edit"
+msgstr ""
+
+msgid "conn_iaps_bd_new"
+msgstr ""
+
+msgid "conn_iaps_ti_connections"
+msgstr ""
+
+msgid "conn_ib_ap_settings_updated"
+msgstr ""
+
+msgid "conn_ib_bt_file_not_known"
+msgstr ""
+
+msgid "conn_ib_bt_set_on"
+msgstr ""
+
+msgid "conn_ib_btdevice_connected"
+msgstr ""
+
+msgid "conn_ib_btdevice_disconnected"
+msgstr ""
+
+msgid "conn_ib_compl_all"
+msgstr ""
+
+msgid "conn_ib_conn_name_in_use"
+msgstr ""
+
+msgid "conn_ib_correct_pin"
+msgstr ""
+
+msgid "conn_ib_enter_dialup_num"
+msgstr ""
+
+msgid "conn_ib_enter_name"
+msgstr ""
+
+msgid "conn_ib_enter_valid_ip"
+msgstr ""
+
+msgid "conn_ib_flight_mode_activated"
+msgstr ""
+
+msgid "conn_ib_gw_pairing_complete"
+msgstr ""
+
+msgid "conn_ib_iap_conn_no_del"
+msgstr ""
+
+msgid "conn_ib_incorrect_pin_0_tries"
+msgstr ""
+
+msgid "conn_ib_incorrect_pin_1_tries"
+msgstr ""
+
+msgid "conn_ib_incorrect_pin_2_tries"
+msgstr ""
+
+msgid "conn_ib_incorrect_pin_change"
+msgstr ""
+
+msgid "conn_ib_incorrect_puk_final"
+msgid_plural "conn_ib_incorrect_puk"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "conn_ib_invalid_number"
+msgstr ""
+
+msgid "conn_ib_max_char_reached"
+msgstr ""
+
+msgid "conn_ib_maxval_reach"
+msgstr ""
+
+msgid "conn_ib_min8val_req"
+msgstr ""
+
+msgid "conn_ib_net_auto_conn_off"
+msgstr ""
+
+msgid "conn_ib_net_conn_not_found"
+msgstr ""
+
+msgid "conn_ib_net_eap_msc_pw_error1"
+msgstr ""
+
+msgid "conn_ib_net_eap_msc_pw_error2"
+msgstr ""
+
+msgid "conn_ib_net_no_conn"
+msgstr ""
+
+msgid "conn_ib_net_no_conn_phone"
+msgstr ""
+
+msgid "conn_ib_net_no_paired_phone"
+msgstr ""
+
+msgid "conn_ib_net_no_saved_csd"
+msgstr ""
+
+msgid "conn_ib_net_no_saved_iaps"
+msgstr ""
+
+msgid "conn_ib_net_no_saved_phone_iaps"
+msgstr ""
+
+msgid "conn_ib_net_no_saved_psd"
+msgstr ""
+
+msgid "conn_ib_net_no_saved_wlan_iaps"
+msgstr ""
+
+msgid "conn_ib_net_tx_to_10"
+msgstr ""
+
+msgid "conn_ib_net_tx_to_100"
+msgstr ""
+
+msgid "conn_ib_network_selected"
+msgstr ""
+
+msgid "conn_ib_no_conn_del"
+msgstr ""
+
+msgid "conn_ib_no_conn_edit"
+msgstr ""
+
+msgid "conn_ib_no_paired_devices"
+msgstr ""
+
+msgid "conn_ib_normal_mode_activated"
+msgstr ""
+
+msgid "conn_ib_not_available_bt_off"
+msgstr ""
+
+msgid "conn_ib_only_ascii_characters"
+msgstr ""
+
+msgid "conn_ib_pairing_canceled"
+msgstr ""
+
+msgid "conn_ib_receiving_canceled"
+msgstr ""
+
+msgid "conn_ib_receiving_complete"
+msgstr ""
+
+msgid "conn_ib_sending_canceled"
+msgstr ""
+
+msgid "conn_ib_sending_complete"
+msgstr ""
+
+msgid "conn_ib_settings_saved"
+msgstr ""
+
+msgid "conn_ib_settings_saved_reconnect"
+msgstr ""
+
+msgid "conn_ib_suspended"
+msgstr ""
+
+msgid "conn_ib_wepkey_invalid_characters"
+msgstr ""
+
+msgid "conn_ib_wepkey_invalid_length"
+msgstr ""
+
+msgid "conn_ib_weppsk_auth_failed"
+msgstr ""
+
+msgid "conn_in_ap_settings_equal"
+msgstr ""
+
+msgid "conn_li_device_details_d_a2dp"
+msgstr ""
+
+msgid "conn_li_device_details_d_bt_addr"
+msgstr ""
+
+msgid "conn_li_device_details_d_dun"
+msgstr ""
+
+msgid "conn_li_device_details_d_ftp"
+msgstr ""
+
+msgid "conn_li_device_details_d_hfp"
+msgstr ""
+
+msgid "conn_li_device_details_d_hid"
+msgstr ""
+
+msgid "conn_li_device_details_d_hsp"
+msgstr ""
+
+msgid "conn_li_device_details_d_name"
+msgstr ""
+
+msgid "conn_li_device_details_d_opp"
+msgstr ""
+
+msgid "conn_li_device_details_d_profiles"
+msgstr ""
+
+msgid "conn_li_device_details_d_sap"
+msgstr ""
+
+msgid "conn_li_device_details_d_spp"
+msgstr ""
+
+msgid "conn_li_device_details_d_trust"
+msgstr ""
+
+msgid "conn_li_device_details_d_type"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_av"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_av_handsfree"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_compu"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_img_camera"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_img_printer"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_lanap"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_laptop"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_misc"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_pda"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_peri"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_peri_keyboard"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_phone"
+msgstr ""
+
+msgid "conn_li_device_details_d_type_uncat"
+msgstr ""
+
+msgid "conn_li_pair_numeric_confirm"
+msgstr ""
+
+msgid "conn_li_pair_with_dvc_name"
+msgstr ""
+
+msgid "conn_li_pair_with_dvc_passcd"
+msgstr ""
+
+msgid "conn_li_pair_with_dvc_set_trust"
+msgstr ""
+
+msgid "conn_li_select_device_resolving"
+msgstr ""
+
+msgid "conn_mngr_bd_change_iap"
+msgstr ""
+
+msgid "conn_mngr_bd_connect_iap"
+msgstr ""
+
+msgid "conn_mngr_bd_disconnect_iap"
+msgstr ""
+
+msgid "conn_mngr_dia_bd_ok"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_prim"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_adv_ip_dns_sec"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_conn_name"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_default_router"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_ip_address"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_ip_netmask"
+msgstr ""
+
+msgid "conn_mngr_dia_fi_none"
+msgstr ""
+
+msgid "conn_mngr_dia_ti_ip_address"
+msgstr ""
+
+msgid "conn_mngr_fi_conn_name_no_conn"
+msgstr ""
+
+msgid "conn_mngr_fi_duration"
+msgstr ""
+
+msgid "conn_mngr_fi_phone"
+msgstr ""
+
+msgid "conn_mngr_fi_received"
+msgstr ""
+
+msgid "conn_mngr_fi_received_sent_byte"
+msgstr ""
+
+msgid "conn_mngr_fi_received_sent_gigabyte"
+msgstr ""
+
+msgid "conn_mngr_fi_received_sent_kilobyte"
+msgstr ""
+
+msgid "conn_mngr_fi_received_sent_megabyte"
+msgstr ""
+
+msgid "conn_mngr_fi_sent"
+msgstr ""
+
+msgid "conn_mngr_fi_signal"
+msgstr ""
+
+msgid "conn_mngr_fi_status"
+msgstr ""
+
+msgid "conn_mngr_fi_status_active"
+msgstr ""
+
+msgid "conn_mngr_fi_status_connecting"
+msgstr ""
+
+msgid "conn_mngr_fi_status_inactive"
+msgstr ""
+
+msgid "conn_mngr_fi_status_linklocal"
+msgstr ""
+
+msgid "conn_mngr_fi_status_none"
+msgstr ""
+
+msgid "conn_mngr_fi_title_internet_connection"
+msgstr ""
+
+msgid "conn_mngr_fi_type"
+msgstr ""
+
+msgid "conn_mngr_fi_type_csd"
+msgstr ""
+
+msgid "conn_mngr_fi_type_psd"
+msgstr ""
+
+msgid "conn_mngr_fi_type_wimax"
+msgstr ""
+
+msgid "conn_mngr_fi_type_wlan"
+msgstr ""
+
+msgid "conn_mngr_fi_type_wlan_adhoc"
+msgstr ""
+
+msgid "conn_mngr_me_bluetooth"
+msgstr ""
+
+msgid "conn_mngr_me_close"
+msgstr ""
+
+msgid "conn_mngr_me_conn_help"
+msgstr ""
+
+msgid "conn_mngr_me_conn_set"
+msgstr ""
+
+msgid "conn_mngr_me_conn_tools"
+msgstr ""
+
+msgid "conn_mngr_me_int_conn"
+msgstr ""
+
+msgid "conn_mngr_me_int_conn_change_iap"
+msgstr ""
+
+msgid "conn_mngr_me_int_conn_connect_iap"
+msgstr ""
+
+msgid "conn_mngr_me_int_conn_disconnect_iap"
+msgstr ""
+
+msgid "conn_mngr_me_int_conn_ip_address"
+msgstr ""
+
+msgid "conn_mngr_me_operator_wizard"
+msgstr ""
+
+msgid "conn_mngr_me_phone_change"
+msgstr ""
+
+msgid "conn_mngr_me_phone_disconnect"
+msgstr ""
+
+msgid "conn_mngr_ti_title"
+msgstr ""
+
+msgid "conn_nc_bt_connect_device"
+msgstr ""
+
+msgid "conn_nc_bt_delete_device"
+msgstr ""
+
+msgid "conn_nc_cancel_bt_receive"
+msgstr ""
+
+msgid "conn_nc_cancel_bt_send"
+msgstr ""
+
+msgid "conn_nc_incompatible_ap"
+msgstr ""
+
+msgid "conn_nc_pairing_failed"
+msgstr ""
+
+msgid "conn_nc_pairing_failed_auth_failed"
+msgstr ""
+
+msgid "conn_nc_pairing_failed_rejected"
+msgstr ""
+
+msgid "conn_nc_pairing_failed_res_exceeded"
+msgstr ""
+
+msgid "conn_nc_pairing_failed_time_elapsed"
+msgstr ""
+
+msgid "conn_nc_pairing_failed_timeout"
+msgstr ""
+
+msgid "conn_nc_phone_data_roaming"
+msgstr ""
+
+msgid "conn_nc_power_saving_warning"
+msgstr ""
+
+msgid "conn_nc_retry_connection"
+msgstr ""
+
+msgid "conn_nc_retry_connection_auth_failed"
+msgstr ""
+
+msgid "conn_nc_retry_connection_gw_failed"
+msgstr ""
+
+msgid "conn_nc_retry_connection_network_error"
+msgstr ""
+
+msgid "conn_nc_retry_connection_remote_error"
+msgstr ""
+
+msgid "conn_nc_roaming"
+msgstr ""
+
+msgid "conn_nc_use_device_psd_auto"
+msgstr ""
+
+msgid "conn_ni_connecting_bt_failed"
+msgstr ""
+
+msgid "conn_ni_link_local_ip"
+msgstr ""
+
+msgid "conn_ni_link_local_ip_wep"
+msgstr ""
+
+msgid "conn_ni_modem_failure"
+msgstr ""
+
+msgid "conn_ni_no_access"
+msgstr ""
+
+msgid "conn_ni_no_bt"
+msgstr ""
+
+msgid "conn_ni_no_cell_network"
+msgstr ""
+
+msgid "conn_ni_no_pin_for_sim"
+msgstr ""
+
+msgid "conn_ni_no_sim_card_in"
+msgstr ""
+
+msgid "conn_ni_pairing_failed"
+msgstr ""
+
+msgid "conn_ni_pairing_failed_auth_failed"
+msgstr ""
+
+msgid "conn_ni_pairing_failed_rejected"
+msgstr ""
+
+msgid "conn_ni_pairing_failed_res_exceeded"
+msgstr ""
+
+msgid "conn_ni_pairing_failed_time_elapsed"
+msgstr ""
+
+msgid "conn_ni_pairing_failed_timeout"
+msgstr ""
+
+msgid "conn_ni_select_network"
+msgstr ""
+
+msgid "conn_ni_sim_failure"
+msgstr ""
+
+msgid "conn_ni_sim_lock"
+msgstr ""
+
+msgid "conn_ni_sim_not_accepted"
+msgstr ""
+
+msgid "conn_ni_sim_reg_fail"
+msgstr ""
+
+msgid "conn_ni_sim_rejected"
+msgstr ""
+
+msgid "conn_pb_btdevice_connecting"
+msgstr ""
+
+msgid "conn_pb_connecting"
+msgstr ""
+
+msgid "conn_pb_pairing"
+msgstr ""
+
+msgid "conn_pb_searching"
+msgstr ""
+
+msgid "conn_pb_settings"
+msgstr ""
+
+msgid "conn_set_bd_conn_set_conn"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_always_ask"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_any"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_conn_no_ask"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_device_psd"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_none"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_search"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_switch"
+msgstr ""
+
+msgid "conn_set_fi_conn_set_wlan"
+msgstr ""
+
+msgid "conn_set_iap_bd_advanced"
+msgstr ""
+
+msgid "conn_set_iap_bd_conn_type"
+msgstr ""
+
+msgid "conn_set_iap_bd_wlan_wps_pin"
+msgstr ""
+
+msgid "conn_set_iap_fi_accessp_name"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_autom_url"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_autoretr"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_dns_prim"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_dns_sec"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_ip"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_router"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_smask"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_ip_val1"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_provider_type"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_provider_id"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_auto"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_adhoc_ch"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_powersave"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_powersave_max"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_powersave_med"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_powersave_min"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_txpower"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_txpower_2"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_txpower_3"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_misc_wpa2"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_noproxyfor"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_proxies_ftp"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_proxies_http"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_proxies_https"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_proxies_port"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_proxies_rtsp"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_use_autom"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_useproxies"
+msgstr ""
+
+msgid "conn_set_iap_fi_ask_pw_every"
+msgstr ""
+
+msgid "conn_set_iap_fi_conn_name"
+msgstr ""
+
+msgid "conn_set_iap_fi_conn_name_default"
+msgstr ""
+
+msgid "conn_set_iap_fi_finish_text"
+msgstr ""
+
+msgid "conn_set_iap_fi_password"
+msgstr ""
+
+msgid "conn_set_iap_fi_psd"
+msgstr ""
+
+msgid "conn_set_iap_fi_scan_wlan"
+msgstr ""
+
+msgid "conn_set_iap_fi_scan_wlan_no"
+msgstr ""
+
+msgid "conn_set_iap_fi_tap_next"
+msgstr ""
+
+msgid "conn_set_iap_fi_username"
+msgstr ""
+
+msgid "conn_set_iap_fi_dummy"
+msgstr ""
+
+msgid "conn_set_iap_fi_adv_dummy_type"
+msgstr ""
+
+msgid "conn_set_iap_ti_dummycreate"
+msgstr ""
+
+msgid "conn_set_iap_fi_dummy_details"
+msgstr ""
+
+msgid "conn_set_iap_fi_welcome_text"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_mode"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_mode_infra"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_security"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_security_none"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_security_wep"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_eap"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_security_wpa_psk"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ap_ssid"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ask_pw"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_eap_id"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_hidden_ssid"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_network"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_password"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_peap_meth"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_peap_meth_gtc"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_peap_meth_mschapv2"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_req_cli_auth"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_sel_cert"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ttls_meth"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_gtc"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_ttls_meth_mschapv2_no_eap"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_use_man_eap_id"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_username"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_data1"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_data2"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_data3"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_data4"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_ind"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value1"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value2"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value3"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_ind_value4"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_length"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value1"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value2"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value3"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepk_length_value4"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wepkey"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_peap"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_tls"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_ttls"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wpa_eap_type_txt"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wps"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wps_pin"
+msgstr ""
+
+msgid "conn_set_iap_fi_wlan_wps_skip"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_eap"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_ip"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_misc"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_dummy"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_proxies"
+msgstr ""
+
+msgid "conn_set_iap_ti_adv_providers"
+msgstr ""
+
+msgid "conn_set_iap_ti_finish"
+msgstr ""
+
+msgid "conn_set_iap_ti_name_type"
+msgstr ""
+
+msgid "conn_set_iap_ti_packet_data"
+msgstr ""
+
+msgid "conn_set_iap_ti_welcome"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_ap"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_ent_wepkey"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_hidden"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_scanned"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_sel_wpa_eap_type"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wepkey"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_gtc"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_leap2"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_mschapv2"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_peap_auth"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_tls_auth"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_eap_type"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wpa_psk"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wps"
+msgstr ""
+
+msgid "conn_set_iap_ti_wlan_wps_pin"
+msgstr ""
+
+msgid "conn_set_ti_conn_set"
+msgstr ""
+
+msgid "conn_set_va_conn_set_search_1"
+msgstr ""
+
+msgid "conn_set_va_conn_set_search_2"
+msgstr ""
+
+msgid "conn_set_va_conn_set_search_3"
+msgstr ""
+
+msgid "conn_set_va_conn_set_search_4"
+msgstr ""
+
+msgid "conn_set_va_conn_set_search_5"
+msgstr ""
+
+msgid "conn_ti_bluetooth_cpa"
+msgstr ""
+
+msgid "conn_ti_bluetooth_devices"
+msgstr ""
+
+msgid "conn_ti_change_eap_msc_pw"
+msgstr ""
+
+msgid "conn_ti_connect_dialog_title"
+msgstr ""
+
+msgid "conn_ti_connect_disconnect_dialog_title"
+msgstr ""
+
+msgid "conn_ti_device_details"
+msgstr ""
+
+msgid "conn_ti_enter_current_pin_code"
+msgstr ""
+
+msgid "conn_ti_enter_new_pin_code"
+msgstr ""
+
+msgid "conn_ti_enter_pin_code"
+msgstr ""
+
+msgid "conn_ti_enter_puk_code"
+msgstr ""
+
+msgid "conn_ti_enter_sim_unlock_code"
+msgstr ""
+
+msgid "conn_ti_iap_pin_incorrect"
+msgstr ""
+
+msgid "conn_ti_iap_select"
+msgstr ""
+
+msgid "conn_ti_iap_select_pin"
+msgstr ""
+
+msgid "conn_ti_pair_with_dvc"
+msgstr ""
+
+msgid "conn_ti_phone_call"
+msgstr ""
+
+msgid "conn_ti_phone_cpa"
+msgstr ""
+
+msgid "conn_ti_phone_data_counter"
+msgstr ""
+
+msgid "conn_ti_phone_limit_dialog"
+msgstr ""
+
+msgid "conn_ti_phone_network"
+msgstr ""
+
+msgid "conn_ti_phone_roaming_data_counter"
+msgstr ""
+
+msgid "conn_ti_phone_sel_cell_network"
+msgstr ""
+
+msgid "conn_ti_phone_sim"
+msgstr ""
+
+msgid "conn_ti_re_enter_new_pin_code"
+msgstr ""
+
+msgid "conn_ti_receive"
+msgstr ""
+
+msgid "conn_ti_response_eap_gtc"
+msgstr ""
+
+msgid "conn_ti_roaming"
+msgstr ""
+
+msgid "conn_ti_select_device"
+msgstr ""
+
+msgid "conn_ti_send_to_device"
+msgstr ""
+
+msgid "conn_ti_use_device_psd_auto"
+msgstr ""
+
+msgid "conn_ti_username_pw"
+msgstr ""
+
+msgid "conn_va_phone_clir_network"
+msgstr ""
+
+msgid "conn_va_phone_dc_never"
+msgstr ""
+
+msgid "conn_va_phone_network_mode_2g"
+msgstr ""
+
+msgid "conn_va_phone_network_mode_3g"
+msgstr ""
+
+msgid "conn_va_phone_network_mode_b"
+msgstr ""
+
+msgid "conn_va_phone_network_roam_allow"
+msgstr ""
+
+msgid "conn_va_phone_network_roam_ask"
+msgstr ""
+
+msgid "conn_va_phone_network_sel_a"
+msgstr ""
+
+msgid "conn_va_phone_network_sel_m"
+msgstr ""
+
+msgid "conn_va_placeholder_iap_name"
+msgstr ""
+
+msgid "conn_va_wps_complient"
+msgstr ""
+
+msgid "stab_me_bt"
+msgstr ""
+
+msgid "stab_me_bt__device_hidden"
+msgstr ""
+
+msgid "stab_me_bt_device_visible"
+msgstr ""
+
+msgid "stab_me_bt_file_receiving"
+msgstr ""
+
+msgid "stab_me_bt_file_sending"
+msgstr ""
+
+msgid "stab_me_bt_off"
+msgstr ""
+
+msgid "stab_me_internet_connected_to"
+msgstr ""
+
+msgid "stab_me_internet_connection"
+msgstr ""
+
+msgid "stab_me_internet_disconnected"
+msgstr ""
+
+msgid "stab_me_internet_suspended"
+msgstr ""
