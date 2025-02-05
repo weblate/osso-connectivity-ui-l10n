@@ -6,16 +6,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2022-01-24 06:53+0000\n"
-"Last-Translator: yzqzss <yzqzss@yandex.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"maemo-leste/osso-connectivity-ui-l10n/zh_Hans/>\n"
+"PO-Revision-Date: 2025-02-06 21:02+0000\n"
+"Last-Translator: coio <ddllkl@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/maemo-leste/osso-connectivity-ui-l10n/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "conn_ap_connmanager"
 msgstr "连接管理"
@@ -126,7 +126,7 @@ msgid "conn_fi_phone_call_divert"
 msgstr "来电转接"
 
 msgid "conn_fi_phone_call_divert_note"
-msgstr "20秒内无回应,无应答或忙音."
+msgstr "20秒内无应答，无法接通或正忙"
 
 msgid "conn_fi_phone_call_divert_to"
 msgstr "转发给"
@@ -135,16 +135,16 @@ msgid "conn_fi_phone_call_waiting"
 msgstr "呼叫等待"
 
 msgid "conn_fi_phone_dc_received"
-msgstr "接收:"
+msgstr "收到"
 
 msgid "conn_fi_phone_dc_reset"
-msgstr "最后复位:"
+msgstr "清除"
 
 msgid "conn_fi_phone_dc_reset_time"
 msgstr "%c"
 
 msgid "conn_fi_phone_dc_sent"
-msgstr "发送:"
+msgstr "已发送"
 
 msgid "conn_fi_phone_limit_dialog_home"
 msgstr "于网络运营商网络中数据传输"
@@ -267,13 +267,13 @@ msgid "conn_ib_iap_conn_no_del"
 msgstr "连接至网络时无法删除"
 
 msgid "conn_ib_incorrect_pin_0_tries"
-msgstr "不正确的PIN码,SIM卡已被PUK码锁定"
+msgstr "不正确的PIN码,SIM卡已被PUK码锁定。"
 
 msgid "conn_ib_incorrect_pin_1_tries"
 msgstr "不正确的 PIN 码, 剩余 1 次尝试"
 
 msgid "conn_ib_incorrect_pin_2_tries"
-msgstr "不正确的 PIN 码, 剩余 2 次尝试"
+msgstr "不正确的 PIN 码, 剩余 2 次尝试。"
 
 msgid "conn_ib_incorrect_pin_change"
 msgstr "代码不匹配"
@@ -283,7 +283,7 @@ msgstr "PUK码不正确"
 
 msgid "conn_ib_incorrect_puk_final"
 msgid_plural "conn_ib_incorrect_puk"
-msgstr[0] "不正确的 PUK 码, 剩余 %d 次尝试"
+msgstr[0] "不正确的 PUK 码, 剩余 %d 次尝试。"
 
 msgid "conn_ib_invalid_number"
 msgstr "号码无效"
@@ -385,7 +385,7 @@ msgid "conn_ib_suspended"
 msgstr "手机网络不可用"
 
 msgid "conn_ib_wepkey_invalid_characters"
-msgstr "无效的字符.检查WEP密钥"
+msgstr "无效的字符.检查WEP密钥."
 
 msgid "conn_ib_wepkey_invalid_length"
 msgstr "无效的WEP密钥的长度.检查WEP密钥"
@@ -481,7 +481,7 @@ msgid "conn_li_pair_numeric_confirm"
 msgstr "在两个设备上确认使用相同的代码:"
 
 msgid "conn_li_pair_with_dvc_name"
-msgstr "配对设备:"
+msgstr "配对设备"
 
 msgid "conn_li_pair_with_dvc_passcd"
 msgstr "密码"
@@ -667,7 +667,9 @@ msgid "conn_nc_pairing_failed_res_exceeded"
 msgstr "配对失败.设备资源超过.\n重试?"
 
 msgid "conn_nc_pairing_failed_time_elapsed"
-msgstr "配对失败.重试?"
+msgstr ""
+"配对失败.\n"
+"重试?"
 
 msgid "conn_nc_pairing_failed_timeout"
 msgstr "配对失败.验证超时.\n重试?"
@@ -685,7 +687,9 @@ msgid "conn_nc_retry_connection_auth_failed"
 msgstr "验证失败.\n重试?"
 
 msgid "conn_nc_retry_connection_gw_failed"
-msgstr "连接失败到设备重试?"
+msgstr ""
+"连接设备%s失败\n"
+"重试?"
 
 msgid "conn_nc_retry_connection_network_error"
 msgstr "网络连接错误.\n重试?"
@@ -694,25 +698,37 @@ msgid "conn_nc_retry_connection_remote_error"
 msgstr "远程服务器错误.\n重试?"
 
 msgid "conn_nc_roaming"
-msgstr "当您的手机无法接收您的手机网络运营商以及Wifi信号时\n选择'是'来自动创建和维护一个数据连接(漫游).这可能涉及额外费用.\n选择'否'则会在出现上述情况时"
+msgstr ""
+"当您的手机超出运营商网络以及\n"
+"无WiFi信号时自动启用移动数据(漫游)？\n"
+"\n"
+"选择'是'来自动启用移动数据连接(漫游).这可能涉及额外费用。选择'否'则您需要连接"
+"漫游网络时会给出提醒。此选项稍后可以更改\n"
+"通过’设置‘。"
 
 msgid "conn_nc_use_device_psd_auto"
-msgstr "当您的手机无法接收您的手机网络运营商以及Wifi信号时\n选择'是'来自动创建和维护一个分组数据连接(漫游).请向您的手机网络运营商咨询网络数据传输的相关费用.\n选择'否'则会在出现上述情况时"
+msgstr ""
+" 当无WiFi连接可用时自动启用移动数据连接？\n"
+"选择'是'来自动启用移动数据连接(漫游).请向您的手机网络运营商咨询移动数据传输的"
+"相关费用.\n"
+"选择'否'则会在需要移动数据时收到提示。你可以稍后通过设置更改此项。"
 
 msgid "conn_ni_connecting_bt_failed"
-msgstr "连接至失败 %s"
+msgstr "连接至 %s 失败"
 
 msgid "conn_ni_link_local_ip"
 msgstr "网络连接失败.无法获取IP地址.\n重试?"
 
 msgid "conn_ni_link_local_ip_wep"
-msgstr "网络连接失败.无法获取IP地址.重试?"
+msgstr ""
+"网络连接失败.无法获取IP地址.WEP密钥可能不正确\n"
+"重试?"
 
 msgid "conn_ni_modem_failure"
 msgstr "GPRS调制解调器故障.联系服务商."
 
 msgid "conn_ni_no_access"
-msgstr "没有访问"
+msgstr "无网络访问权限"
 
 msgid "conn_ni_no_bt"
 msgstr "退出飞行模式?"
@@ -736,25 +752,25 @@ msgid "conn_ni_pairing_failed_rejected"
 msgstr "配对失败.设备拒绝验证."
 
 msgid "conn_ni_pairing_failed_res_exceeded"
-msgstr "配对失败.设备资源超出."
+msgstr "配对失败.超出设备资源."
 
 msgid "conn_ni_pairing_failed_time_elapsed"
-msgstr "配对失败. 没有足够时间去尝试自上次配对失败t."
+msgstr "配对失败. 自上次配对尝试后没有足够连接时间."
 
 msgid "conn_ni_pairing_failed_timeout"
 msgstr "配对失败.验证超时."
 
 msgid "conn_ni_select_network"
-msgstr "选择网络电话设置"
+msgstr "在电话设置中选择网络."
 
 msgid "conn_ni_sim_failure"
-msgstr "所有电话功能包括紧急电话因通讯错误而关闭, 你需要重新启动设备来恢复"
+msgstr "所有电话功能(包括紧急通话)因通讯功能错误而禁用, 你需要重新启动设备来恢复."
 
 msgid "conn_ni_sim_lock"
-msgstr "设备无法使用这种SIM卡"
+msgstr "无法使用插入的SIM卡"
 
 msgid "conn_ni_sim_not_accepted"
-msgstr "SIM卡未被接受.请联系您的运营商"
+msgstr "SIM卡未被接受.请联系您的运营商."
 
 msgid "conn_ni_sim_reg_fail"
 msgstr "SIM卡注册失败"
@@ -904,13 +920,16 @@ msgid "conn_set_iap_fi_conn_name_default"
 msgstr "连接 %d"
 
 msgid "conn_set_iap_fi_finish_text"
-msgstr "连接设置完成.\n点击点击"
+msgstr ""
+"连接设置完成.\n"
+"点击'完成' 保存并关闭对话框.\n"
+"点击’高级‘ 编辑高级设置."
 
 msgid "conn_set_iap_fi_password"
 msgstr "密码"
 
 msgid "conn_set_iap_fi_psd"
-msgstr "GPRS"
+msgstr "移动数据"
 
 msgid "conn_set_iap_fi_scan_wlan"
 msgstr "扫描可用的Wi-Fi网络?"
@@ -931,13 +950,13 @@ msgid "conn_set_iap_fi_wlan"
 msgstr "Wi-Fi"
 
 msgid "conn_set_iap_fi_wlan_ap_hidden_ssid"
-msgstr "网络为隐藏"
+msgstr "隐藏网络"
 
 msgid "conn_set_iap_fi_wlan_ap_mode"
 msgstr "网络模式"
 
 msgid "conn_set_iap_fi_wlan_ap_mode_adhoc"
-msgstr "Ad hoc"
+msgstr "Ad-hoc"
 
 msgid "conn_set_iap_fi_wlan_ap_mode_infra"
 msgstr "基础网络"
@@ -1069,16 +1088,16 @@ msgid "conn_set_iap_fi_wlan_wpa_psk_txt"
 msgstr "预共享密钥"
 
 msgid "conn_set_iap_fi_wlan_wps"
-msgstr "在无线下点击按钮来启动简易安装过程然后点击'完成'"
+msgstr "在无线AP上点击按钮来启动简易安装过程(WPS)，然后点击'完成'"
 
 msgid "conn_set_iap_fi_wlan_wps_passphrase"
 msgstr "预共享密钥"
 
 msgid "conn_set_iap_fi_wlan_wps_pin"
-msgstr "在无线电台上输入以下的数字然后点击'完成':"
+msgstr "在无线路由器上输入以下数字，然后点击'完成':"
 
 msgid "conn_set_iap_fi_wlan_wps_skip"
-msgstr "略过 Wi-Fi 保护设定"
+msgstr "跳过 Wi-Fi 保护设置"
 
 msgid "conn_set_iap_ti_adv"
 msgstr "连接设置：高级设置"
@@ -1102,7 +1121,7 @@ msgid "conn_set_iap_ti_name_type"
 msgstr "连接设置：名称和类型"
 
 msgid "conn_set_iap_ti_packet_data"
-msgstr "连接设置：GPRS"
+msgstr "连接设置：移动数据"
 
 msgid "conn_set_iap_ti_welcome"
 msgstr "连接设置：欢迎"
@@ -1117,7 +1136,7 @@ msgid "conn_set_iap_ti_wlan_ent_wpa_psk"
 msgstr "输入的WPA预共享密钥"
 
 msgid "conn_set_iap_ti_wlan_hidden"
-msgstr "输入隐藏的SSID网"
+msgstr "输入隐藏无线网络的SSID"
 
 msgid "conn_set_iap_ti_wlan_scanned"
 msgstr "连接设置：无线网络"
@@ -1159,7 +1178,7 @@ msgid "conn_set_iap_ti_wlan_wpa_eap_ttls_auth"
 msgstr "WPA EAP TTLS 认证"
 
 msgid "conn_set_iap_ti_wlan_wpa_eap_type"
-msgstr "连接设置：WPA的EAP类型"
+msgstr "连接设置：WPA EAP类型"
 
 msgid "conn_set_iap_ti_wlan_wpa_psk"
 msgstr "连接设置：WPA密钥"
@@ -1171,7 +1190,7 @@ msgid "conn_set_iap_ti_wlan_wps_passphrase"
 msgstr "输入 WPS 预共享密钥"
 
 msgid "conn_set_iap_ti_wlan_wps_pin"
-msgstr "Wi-Fi受保护,请设置密码"
+msgstr "使用PIN方式设置WPS "
 
 msgid "conn_set_ti_conn_set"
 msgstr "网络连接"
@@ -1346,3 +1365,6 @@ msgstr "无连接"
 
 msgid "stab_me_internet_suspended"
 msgstr "蜂窝数据不可用"
+
+msgid "conn_ti_phone_modem"
+msgstr "调制模块"
